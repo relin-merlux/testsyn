@@ -26,7 +26,7 @@ published: true
         <div class="shop-search">
           <label>SEARCH</label>
           <i class="glyphicon glyphicon-search"></i> </div>
-        <a href="#" class="btn wishlist-btn"><i class="glyphicon glyphicon-heart"></i>wishlist <span>(0)</span></a>
+        <a href="/wishlist" class="btn wishlist-btn"><i class="glyphicon glyphicon-heart"></i>wishlist <span>(0)</span></a>
       </div>
     </div>
   </div>
