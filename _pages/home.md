@@ -65,10 +65,10 @@ published: true
     <div class="col-md-9">[product_category category="main-offer" columns="3"]</div>
   </div>
   <div class="row">
-    <div class="col-sm-12">[product_category category="bonus-credit" columns="3"]</div>
+    <div class="col-sm-12">[product_category category="bonus-credit" columns="4"]</div>
   </div>
   <div class="row">
-    <div class="col-sm-12">[product_category category="reward-points" columns="3"]</div>
+    <div class="col-sm-12">[product_category category="reward-points" columns="4"]</div>
   </div>
 </div>
 <script>
