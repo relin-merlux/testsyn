@@ -65,9 +65,11 @@ published: true
     <div class="col-md-9">[product_category category="main-offer" columns="3"]</div>
   </div>
   <div class="row">
+  <div class="categoryHd"><h1 class="lcolor2">SPEND YOUR BONUS CREDIT</h1></div>
     <div class="col-sm-12">[product_category category="bonus-credit" columns="4"]</div>
   </div>
   <div class="row">
+  <div class="categoryHd"><h1 class="blue2">Use your reward points</h1></div>
     <div class="col-sm-12">[product_category category="reward-points" columns="4"]</div>
   </div>
 </div>
