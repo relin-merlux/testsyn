@@ -9,4 +9,4 @@ permalink: >
   http://www.ecommerce.lotto-social.com/test/
 published: true
 ---
-test
+testing syn
