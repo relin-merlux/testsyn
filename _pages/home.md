@@ -62,7 +62,7 @@ published: true
   </div>
   <div class="row">
     <div class="col-md-3">[do_widget id=woocommerce_product_categories-3][do_widget id=woocommerce_recently_viewed_products-3]</div>
-    <div class="col-md-9">[recent_products columns="3"]</div>
+    <div class="col-md-9">[product_category category="main-offer" columns="3"]</div>
   </div>
 </div>
 <script>
