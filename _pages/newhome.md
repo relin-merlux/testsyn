@@ -29,9 +29,7 @@ Reward Points
 <a class="btn btn-success expressBtn" href="#">Express buy</a>
 <div class="shop-search"><label>SEARCH</label>
 <i class="glyphicon glyphicon-search"></i></div>
-<a class="btn wishlist-btn" href="/wishlist"><i class="glyphicon glyphicon-heart"></i>wishlist (0)</a>
-
-</div>
+<a class="btn wishlist-btn" href="/wishlist"><i class="glyphicon glyphicon-heart"></i>wishlist ([wishlist_count])</a></div>
 </div>
 </div>
 <div class="row shop-search-bar"><input class="form-control" type="search" placeholder="Search" />
