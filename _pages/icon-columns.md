@@ -1,7 +1,7 @@
 ---
 ID: 969
 post_title: Icon columns
-author: null
+author: olu
 post_date: 2014-06-09 13:23:49
 post_excerpt: ""
 layout: page

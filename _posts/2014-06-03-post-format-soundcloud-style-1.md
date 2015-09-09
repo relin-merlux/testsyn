@@ -1,7 +1,7 @@
 ---
 ID: 54
 post_title: 'Post format SoundCloud &#8211; Style 1'
-author: null
+author: olu
 post_date: 2014-06-03 09:11:23
 post_excerpt: ""
 layout: post

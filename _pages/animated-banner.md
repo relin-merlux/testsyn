@@ -1,7 +1,7 @@
 ---
 ID: 762
 post_title: Animated Banner
-author: null
+author: olu
 post_date: 2014-06-06 12:57:45
 post_excerpt: ""
 layout: page

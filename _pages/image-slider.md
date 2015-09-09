@@ -1,7 +1,7 @@
 ---
 ID: 993
 post_title: Image Slider
-author: null
+author: olu
 post_date: 2014-06-09 14:31:35
 post_excerpt: ""
 layout: page

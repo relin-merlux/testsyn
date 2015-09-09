@@ -1,7 +1,7 @@
 ---
 ID: 259
 post_title: Blog Section
-author: null
+author: olu
 post_date: 2014-06-03 15:22:17
 post_excerpt: ""
 layout: page

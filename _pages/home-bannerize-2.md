@@ -1,7 +1,7 @@
 ---
 ID: 685
 post_title: 'Home Bannerize #2'
-author: null
+author: olu
 post_date: 2014-06-05 14:26:52
 post_excerpt: ""
 layout: page

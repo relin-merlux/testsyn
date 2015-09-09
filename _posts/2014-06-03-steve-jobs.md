@@ -1,7 +1,7 @@
 ---
 ID: 17
 post_title: Steve Jobs
-author: null
+author: olu
 post_date: 2014-06-03 08:06:03
 post_excerpt: ""
 layout: post

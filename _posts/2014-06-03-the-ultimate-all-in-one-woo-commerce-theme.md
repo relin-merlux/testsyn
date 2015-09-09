@@ -3,7 +3,7 @@ ID: 82
 post_title: >
   THE ULTIMATE ALL-IN-ONE WOO COMMERCE
   THEME
-author: null
+author: olu
 post_date: 2014-06-03 09:36:44
 post_excerpt: ""
 layout: post

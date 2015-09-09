@@ -1,7 +1,7 @@
 ---
 ID: 96
 post_title: Portfolio with sidebar
-author: null
+author: olu
 post_date: 2014-06-03 09:54:03
 post_excerpt: ""
 layout: page

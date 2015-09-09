@@ -1,7 +1,7 @@
 ---
 ID: 233
 post_title: Blog Small
-author: null
+author: olu
 post_date: 2014-06-03 14:55:25
 post_excerpt: ""
 layout: page

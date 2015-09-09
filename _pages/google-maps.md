@@ -1,7 +1,7 @@
 ---
 ID: 855
 post_title: Google Maps
-author: null
+author: olu
 post_date: 2014-06-09 09:39:11
 post_excerpt: ""
 layout: page
@@ -15,7 +15,7 @@ vc_teaser:
 ---
 [vc_row][vc_column width="1/1"][vc_column_text]
 <h3>GOOGLE MAP FULL WIDTH</h3>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][googlemap full_width="1" height="500" src="//maps.google.it/?ll=41.29085,12.71216&amp;spn=27.24047,49.350586&amp;t=m&amp;z=5" address="PADDINGTON STREET 135B, NEW YORK" info="WE' OPEN MONDAY_FRYDAY 8:00 A.M._7:30 P.M. EST"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][googlemap full_width="1" height="500" src="//maps.google.it/?ll=41.29085,12.71216&amp;spn=27.24047,49.350586&amp;t=m&amp;z=5" address="PADDINGTON STREET 135B, NEW YORK" info="WE\' OPEN MONDAY_FRYDAY 8:00 A.M._7:30 P.M. EST"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]
 <h3>GOOGLE MAP FULL SMALL</h3>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][googlemap full_width="0" height="500" src="//maps.google.it/?ll=41.29085,12.71216&amp;spn=27.24047,49.350586&amp;t=m&amp;z=5" address="PADDINGTON STREET 135B, NEW YORK" info="WE' OPEN MONDAY_FRYDAY 8:00 A.M._7:30 P.M. EST"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][box_title font_size="15" font_alignment="center" border="middle" border_color="#CDCDCD"]SHORTCODE ATTRIBUTES[/box_title][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]
 <ul>

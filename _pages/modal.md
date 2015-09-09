@@ -1,7 +1,7 @@
 ---
 ID: 868
 post_title: Modal
-author: null
+author: olu
 post_date: 2014-06-09 10:01:49
 post_excerpt: ""
 layout: page

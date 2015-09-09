@@ -1,7 +1,7 @@
 ---
 ID: 1067
 post_title: Logos Slider
-author: null
+author: olu
 post_date: 2014-06-10 09:13:28
 post_excerpt: ""
 layout: page

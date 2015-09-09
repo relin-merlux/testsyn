@@ -1,7 +1,7 @@
 ---
 ID: 1112
 post_title: Columns
-author: null
+author: olu
 post_date: 2014-06-10 10:35:51
 post_excerpt: ""
 layout: page

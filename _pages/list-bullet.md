@@ -1,7 +1,7 @@
 ---
 ID: 1055
 post_title: List bullet
-author: null
+author: olu
 post_date: 2014-06-10 08:39:51
 post_excerpt: ""
 layout: page

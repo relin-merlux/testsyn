@@ -3,7 +3,7 @@ ID: 85
 post_title: >
   DISCOUNTS UP TO 70% OFF UNTIL DECEMBER
   22
-author: null
+author: olu
 post_date: 2014-06-03 09:39:15
 post_excerpt: ""
 layout: post

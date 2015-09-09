@@ -1,7 +1,7 @@
 ---
 ID: 792
 post_title: Video
-author: null
+author: olu
 post_date: 2014-06-06 14:42:45
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 505
 post_title: Contact
-author: null
+author: olu
 post_date: 2014-06-04 14:01:11
 post_excerpt: ""
 layout: page

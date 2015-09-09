@@ -1,7 +1,7 @@
 ---
 ID: 908
 post_title: Recent Post
-author: null
+author: olu
 post_date: 2014-06-09 11:47:16
 post_excerpt: ""
 layout: page

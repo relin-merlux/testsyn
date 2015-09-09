@@ -1,7 +1,7 @@
 ---
 ID: 311
 post_title: 'Home #7'
-author: null
+author: olu
 post_date: 2014-06-04 08:05:44
 post_excerpt: ""
 layout: page

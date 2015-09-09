@@ -1,7 +1,7 @@
 ---
 ID: 598
 post_title: Home IV
-author: null
+author: olu
 post_date: 2014-06-05 08:31:20
 post_excerpt: ""
 layout: page

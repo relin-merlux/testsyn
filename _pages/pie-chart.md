@@ -1,7 +1,7 @@
 ---
 ID: 1080
 post_title: Pie Chart
-author: null
+author: olu
 post_date: 2014-06-10 09:59:24
 post_excerpt: ""
 layout: page

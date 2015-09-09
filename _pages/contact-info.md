@@ -1,7 +1,7 @@
 ---
 ID: 926
 post_title: Contact Info
-author: null
+author: olu
 post_date: 2014-06-09 12:20:51
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 1030
 post_title: Image Lightbox
-author: null
+author: olu
 post_date: 2014-06-09 15:56:05
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 940
 post_title: Counters
-author: null
+author: olu
 post_date: 2014-06-09 12:29:47
 post_excerpt: ""
 layout: page

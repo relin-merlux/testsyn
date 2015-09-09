@@ -1,7 +1,7 @@
 ---
 ID: 1076
 post_title: Tabs
-author: null
+author: olu
 post_date: 2014-06-10 09:41:52
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 140
 post_title: 'Testimonials #1'
-author: null
+author: olu
 post_date: 2014-06-03 12:33:39
 post_excerpt: ""
 layout: page

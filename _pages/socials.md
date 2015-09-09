@@ -1,7 +1,7 @@
 ---
 ID: 986
 post_title: Socials
-author: null
+author: olu
 post_date: 2014-06-09 14:24:54
 post_excerpt: ""
 layout: page

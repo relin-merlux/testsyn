@@ -1,7 +1,7 @@
 ---
 ID: 23
 post_title: Post format video vimeo
-author: null
+author: olu
 post_date: 2014-06-03 08:11:42
 post_excerpt: ""
 layout: post

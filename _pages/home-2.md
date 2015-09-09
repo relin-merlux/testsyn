@@ -1,7 +1,7 @@
 ---
 ID: 550
 post_title: Home 2
-author: null
+author: olu
 post_date: 2014-06-04 15:39:37
 post_excerpt: ""
 layout: page

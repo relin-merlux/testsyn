@@ -5,7 +5,8 @@ author: Olu
 post_date: 2014-10-01 14:19:48
 post_excerpt: ""
 layout: page
-permalink: http://www.ecommerce.lotto-social.com/
+permalink: >
+  http://www.ecommerce.lotto-social.com/newhome/
 published: true
 slide_template:
   - default

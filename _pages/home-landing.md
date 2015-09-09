@@ -1,7 +1,7 @@
 ---
 ID: 689
 post_title: Home Landing
-author: null
+author: olu
 post_date: 2014-06-05 14:31:34
 post_excerpt: ""
 layout: page

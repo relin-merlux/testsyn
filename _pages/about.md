@@ -1,7 +1,7 @@
 ---
 ID: 726
 post_title: About
-author: null
+author: olu
 post_date: 2014-06-06 07:23:36
 post_excerpt: ""
 layout: page

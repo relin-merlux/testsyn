@@ -1,7 +1,7 @@
 ---
 ID: 621
 post_title: 'Home Corporate #2'
-author: null
+author: olu
 post_date: 2014-06-05 10:35:01
 post_excerpt: ""
 layout: page

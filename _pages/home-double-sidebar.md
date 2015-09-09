@@ -1,7 +1,7 @@
 ---
 ID: 651
 post_title: Home Double Sidebar
-author: null
+author: olu
 post_date: 2014-06-05 12:54:48
 post_excerpt: ""
 layout: page

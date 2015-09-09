@@ -1,7 +1,7 @@
 ---
 ID: 1303
 post_title: Page Test
-author: null
+author: olu
 post_date: 2014-06-12 10:23:38
 post_excerpt: ""
 layout: page

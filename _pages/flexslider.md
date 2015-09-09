@@ -1,7 +1,7 @@
 ---
 ID: 853
 post_title: Flexslider
-author: null
+author: olu
 post_date: 2014-06-09 09:34:56
 post_excerpt: ""
 layout: page

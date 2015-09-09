@@ -1,7 +1,7 @@
 ---
 ID: 94
 post_title: Portfolio Pinterest
-author: null
+author: olu
 post_date: 2014-06-03 09:53:00
 post_excerpt: ""
 layout: page

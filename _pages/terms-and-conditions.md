@@ -1,7 +1,7 @@
 ---
 ID: 633
 post_title: Terms and Conditions
-author: null
+author: olu
 post_date: 2014-06-05 12:10:41
 post_excerpt: ""
 layout: page

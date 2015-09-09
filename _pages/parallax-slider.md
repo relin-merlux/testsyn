@@ -1,7 +1,7 @@
 ---
 ID: 1177
 post_title: Parallax Slider
-author: null
+author: olu
 post_date: 2014-06-10 13:07:03
 post_excerpt: ""
 layout: page

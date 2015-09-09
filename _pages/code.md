@@ -1,7 +1,7 @@
 ---
 ID: 923
 post_title: Code
-author: null
+author: olu
 post_date: 2014-06-09 12:16:22
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 75
 post_title: Amazing interface design
-author: null
+author: olu
 post_date: 2014-06-03 09:33:32
 post_excerpt: ""
 layout: post

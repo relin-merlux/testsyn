@@ -1,7 +1,7 @@
 ---
 ID: 809
 post_title: Quote
-author: null
+author: olu
 post_date: 2014-06-07 06:54:52
 post_excerpt: ""
 layout: page

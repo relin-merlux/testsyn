@@ -1,7 +1,7 @@
 ---
 ID: 1227
 post_title: Custom Popup
-author: null
+author: olu
 post_date: 2014-06-11 08:20:25
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 770
 post_title: Box Titles
-author: null
+author: olu
 post_date: 2014-06-06 13:03:17
 post_excerpt: ""
 layout: page

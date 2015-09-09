@@ -1,7 +1,7 @@
 ---
 ID: 343
 post_title: Team Section
-author: null
+author: olu
 post_date: 2014-06-04 08:52:29
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 1124
 post_title: Image Banners
-author: null
+author: olu
 post_date: 2014-06-10 10:58:00
 post_excerpt: ""
 layout: page

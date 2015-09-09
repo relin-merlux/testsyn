@@ -1,7 +1,7 @@
 ---
 ID: 351
 post_title: FAQS
-author: null
+author: olu
 post_date: 2014-06-04 09:05:26
 post_excerpt: ""
 layout: page
