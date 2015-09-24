@@ -51,4 +51,4 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-This Is New checkout page
+[list_of_cart_items]
