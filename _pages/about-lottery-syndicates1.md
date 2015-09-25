@@ -107,7 +107,7 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 </div>
 <h3 class="text-center">STILL NOT CLEAR?</h3>
 <p style="text-align: center;">Just watch our super easy video and learn more about Lotto-Social. We make it so easy for you…come on, what are you waiting for?!</p>
-<a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
+<button class="btn btn-link btn-block btn-default" type="button">
 Watch Video
 </button>
 </a>
