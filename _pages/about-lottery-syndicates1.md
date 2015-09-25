@@ -55,7 +55,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-[vc_row el_class="whitePaper"][vc_column width="1/1"][vc_column_text]<div class="container-fluid">
+[vc_row][vc_column width="1/1"][vc_column_text]<div class="container-fluid">
 <div class="row">
 <div class="col-md-12">
 <h2 class="bold blue">About Us</h2>
