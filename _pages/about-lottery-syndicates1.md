@@ -111,4 +111,8 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 Watch Video
 </button>
 </a>
-<script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text][/vc_column_text][/vc_column][/vc_row]
+<script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]
+
+footer_images_reg
+
+[/vc_column_text][/vc_column][/vc_row]
