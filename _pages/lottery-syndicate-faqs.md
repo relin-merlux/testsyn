@@ -56,7 +56,7 @@ ulp_onidle_popup_mobile:
   - default
 ---
 [vc_row el_class="whitePaper"][vc_column width="1/1"][vc_column_text]<?php //$user_logged = wp_custom_user_logged();
-$user_logged = true;
+$user_logged = is_user_logged_in();
  if($user_logged) { ?>
 <h2 class="bold blue">FAQ</h2>
 <div class="row">
