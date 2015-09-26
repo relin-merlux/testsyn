@@ -6,7 +6,7 @@ post_date: 2015-09-26 05:20:55
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/sample-test-page/
+  http://www.ecommerce.lotto-social.com/sample-test-page1/
 published: true
 ulp_version:
   - "4.9"
