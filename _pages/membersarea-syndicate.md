@@ -56,14 +56,14 @@ ulp_onidle_popup_mobile:
   - default
 ---
 [vc_row el_class="row memberNew pagesynd"][vc_column width="1/1"][vc_row_inner el_class="col-lg-12 padding-xs-zero"][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
-<div id="ticketWrapper">[my_syndicates1]</div>
+<div id="ticketWrapper">[my_syndicates]</div>
 [/vc_column_text][vc_column_text]
 
-[bonus_syndicates1]
+[bonus_syndicates]
 
 [/vc_column_text][vc_column_text]
 
-[previous_checks_mobile1]
+[previous_checks_mobile]
 
 [/vc_column_text][vc_column_text]
 <div id="hilton_banner" class="col-lg-12 whiteBg tc padding-xs imgFull"><a title="Get double entries by clicking here!" href="http://promo.lotto-social.com/spa-break/" target="_blank"><img src="https://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/spa_db_ent.jpg" alt="Get double entries by clicking here!" />
