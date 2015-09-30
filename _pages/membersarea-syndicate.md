@@ -74,7 +74,7 @@ ulp_onidle_popup_mobile:
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
 
-[ticket_handle1]
+[ticket_handle]
 
 [/vc_column_text][vc_column_text]
 
