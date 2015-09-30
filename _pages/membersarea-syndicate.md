@@ -70,14 +70,14 @@ ulp_onidle_popup_mobile:
 </a></div>
 [/vc_column_text][vc_column_text]
 
-[cant_see_your_ticket1]
+[cant_see_your_ticket]
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
 
-[ticket_handle]
+[ticket_handle1]
 
 [/vc_column_text][vc_column_text]
 
-[previous_checks1]
+[previous_checks]
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
