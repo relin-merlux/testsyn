@@ -51,6 +51,6 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-{%title_test%}<br>
-{%body_test%}<br>
-{%button1_test%}
+{%title_test%}
+{%body_test%}
+{%button1_test%} <div id="test_id"></div>
