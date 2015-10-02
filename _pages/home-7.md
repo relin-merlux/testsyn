@@ -55,3 +55,4 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
+[counter text="wow" text_color="#000000" text_size="20" number="999" number_size="100" number_color="#f7c104" percent="no" percent_color="#000000" icon_size="14" icon_color="#797979" animate="yes" animation_start_number="100" animation_duration="2000" animation_step="10" icon_type="theme-icon" icon_theme="apple" ]
