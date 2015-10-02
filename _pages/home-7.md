@@ -12,6 +12,48 @@ vc_teaser:
   - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
 slide_template:
   - ""
+ulp_version:
+  - "4.9"
+ulp_onload_mode:
+  - default
+ulp_onload_period:
+  - "5"
+ulp_onload_delay:
+  - "0"
+ulp_onload_close_delay:
+  - "0"
+ulp_onload_popup:
+  - default
+ulp_onload_popup_mobile:
+  - default
+ulp_onexit_mode:
+  - default
+ulp_onexit_period:
+  - "5"
+ulp_onexit_popup:
+  - default
+ulp_onexit_popup_mobile:
+  - default
+ulp_onscroll_popup:
+  - default
+ulp_onscroll_popup_mobile:
+  - default
+ulp_onscroll_mode:
+  - default
+ulp_onscroll_period:
+  - "5"
+ulp_onscroll_offset:
+  - "600"
+ulp_onidle_mode:
+  - default
+ulp_onidle_delay:
+  - "30"
+ulp_onidle_period:
+  - "5"
+ulp_onidle_popup:
+  - default
+ulp_onidle_popup_mobile:
+  - default
 ---
 [vc_row css=".vc_custom_1403866283236{margin-top: 2px !important;padding-bottom: 15px !important;}"][vc_column width="1/3"][featured_column title="BOOTS COLLECTION" subtitle="DISCOVERY THE" show_button="1" label_button="Discovery" url_button="#" background_image="http://www.ecommerce.lotto-social.com/wp-content/uploads/2014/06/boots.png" first="1" last="0" animate="fadeInLeft" animation_delay="400"]Chickweed melon epazote beetroot cress burdock catsear nori.[/featured_column][/vc_column][vc_column width="1/3"][featured_column title="ACCESSORIES" subtitle="COMPLETE YOUR LOOK WITH THE" show_button="1" label_button="CREATE YOUR OUTFIT" url_button="#" background_image="http://www.ecommerce.lotto-social.com/wp-content/uploads/2014/06/bag.png" first="0" last="0" animate="fadeInUp" animation_delay="900"]Chickweed melon epazote beetroot cress burdock catsear nori.[/featured_column][/vc_column][vc_column width="1/3"][featured_column title="-50% ON 1000+ ITEMS" subtitle="WOMAN SHOES" show_button="1" label_button="READ MORE" url_button="#" background_image="http://www.ecommerce.lotto-social.com/wp-content/uploads/2014/06/scarpe.png" first="0" last="1" animate="fadeInRight" animation_delay="1500"]<span style="color: #555555">Chickweed melon epazote beetroot cress burdock catsear nori.</span>[/featured_column][/vc_column][/vc_row][vc_row css=".vc_custom_1403865579843{margin-top: 16px !important;}"][vc_column width="1/1"][section_background background_type="color" background_color="#f2f2f2" animation_delay="0"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]
 <h3>OUR STRONG POINT</h3>
