@@ -55,4 +55,3 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-[image_banner slogan="Lotto social headline" slogan_font_size="32" slogan_color="#000000" subslogan="PLAY TOGETHER, WIN TOGETHER" subslogan_font_size="18" subslogan_color="#000000" subslogan_color_hover="#000000" button="no" button_color="#000000" button_text_hover="#ffffff" label_button="Select" banner_height="150" background_image_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/ecommerce-banner1.jpg" href="" animation_delay="0" box_horizontal_alignment="center" box_vertical_alignment="middle" overlay_color="black" animate="fadeIn" ]
