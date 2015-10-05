@@ -55,7 +55,6 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-[lotto-social_payment]
 [vc_row css=".vc_custom_1403947395130{margin-top: -10px !important;margin-bottom: 50px !important;}"][vc_column width="1/1"][box_title class="subtitle-small" subtitle="WE’RE ENTREPRENEURS FIRST." subtitle_font_size="15" font_size="50" font_alignment="center" border="middle" border_color="#CDCDCD" animation_delay="0"]ABOUT US[/box_title][/vc_column][/vc_row][vc_row css=".vc_custom_1403947402396{margin-bottom: 50px !important;}"][vc_column width="1/3"][box_title subtitle_font_size="15" font_size="25" font_alignment="left" border="none" border_color="#CDCDCD"][SECTION] TITLE[/box_title][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet dolor nec eros porta semper. Praesent vel ultrices dui. Ut semper mi in enim tristique ultrices. Vestibulum mi augue, eleifend at placerat condimentum, porta ut leo.
 
 Proin in blandit tellus. Vivamus interdum massa vitae magna venenatis, sit amet iaculis risus placerat. Vivamus eget orci nec nisi ornare rhoncus vel vitae velit.
