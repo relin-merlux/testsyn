@@ -50,5 +50,7 @@ ulp_onidle_popup:
   - default
 ulp_onidle_popup_mobile:
   - default
+slide_template:
+  - default
 ---
 [list_of_cart_items]
