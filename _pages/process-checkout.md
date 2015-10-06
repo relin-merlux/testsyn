@@ -1,12 +1,12 @@
 ---
 ID: 1696
-post_title: Lotto Social Checkout
+post_title: Process Checkout
 author: Olu
 post_date: 2015-09-24 05:17:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/lotto-social-checkout/
+  http://www.ecommerce.lotto-social.com/process-checkout/
 published: true
 ulp_version:
   - "4.9"
