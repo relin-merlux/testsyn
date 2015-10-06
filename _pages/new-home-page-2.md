@@ -1,6 +1,6 @@
 ---
 ID: 4667
-post_title: New Home PAge
+post_title: Home
 author: Olu
 post_date: 2015-10-06 13:18:47
 post_excerpt: ""
