@@ -55,4 +55,3 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-[rev_slider shop-slider]
