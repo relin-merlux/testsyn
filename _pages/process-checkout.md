@@ -54,3 +54,5 @@ slide_template:
   - default
 ---
 [list_of_cart_items]
+
+[lotto-social-payment-processor]
