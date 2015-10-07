@@ -58,4 +58,4 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 ---
-[vc_row][vc_column width="1/1"][faq filter="1" category="89"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][space height="30"][box_title font_size="22" font_alignment="center" border="middle" border_color="#CDCDCD"][/box_title][/vc_column][/vc_row][vc_row]
+[vc_row][vc_column width="1/1"][faq filter="1" category="89"][/vc_column][/vc_row]
