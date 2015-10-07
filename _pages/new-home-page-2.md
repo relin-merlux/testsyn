@@ -52,7 +52,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-[vc_row css=".vc_custom_1403946510540{margin-bottom: 25px !important;}"][vc_column width="1/1"][box_title font_size="18" font_alignment="center" border="middle" border_color="#CDCDCD"]
+[vc_row css=".vc_custom_1403946510540{margin-bottom: 25px !important;}"][vc_column width="1/1"][space height="30"][box_title font_size="18" font_alignment="center" border="middle" border_color="#CDCDCD"]
 
 <strong>ENJOY THE STORE</strong>
 
