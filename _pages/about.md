@@ -63,7 +63,7 @@ ulp_onidle_popup_mobile:
 
 Never miss a draw again!
 
-[/box_title][vc_column_text css=".vc_custom_1444234086518{background-color: #ffffff !important;}"]
+[/box_title][vc_column_text css=".vc_custom_1444234179974{background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"]
 
 No more last minute dashes to the shops when you realise it’s a big jackpot. We purchase your tickets for you, so you can sit back and keep your fingers crossed! It’s so easy and convenient, don’t you think? All you need to do is register with us, pick your package and we’ll do the rest!
 
