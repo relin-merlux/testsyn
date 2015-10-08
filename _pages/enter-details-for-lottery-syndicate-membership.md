@@ -60,4 +60,5 @@ slide_template:
 <div class="col-sm-6 yourMillion1">YOUR MILLIONS ARE A FEW CLICKS AWAY!</div>
 <div class="col-sm-6 signupHeader2">SIGN UP HERE!</div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][vc_column width="1/3"]
+[/vc_column][/vc_row]
