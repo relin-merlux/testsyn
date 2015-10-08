@@ -78,7 +78,7 @@ slide_template:
 <p style="margin: 0px;">Draw Date:06-10-2015</p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
-[/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/lotto.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979" class="mainimagechecker"]
+[/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/lotto.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]
 <p style="margin: 0px;"><span style="color: #ff0000; font-size: 30px; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date:07-10-2015</p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
