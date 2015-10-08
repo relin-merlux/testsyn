@@ -52,7 +52,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-[vc_row full_width="stretch_row" video_opts="" multi_color_overlay=""][vc_column width="1/1"][rev_slider_vc alias="revhome"][/vc_column][/vc_row][vc_row css=".vc_custom_1403946510540{margin-bottom: 25px !important;}"][vc_column width="1/1"][space height="30"][box_title font_size="18" font_alignment="center" border="middle" border_color="#CDCDCD"]
+[vc_row full_width="stretch_row" video_opts="" multi_color_overlay=""][vc_column width="1/1"][rev_slider_vc alias="shop-slider"][/vc_column][/vc_row][vc_row css=".vc_custom_1403946510540{margin-bottom: 25px !important;}"][vc_column width="1/1"][space height="30"][box_title font_size="18" font_alignment="center" border="middle" border_color="#CDCDCD"]
 
 <strong>ENJOY THE STORE</strong>
 
