@@ -53,7 +53,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-<div class="woocommmerce">
+<div class="woocommerce">
 <table class="shop_table cart" cellspacing="0">
   <thead>
     <tr>
