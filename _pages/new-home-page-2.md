@@ -72,7 +72,7 @@ slide_template:
 [/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
 [/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]
-<p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; font-size: 30px; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date:07-10-2015</p>
 <a style="color: #6699cc;" href="#">PLAY LOTTO &gt;&gt;</a>[/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text]
 <p style="text-align: center;"><strong>Visit Our Store</strong></p>
