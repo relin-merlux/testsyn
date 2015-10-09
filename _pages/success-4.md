@@ -53,3 +53,29 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
+<table class="shop_table cart" cellspacing="0">
+  <thead>
+    <tr>
+      <th class="product-remove"></th>
+      <th class="product-name">Product Name</th>
+      <th class="product-price">Price</th>
+      <th class="product-quantity">Quantity</th>
+      <th class="product-currency">Currency</th>
+      <th class="product-transaction">Transaction</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="cart_item">
+      <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a>
+      <div class="product-thumbnail"> <a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a></div>
+      </td>
+      <td class="product-name">        This is a product name</td>
+      <td class="product-price">£16</td>
+      <td class="product-quantity">1</td>
+      <td class="product-currency">CREDIT/DEBIT CARD</td>
+      <td class="product-subtotal">1 Item declined</td>
+      <td class="product-subtotal">WHat this means</td>
+    </tr>
+  </tbody>
+</table>
