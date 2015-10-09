@@ -69,7 +69,7 @@ slide_template:
   <tbody>
     <tr class="cart_item">
       <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
-      <td class="product-name"><div class="product-thumbnail"> <a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a> </div> This is a product name</td>
+      <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a>  This is a product name</td>
       <td class="product-price">£16</td>
       <td class="product-quantity">1</td>
       <td class="product-currency">CREDIT/DEBIT CARD</td>
