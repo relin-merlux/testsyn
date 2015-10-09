@@ -73,8 +73,8 @@ slide_template:
       <td class="product-price">£16</td>
       <td class="product-quantity">1</td>
       <td class="product-currency">CREDIT/DEBIT CARD</td>
-      <td class="product-subtotal">1 Item declined</td>
-      <td class="product-subtotal">WHat this means</td>
+      <td class="product-transaction">1 Item declined</td>
+      <td>WHat this means</td>
     </tr>
   </tbody>
 </table>
