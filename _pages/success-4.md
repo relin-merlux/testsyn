@@ -74,7 +74,7 @@ slide_template:
       <td class="product-quantity">1</td>
       <td class="product-currency">CREDIT/DEBIT CARD</td>
       <td class="product-transaction">1 Item declined</td>
-      <td>WHat this means</td>
+      <td>[tooltip style="yellow" position="top" shadow="no" rounded="no" size="default" title="" content="Tooltip text" behavior="hover" close="no" class=""][button] Hover me to open tooltip [/button][/tooltip]</td>
     </tr>
   </tbody>
 </table>
