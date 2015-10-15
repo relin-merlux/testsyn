@@ -53,3 +53,110 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
+<div class="woocommerce successDev">
+  <h2 class="greencolor">SUCCESS!</h2>
+  <p>Your items have been processed. Here’s a breakdown.</p>
+  <table class="shop_table cart" cellspacing="0">
+    <thead>
+      <tr>
+        <th class="product-remove"></th>
+        <th class="product-name">Product Name</th>
+        <th class="product-price">Price</th>
+        <th class="product-quantity">Quantity</th>
+        <th class="product-currency">Currency</th>
+        <th class="product-transaction">Transaction</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="cart_item">
+        <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
+        <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a> <span>This is a product name</span></td>
+        <td class="product-price">£16</td>
+        <td class="product-quantity">1</td>
+        <td class="product-currency"><span class="greencolor">CREDIT/DEBIT CARD</span></td>
+        <td class="declined-tooltip"><table>
+            <tr>
+              <td class="product-transaction"><span class="rightWrong declined">1 Item declined</span></td>
+              <td><a href="javascript:void(0)" class="ecolor tooltip-link">What this means</a>
+                <div class="tooltip-detail"> This transaction could have failed<br>
+                  because you don’t have enough funds<br>
+                  in your credit or reward points in your<br>
+                  account. If you think this is an error<br>
+                  please try again or drop us a line in the<br>
+                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+          </table>
+      </tr>
+      </td>
+      
+      </tr>
+      
+      <tr class="cart_item">
+        <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
+        <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a><span> This is a product name</span></td>
+        <td class="product-price">£5</td>
+        <td class="product-quantity">1</td>
+        <td class="product-currency"><span class="greencolor">CREDIT/DEBIT CARD</span></td>
+        <td class="declined-tooltip"><table>
+            <tr>
+              <td class="product-transaction"><span class="rightWrong purchased">1 Item purchased</span></td>
+              <td><a href="javascript:void(0)" class="ecolor tooltip-link">What this means</a>
+                <div class="tooltip-detail"> This transaction could have failed<br>
+                  because you don’t have enough funds<br>
+                  in your credit or reward points in your<br>
+                  account. If you think this is an error<br>
+                  please try again or drop us a line in the<br>
+                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+          </table>
+      </tr>
+      </td>
+      
+      </tr>
+      
+      <tr class="cart_item">
+        <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
+        <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a><span> This is a product name</span></td>
+        <td class="product-price">£8</td>
+        <td class="product-quantity">3</td>
+        <td class="product-currency"><span class="lcolor2">BONUS CREDIT</span></td>
+        <td class="declined-tooltip"><table>
+            <tr>
+              <td class="product-transaction"><span class="rightWrong individual-tran">1 Item purchased<span>2 Item declined</span></span></td>
+              <td><a href="javascript:void(0)" class="ecolor tooltip-link">What this means</a>
+                <div class="tooltip-detail"> This transaction could have failed<br>
+                  because you don’t have enough funds<br>
+                  in your credit or reward points in your<br>
+                  account. If you think this is an error<br>
+                  please try again or drop us a line in the<br>
+                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+          </table>
+      </tr>
+      </td>
+      
+      </tr>
+      
+      <tr class="cart_item">
+        <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
+        <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a> <span>This is a product name</span></td>
+        <td class="product-price">2,000</td>
+        <td class="product-quantity">1</td>
+        <td class="product-currency"><span class="ecolor">REWARD POINTS</span></td>
+        <td class="declined-tooltip"><table>
+            <tr>
+              <td class="product-transaction"><span class="rightWrong purchased">1 Item purchased</span></td>
+              <td><a href="javascript:void(0)" class="ecolor tooltip-link">What this means</a>
+                <div class="tooltip-detail"> This transaction could have failed<br>
+                  because you don’t have enough funds<br>
+                  in your credit or reward points in your<br>
+                  account. If you think this is an error<br>
+                  please try again or drop us a line in the<br>
+                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+          </table>
+      </tr>
+      </td>
+      
+      </tr>
+      
+    </tbody>
+  </table>
+</div>
