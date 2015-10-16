@@ -128,7 +128,7 @@ slide_template:
                   in your credit or reward points in your<br>
                   account. If you think this is an error<br>
                   please try again or drop us a line in the<br>
-                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+                  <a class="ecolor" href="/membersarea-help" target="_blank">Help page</a></div></td>
           </table>
       </tr>
       </td>
@@ -150,7 +150,7 @@ slide_template:
                   in your credit or reward points in your<br>
                   account. If you think this is an error<br>
                   please try again or drop us a line in the<br>
-                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+                  <a class="ecolor" href="/membersarea-help" target="_blank">Help page</a></div></td>
           </table>
       </tr>
       </td>
