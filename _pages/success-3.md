@@ -1,6 +1,6 @@
 ---
 ID: 4859
-post_title: Success
+post_title: Success page
 author: Olu
 post_date: 2015-10-09 10:00:17
 post_excerpt: ""
