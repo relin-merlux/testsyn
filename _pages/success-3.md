@@ -160,3 +160,23 @@ slide_template:
     </tbody>
   </table>
 </div>
+<script>
+$(document).ready(function() {
+// TOOLTIP CLICK FUNCTION //
+$('.declined-tooltip .tooltip-detail').hide();
+$('.declined-tooltip .tooltip-link').click(function(e){    
+    e.preventDefault();
+    var $this = $(this).parent().find('.tooltip-detail');
+    $(".declined-tooltip .tooltip-detail").not($this).hide();
+    $this.toggle();
+    
+});
+// IF TRANSACTION SUCCESS THEN TOOLTIP DIV HIDE //
+$('.declined-tooltip').each(function() {
+  var $this = $(this);
+  if ($this.find('.purchased').length) {
+     $this.find('.tooltip-link').addClass('tooltipHide');
+  }
+});
+});	
+</script>
