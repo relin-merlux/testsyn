@@ -114,7 +114,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 
 Don't take our words for granted . This is what our customers say
 
-[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/1"][testimonial items="3" cat="0" style="comic" animate="bounceIn"][testimonial items="3" cat="0" style="comic" animate="bounceIn" animation_delay=""][/vc_column][/vc_row][vc_row bg_type="bg_color" video_opts="" multi_color_overlay="" bg_color_value="#eaeaea"][vc_column width="1/1"][space height="20"][vc_row_inner][vc_column_inner el_class="" width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
+[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/1"][testimonial items="3" cat="0" style="comic" animate="bounceIn"][testimonial items="3" cat="0" style="comic" animate="bounceIn" animation_delay=""][/vc_column][/vc_row][vc_row bg_type="bg_color" video_opts="" multi_color_overlay="" bg_color_value="#eaeaea"][vc_column width="1/1"][space height="30"][vc_row_inner][vc_column_inner el_class="" width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
 
 <span style="font-size: 16px;"><span style="font-family: lato;">No contracts, no surprises. Try our service for FREE for 7 days</span></span>
 
