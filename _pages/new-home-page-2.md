@@ -65,7 +65,7 @@ slide_template:
 </ul>
 [/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_theme="ticket" icon_size="35" color="#000000" circle_size="0" color_circle="#797979" title="More lines, more chances" title_size="h3" icon_url="/wp-content/uploads/964eca4b-ico2.png"]
 <p style="text-align: center;">Yeah, that‘s right far more chances of hitting the jackpot!</p>
-
+&nbsp;
 <ul>
 	<li class="lplh-16">Joining our syndicate you share the cost of the ticket</li>
 	<li class="lplh-16">You‘ll get far more chances to hit the jackpot than playing alone</li>
