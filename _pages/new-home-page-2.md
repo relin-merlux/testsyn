@@ -56,7 +56,13 @@ slide_template:
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="theme-icon" icon_theme="calendar" icon_size="35" color="#000000" color_circle="#797979" title="Never miss a draw" title_size="h3" circle_size="0"]
-<p style="text-align: center;">Subscribe to one of our of our syndicate and never miss a draw again. We enter you in every of your selected EuroMillions and/or Lotto draws.</p>
+<p style="text-align: center;">We enter you in every of your selected EuroMillions and/or Lotto draws.</p>
+
+<ul>
+	<li class="lplh-16">No more journeys to the newsagent</li>
+	<li class="lplh-16">Never forget to buy a ticket again</li>
+	<li class="lplh-16">We‘ll do the job for you, you just sit back relax and become the next millionaire</li>
+</ul>
 [/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="theme-icon" icon_theme="book" icon_size="35" color="#000000" circle_size="0" color_circle="#797979" title="Never miss a draw" title_size="h3"]
 <p style="text-align: center;">By entering in our syndicates you will get more lottery lines thank you will get by playing alone. Yeah, that's right far more chances of hitting the jackpot!</p>
 [/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="theme-icon" icon_theme="clock-o" icon_size="35" color="#000000" circle_size="0" color_circle="#797979" title="Never miss a draw" title_size="h3"]
