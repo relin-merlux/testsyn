@@ -97,17 +97,20 @@ slide_template:
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span>11M</strong></span></p>
-<p style="margin: 0px;">Draw Date:06-10-2015</p>
-[button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]PLAY EUROMILLIONS[/button][/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text]
+<p style="margin: 0px;">Draw Date: 06-10-2015</p>
+[/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
 [/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
-<p style="margin: 0px;">Draw Date:07-10-2015</p>
-<a style="color: #6699cc;" href="#">PLAY LOTTO &gt;&gt;</a>[/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text]
-<p style="text-align: center;"><strong>Visit Our Store</strong></p>
-[/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit!.
+<p style="margin: 0px;">Draw Date: 07-10-2015</p>
+[/box_section][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_column_text el_class="jackpot-title"]
+<p style="text-align: center;"><strong>VISIT OUR STORE
+</strong></p>
+[/vc_column_text][box_section layout="horizontal" icon_type="custom" icon_theme="no-icon" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png" icon_size="14" color="#797979" circle_size="70" color_circle="#797979"]
 
-<a style="color: #6699cc;" href="#">PLAY LOTTO &gt;&gt;</a>[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1403946168199{margin-bottom: 25px !important;}"][vc_column width="1/1"][box_title subtitle_font_size="6" font_size="30" font_alignment="center" border="middle" border_color="#f4d122" animate="fadeIn"]
+Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit!
+
+[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1403946168199{margin-bottom: 25px !important;}"][vc_column width="1/1"][box_title subtitle_font_size="6" font_size="30" font_alignment="center" border="middle" border_color="#f4d122" animate="fadeIn"]
 
 Don't take our words for granted . This is what our customers say
 
