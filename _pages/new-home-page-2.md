@@ -120,7 +120,7 @@ Don't take our words for granted . This is what our customers say
 
 <span style="font-family: lato; font-size: 16px;">We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime</span>
 
-<span style="font-family: lato; font-size: 16px;">or <a style="text-decoration: none;" href="clkn/http/promo.lotto-social.com/pricing/"><span style="color: #2f76d2;">click here to choose one of our plans</span></a>.</span>[/vc_column_text][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_single_image image="4920" border_color="grey" img_link_large="" img_link_target="_self"][vc_column_text]
+<span style="font-family: lato; font-size: 16px;">or <a style="text-decoration: none;" href="clkn/http/promo.lotto-social.com/pricing/"><span style="color: #2f76d2;">click here to choose one of our plans</span></a>.</span>[/vc_column_text][/vc_column_inner][vc_column_inner el_class="" width="1/3"][vc_single_image image="4920" border_color="grey" img_link_large="" img_link_target="_self" el_class="green-arrow"][vc_column_text]
 
 <a href="#"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/95e4ea8e-7day-cta.png" alt="" /></a>
 
