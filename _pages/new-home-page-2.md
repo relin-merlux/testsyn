@@ -63,7 +63,7 @@ slide_template:
 	<li class="lplh-16">Never forget to buy a ticket again</li>
 	<li class="lplh-16">We‘ll do the job for you, you just sit back relax and become the next millionaire</li>
 </ul>
-[/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_theme="ticket" icon_size="35" color="#000000" circle_size="0" color_circle="#797979" title="More lines, more chances" title_size="h3" icon_url="/wp-content/uploads/3e693b4f-ico3.png"]
+[/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_theme="ticket" icon_size="35" color="#000000" circle_size="0" color_circle="#797979" title="More lines, more chances" title_size="h3" icon_url="/wp-content/uploads/964eca4b-ico2.png"]
 <p style="text-align: center;">Yeah, that‘s right far more chances of hitting the jackpot!</p>
 
 <ul>
