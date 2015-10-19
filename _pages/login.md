@@ -70,11 +70,9 @@ lotto_page_redirect:
 </div>
 &nbsp;
 <div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Password <span class="su-tooltip" title="" data-title="" data-my="bottom center" data-hasqtip="1" data-close="no" data-classes="su-qtip qtip-bootstrap su-qtip-size-default" data-behavior="hover" data-at="top center"><img class="infoPopUpModal" src="/wp-content/uploads/info.png" alt="" width="16" height="16" /></span></strong></label>
-<div class="col-sm-6"><input id="SeparateLoginForm_password" class="form-control" style="color: black;" name="SeparateLoginForm[password]" type="password" value="" placeholder="Enter your Password" /></div>
-<label for="SeparateLoginForm_password" class="errorText hidden" name="SeparateLoginForm_password_errorlbl" id="SeparateLoginForm_password_errorlbl"></label>
-&nbsp;
-
-</div>
+<div class="col-sm-6"><input id="SeparateLoginForm_password" class="form-control" style="color: black;" name="SeparateLoginForm[password]" type="password" value="" placeholder="Enter your Password" />
+<label for="SeparateLoginForm_password" class="errorText hidden" name="SeparateLoginForm_password_errorlbl" id="SeparateLoginForm_password_errorlbl"></label></div>
+&nbsp;</div>
 &nbsp;
 <div class="form-group">
 <div class="col-sm-6 col-sm-offset-5"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button" onclick="return customValidation('separatepg');">Login</button><img class="loadSection" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
