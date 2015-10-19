@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-<img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan.png" alt="4bc7bb99-au-plan" width="623" height="79" class="aligncenter size-full wp-image-4969" />
+[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-4969" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan.png" alt="4bc7bb99-au-plan" width="623" height="79" />
 <img class="aligncenter size-full wp-image-4967" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/17b8fe42-hiw-tab_0qo0680qo068000000.png" alt="17b8fe42-hiw-tab_0qo0680qo068000000" width="960" height="224" />
 <div id="lp-pom-text-149" class="lp-element lp-pom-text nlh">
 <div class="lplh-26"></div>
@@ -70,3 +70,6 @@ lotto_reg_form:
 <div class="lplh-26"><strong>WHAT IS YOUR LOTTERY SYNDICATE SIZE?</strong></div>
 <div class="lplh-26">There will never be more than 49 players in a syndicate at one time, so if there is a £50m win, you will still walk away a millionaire and more! In fact, often over time the syndicate size can decrease and at the moment on average we pay out cash wins to each player as approximately a quarter e.g. if the win is £10 each player in the syndicate gets approximately £2.50 each. You can check your syndicate size in the Members Area under “Tickets”.</div>
 </div>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+<div class="lplh-26"><strong>WHAT IS YOUR LOTTERY SYNDICATE SIZE?</strong></div>
+There will never be more than 49 players in a syndicate at one time, so if there is a £50m win, you will still walk away a millionaire and more! In fact, often over time the syndicate size can decrease and at the moment on average we pay out cash wins to each player as approximately a quarter e.g. if the win is £10 each player in the syndicate gets approximately £2.50 each. You can check your syndicate size in the Members Area under “Tickets”.[/vc_column_text][/vc_column][/vc_row]
