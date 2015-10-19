@@ -51,8 +51,10 @@ ulp_onidle_popup_mobile:
   - default
 slide_template:
   - default
+lotto_reg_form:
+  - 'no'
 ---
-[vc_row][vc_column el_class="row"][vc_column_text][rev_slider revhome][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="left-to-right"][/vc_column][vc_column width="2/3"][vc_column_text]
+[vc_row][vc_column][vc_column_text][rev_slider revhome][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="left-to-right"][/vc_column][vc_column width="2/3"][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
 [/vc_column_text][/vc_column][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="right-to-left"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/5ee24913-ico1.png" title="Never miss a draw" title_size="h3"]
@@ -120,11 +122,7 @@ Don't take our words for granted . This is what our customers say
 
 <span style="font-family: lato; font-size: 16px;">We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime</span>
 
-<span style="font-family: lato; font-size: 16px;">or <a style="text-decoration: none;" href="clkn/http/promo.lotto-social.com/pricing/"><span style="color: #2f76d2;">click here to choose one of our plans</span></a>.</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="4920" el_class="green-arrow"][vc_column_text]
-
-<a href="#"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/95e4ea8e-7day-cta.png" alt="" /></a>
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][space height="20"][/vc_column][/vc_row][vc_row css=".vc_custom_1403945992647{margin-bottom: 50px !important;}"][vc_column][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][parallax height="300" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/imagedoc-darknoise.png" font_p="24"]
+<span style="font-family: lato; font-size: 16px;">or <a style="text-decoration: none;" href="clkn/http/promo.lotto-social.com/pricing/"><span style="color: #2f76d2;">click here to choose one of our plans</span></a>.</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="4920" el_class="green-arrow"][vc_column_text]<a href="http://promo.lotto-social.com/offer/"><img class="alignnone" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/95e4ea8e-7day-cta.png" alt="" width="332" height="48" /></a>[/vc_column_text][/vc_column_inner][/vc_row_inner][space height="20"][/vc_column][/vc_row][vc_row css=".vc_custom_1403945992647{margin-bottom: 50px !important;}"][vc_column][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][parallax height="300" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/imagedoc-darknoise.png" font_p="24"]
 
 [one_fourth class="" last="no" ][counter text="Happy Customers" text_color="#ffffff" text_size="12" number="36000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="heart-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Hours Saved" text_color="#ffffff" text_size="12" number="650" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="clock-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Cups Of Coffee" text_color="#ffffff" text_size="12" number="12000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="coffee" ][/one_fourth][one_fourth class="" last="yes" ][counter text="Winners Last Month" text_color="#ffffff" text_size="12" number="23000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="star-o" ][/one_fourth]
 
