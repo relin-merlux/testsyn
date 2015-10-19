@@ -128,7 +128,7 @@ slide_template:
                   in your credit or reward points in your<br>
                   account. If you think this is an error<br>
                   please try again or drop us a line in the<br>
-                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+                  <a class="ecolor" href="/membersarea-help" target="_blank">Help page</a></div></td>
           </table>
       </tr>
       </td>
@@ -150,7 +150,7 @@ slide_template:
                   in your credit or reward points in your<br>
                   account. If you think this is an error<br>
                   please try again or drop us a line in the<br>
-                  <a class="ecolor" href="www.dev.lotto-social.com/membersarea-help" target="_blank">Help page</a></div></td>
+                  <a class="ecolor" href="/membersarea-help" target="_blank">Help page</a></div></td>
           </table>
       </tr>
       </td>
@@ -161,5 +161,22 @@ slide_template:
   </table>
 </div>
 <script>
-$(document).ready(function() { // TOOLTIP CLICK FUNCTION // $('.declined-tooltip .tooltip-detail').hide(); $('.declined-tooltip .tooltip-link').click(function(e){ e.preventDefault(); var $this = $(this).parent().find('.tooltip-detail'); $(".declined-tooltip .tooltip-detail").not($this).hide(); $this.toggle(); }); // IF TRANSACTION SUCCESS THEN TOOLTIP DIV HIDE // $('.declined-tooltip').each(function() { var $this = $(this); if ($this.find('.purchased').length) { $this.find('.tooltip-link').addClass('tooltipHide'); } }); });
+$(document).ready(function() {
+// TOOLTIP CLICK FUNCTION //
+$('.declined-tooltip .tooltip-detail').hide();
+$('.declined-tooltip .tooltip-link').click(function(e){    
+    e.preventDefault();
+    var $this = $(this).parent().find('.tooltip-detail');
+    $(".declined-tooltip .tooltip-detail").not($this).hide();
+    $this.toggle();
+    
+});
+// IF TRANSACTION SUCCESS THEN TOOLTIP DIV HIDE //
+$('.declined-tooltip').each(function() {
+  var $this = $(this);
+  if ($this.find('.purchased').length) {
+     $this.find('.tooltip-link').addClass('tooltipHide');
+  }
+});
+});	
 </script>
