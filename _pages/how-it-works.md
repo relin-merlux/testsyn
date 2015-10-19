@@ -61,7 +61,6 @@ lotto_reg_form:
 <div id="lp-pom-text-140" class="lp-element lp-pom-text nlh">
 <p class="lplh-29">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span></p>
 
-<div id="lp-pom-text-141" class="lp-element lp-pom-text nlh"></div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play.jpg" alt="play" width="297" height="118" />
 <div id="lp-pom-text-141" class="lp-element lp-pom-text nlh">
