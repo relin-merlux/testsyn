@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="4984" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_single_image image="4987" img_size="full"][vc_single_image image="4988" img_size="full"][vc_single_image image="4989" img_size="full"][vc_single_image image="4990" img_size="full"][/vc_column][vc_column width="1/2"][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" width="297" height="118" />
+[vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="4984" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" width="297" height="118" />
 <div id="lp-pom-text-140" class="lp-element lp-pom-text nlh">
 <p class="lplh-29">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span></p>
 
