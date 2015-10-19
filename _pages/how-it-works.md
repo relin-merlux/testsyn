@@ -58,21 +58,29 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="4984" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" width="297" height="118" />
-<div id="lp-pom-text-140" class="lp-element lp-pom-text nlh">[space height="50" ]
+<div id="lp-pom-text-140" class="lp-element lp-pom-text nlh">
+
+&nbsp;
 <p class="lplh-29">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span></p>
 
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play.jpg" alt="play" width="297" height="118" />
+
+&nbsp;
 <div id="lp-pom-text-141" class="lp-element lp-pom-text nlh">
 <div class="lplh-24">We automatically join you in our EuroMillions or Lotto syndicates.</div>
 <div class="lplh-24">You don‘t need to do anything else, just wait for your draw to occur.</div>
 </div>
 [/vc_column_text][vc_row_inner][vc_column_inner][/vc_column_inner][/vc_row_inner][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/win.jpg" alt="win" width="297" height="118" />
+
+&nbsp;
 <div class="lplh-24">
 <div class="lplh-29">Check all your tickets with a simple click.</div>
 <div class="lplh-29">Your winnings will be automatically added to your account.</div>
 </div>
 [/vc_column_text][/vc_column][vc_column][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/repeat.jpg" alt="Repeat" width="297" height="118" />
+
+&nbsp;
 <div class="lplh-24">
 <div class="lplh-29">
 <div class="lplh-29">Never miss a draw again!</div>
