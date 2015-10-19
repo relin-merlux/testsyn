@@ -55,9 +55,10 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
-  - 'no'
+  - 'yes'
 lotto_free_registration_step:
-  - "2"
+  - >
+    http://www.ecommerce.lotto-social.com/test
 ---
 <div class="free-registration social-reg">
 <div class="welcom-social-reg-page text-center">
