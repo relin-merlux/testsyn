@@ -55,4 +55,4 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text][/vc_column_text][/vc_column][/vc_row]
+[ordered_items]
