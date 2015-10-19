@@ -55,8 +55,10 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-<div class="loadShow">[ordered_items]</div>
 <div class="spinner"><div></div></div>
+<div class="loadShow">[ordered_items]</div>
+
+
 <style>
 .loadShow {display: none;}
 </style>
