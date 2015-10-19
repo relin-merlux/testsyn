@@ -75,7 +75,7 @@ lotto_page_redirect:
 </div>
 &nbsp;
 <div class="form-group">
-<div class="col-sm-6 col-sm-offset-5"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button">Login</button><img class="loadSection" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
+<div class="col-sm-6 col-sm-offset-5"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button" onclick="return customValidation(separatepg);">Login</button><img class="loadSection" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
 &nbsp;
 
 </div>
@@ -93,5 +93,4 @@ lotto_page_redirect:
 &nbsp;
 
 </form></div>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 [/vc_column_text][/vc_column][/vc_row]
