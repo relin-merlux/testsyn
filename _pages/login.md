@@ -62,7 +62,7 @@ lotto_page_redirect:
 
 <form id="Login-form2" class="form-horizontal" method="post" name="SeparateLoginForm">
 <div class="col-md-8 col-md-offset-1">
-<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Mobile </strong></label>
+<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Mobile Number</strong></label>
 <div class="col-sm-6"><input id="SeparateLoginForm_mobile" class="form-control" style="color: black;" maxlength="100" name="SeparateLoginForm[mobile]" type="text" value="" placeholder="Enter your Mobile Number" /></div>
 &nbsp;
 
