@@ -168,7 +168,7 @@ please try again or drop us a line in the
 $(document).ready(function() {
 // TOOLTIP CLICK FUNCTION //
 $('.declined-tooltip .tooltip-detail').hide();
-$('.declined-tooltip .tooltip-link').hover(function(e){    
+$('.declined-tooltip .tooltip-link').click(function(e){    
     e.preventDefault();
     var $this = $(this).parent().find('.tooltip-detail');
     $(".declined-tooltip .tooltip-detail").not($this).hide();
