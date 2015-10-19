@@ -58,7 +58,7 @@ lotto_reg_form:
   - 'no'
 ---
 <img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan.png" alt="4bc7bb99-au-plan" width="623" height="79" class="aligncenter size-full wp-image-4969" />
-<img class="aligncenter size-full wp-image-4967" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/17b8fe42-hiw-tab_0qo0680qo068000000.png" alt="17b8fe42-hiw-tab_0qo0680qo068000000" width="960" height="224" /><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan.png" alt="4bc7bb99-au-plan" width="623" height="79" class="aligncenter size-full wp-image-4969" /><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan.png" alt="4bc7bb99-au-plan" width="623" height="79" class="aligncenter size-full wp-image-4969" />
+<img class="aligncenter size-full wp-image-4967" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/17b8fe42-hiw-tab_0qo0680qo068000000.png" alt="17b8fe42-hiw-tab_0qo0680qo068000000" width="960" height="224" />
 <div id="lp-pom-text-149" class="lp-element lp-pom-text nlh">
 <div class="lplh-26"></div>
 <div class="lplh-26"><strong>WHERE CAN I VIEW MY LOTTERY  TICKETS AND RAFFLE ENTRIES?</strong></div>
