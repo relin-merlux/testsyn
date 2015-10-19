@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]
+[vc_row][vc_column][vc_single_image image="4967" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <div class="lplh-26"><strong>WHERE CAN I VIEW MY LOTTERY  TICKETS AND RAFFLE ENTRIES?</strong></div>
 <div class="lplh-26"></div>
 <div class="lplh-26">We would have emailed a copy of your tickets to you when you first registered with us. Alternatively, you can login into our Members Area with your mobile number as your username. Your claim reference can be used as your password or you can use whatever password that you have set for the account.</div>
