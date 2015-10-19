@@ -69,4 +69,29 @@ lotto_reg_form:
 <div class="lplh-26">Yes, you can increase your winning chances by subscribing to multiple plans or buying one off tickets.</div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <div class="lplh-26"><strong>WHAT IS YOUR LOTTERY SYNDICATE SIZE?</strong></div>
-There will never be more than 49 players in a syndicate at one time, so if there is a £50m win, you will still walk away a millionaire and more! In fact, often over time the syndicate size can decrease and at the moment on average we pay out cash wins to each player as approximately a quarter e.g. if the win is £10 each player in the syndicate gets approximately £2.50 each. You can check your syndicate size in the Members Area under “Tickets”.[/vc_column_text][/vc_column][/vc_row]
+There will never be more than 49 players in a syndicate at one time, so if there is a £50m win, you will still walk away a millionaire and more! In fact, often over time the syndicate size can decrease and at the moment on average we pay out cash wins to each player as approximately a quarter e.g. if the win is £10 each player in the syndicate gets approximately £2.50 each. You can check your syndicate size in the Members Area under “Tickets”.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/6"][vc_single_image image="4987" img_size="full"][vc_single_image image="4988" img_size="full"][vc_single_image image="4989" img_size="full"][vc_single_image image="4990" img_size="full"][/vc_column][vc_column width="5/6"][vc_column_text]
+<div id="lp-pom-text-140" class="lp-element lp-pom-text nlh">
+<p class="lplh-29">Simply join LottoSocial by choosing one of our plans.</p>
+
+<div id="lp-pom-text-141" class="lp-element lp-pom-text nlh">
+<div class="lplh-24">We automatically join you in our EuroMillions or Lotto syndicates.</div>
+<div class="lplh-24">You don‘t need to do anything else, just wait for your draw to occur.</div>
+<div class="lplh-24">
+<div class="lplh-24">
+<div class="lplh-29"></div>
+<div class="lplh-29">Check all your tickets with a simple click.</div>
+<div class="lplh-29">Your winnings will be automatically added to your account.</div>
+</div>
+<div class="lplh-29">
+<div class="lplh-24">
+<div class="lplh-29">
+<div class="lplh-29"></div>
+<div class="lplh-29">Never miss a draw again!</div>
+<div class="lplh-29">We automatically enter you in any of the following draws you selected.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+[/vc_column_text][/vc_column][/vc_row]
