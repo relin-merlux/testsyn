@@ -63,13 +63,15 @@ lotto_page_redirect:
 <form id="Login-form2" class="form-horizontal" method="post" name="SeparateLoginForm">
 <div class="col-md-8 col-md-offset-1">
 <div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Mobile Number</strong></label>
-<div class="col-sm-6"><input id="SeparateLoginForm_mobile" class="form-control" style="color: black;" maxlength="100" name="SeparateLoginForm[mobile]" type="text" value="" placeholder="Enter your Mobile Number" /></div>
+<div class="col-sm-6"><input id="SeparateLoginForm_mobile" class="form-control" style="color: black;" maxlength="100" name="SeparateLoginForm[mobile]" type="text" value="" placeholder="Enter your Mobile Number" />
+ <label for="SeparateLoginForm_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl"></label></div>
 &nbsp;
 
 </div>
 &nbsp;
 <div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Password <span class="su-tooltip" title="" data-title="" data-my="bottom center" data-hasqtip="1" data-close="no" data-classes="su-qtip qtip-bootstrap su-qtip-size-default" data-behavior="hover" data-at="top center"><img class="infoPopUpModal" src="/wp-content/uploads/info.png" alt="" width="16" height="16" /></span></strong></label>
 <div class="col-sm-6"><input id="SeparateLoginForm_password" class="form-control" style="color: black;" name="SeparateLoginForm[password]" type="password" value="" placeholder="Enter your Password" /></div>
+<label for="SeparateLoginForm_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl"></label>
 &nbsp;
 
 </div>
