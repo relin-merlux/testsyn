@@ -52,7 +52,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-[vc_row][vc_column][vc_column_text][rev_slider revhome][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="left-to-right"][/vc_column][vc_column width="2/3"][vc_column_text]
+[vc_row][vc_column el_class="row"][vc_column_text][rev_slider revhome][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="left-to-right"][/vc_column][vc_column width="2/3"][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
 [/vc_column_text][/vc_column][vc_column width="1/6"][vc_single_image image="4899" alignment="center" css_animation="right-to-left"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/5ee24913-ico1.png" title="Never miss a draw" title_size="h3"]
