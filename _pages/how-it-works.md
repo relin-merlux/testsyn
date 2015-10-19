@@ -55,7 +55,9 @@ slide_template:
 lotto_page_redirect:
   - 'no'
 ---
+<img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/17b8fe42-hiw-tab_0qo0680qo068000000.png" alt="17b8fe42-hiw-tab_0qo0680qo068000000" width="960" height="224" class="aligncenter size-full wp-image-4967" />
 <div id="lp-pom-text-149" class="lp-element lp-pom-text nlh">
+<div class="lplh-26"></div>
 <div class="lplh-26"><strong>WHERE CAN I VIEW MY LOTTERY  TICKETS AND RAFFLE ENTRIES?</strong></div>
 <div class="lplh-26">We would have emailed a copy of your tickets to you when you first registered with us. Alternatively, you can login into our Members Area with your mobile number as your username. Your claim reference can be used as your password or you can use whatever password that you have set for the account.</div>
 <div class="lplh-26"></div>
