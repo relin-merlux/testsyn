@@ -57,7 +57,9 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row parallax="content-moving" parallax_image="5020"][vc_column][/vc_column][/vc_row][vc_row el_class="whitePaper"][vc_column][vc_column_text]
+[vc_row parallax="content-moving" parallax_image="5020"][vc_column][vc_column_text]
+<p style="text-align: center; font-size: 40px;">FIND OUT MORE ABOUT LOTTO-SOCIAL</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row el_class="whitePaper"][vc_column][vc_column_text]
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-12">
@@ -79,7 +81,9 @@ Welcome to Lotto-Social, the social hub for all you lottery syndicate lovers out
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab003.jpg" alt="Never miss a draw again!" />
 <div class="caption">
 <h3>Never miss a draw again!</h3>
-No more last minute dashes to the shops when you realise it’s a big jackpot. We purchase your tickets for you, so you can sit back and keep your fingers crossed! It's so easy and convenient, don't you think? All you need to do is register with us, pick your package and we’ll do the rest!</div>
+No more last minute dashes to the shops when you realise it’s a big jackpot. We purchase your tickets for you, so you can sit back and keep your fingers crossed! It's so easy and convenient, don't you think? All you need to do is register with us, pick your package and we’ll do the rest!
+
+</div>
 </div>
 </div>
 <div class="col-md-4">
@@ -88,7 +92,9 @@ No more last minute dashes to the shops when you realise it’s a big jackpot. W
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab001.jpg" alt="One click to check your winnings" />
 <div class="caption">
 <h3>One click to check your winnings</h3>
-There's no need to check your numbers after each draw; we do it all for you with one simple click! We make sure you get 100% of your share of your syndicate’s win. Plus, for small wins, you can take your share as cash; or choose our bonus credit and multiply your win by 4; so you have more to spend on Lotto or EuroMillions lines!</div>
+There's no need to check your numbers after each draw; we do it all for you with one simple click! We make sure you get 100% of your share of your syndicate’s win. Plus, for small wins, you can take your share as cash; or choose our bonus credit and multiply your win by 4; so you have more to spend on Lotto or EuroMillions lines!
+
+</div>
 </div>
 </div>
 <div class="col-md-4">
@@ -97,13 +103,14 @@ There's no need to check your numbers after each draw; we do it all for you with
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab002.jpg" alt="1 in 5 jackpots won by a syndicate" />
 <div class="caption">
 <h3>1 in 5 jackpots won by a syndicate</h3>
-Remember, more lines = More chances! And don’t just take our word for it, according to The National Lottery, 1 in 5 jackpots are won by syndicates - so it’s a tried and tested way to play.</div>
+Remember, more lines = More chances! And don’t just take our word for it, according to The National Lottery, 1 in 5 jackpots are won by syndicates - so it’s a tried and tested way to play.
+
+</div>
 </div>
 </div>
 </div>
 <h3 class="text-center">STILL NOT CLEAR?</h3>
 <p style="text-align: center;">Just watch our super easy video and learn more about Lotto-Social. We make it so easy for you…come on, what are you waiting for?!</p>
-
 <a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
 Watch Video
 </button>
