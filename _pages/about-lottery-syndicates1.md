@@ -61,19 +61,13 @@ lotto_reg_form:
 <p style="text-align: center; color: #fff; margin-top: 132px; margin-bottom: 148px; font-size: 72px; font-weight: 900; text-shadow: 1px 2px 3px #000;"><strong>FIND OUT MORE ABOUT
 LOTTO-SOCIAL</strong></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="whitePaper"][vc_column][vc_column_text]
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-12">
-<h2 class="bold blue"></h2>
 <p style="text-align: center; color: #2f76d2; font-family: lato; font-size: 24px;">Welcome to Lotto-Social, the social hub for all you lottery syndicate lovers out there!</p>
 
 <dl><dt>WHERE IT ALL BEGAN...</dt><dd>Lotto social was born in 2007, after a group of university friends grouped together to play in a lottery syndicate. However, collecting the money in time often proved a problem &amp; everyone in the syndicate wasn’t always around to play each week either! The guys knew that clubbing together would mean more chances to win BIG, but they just needed someone to manage the syndicate for them…
 
 </dd><dd>And that’s how Lotto Social came to be! Being tech savvy, Mark, Derick &amp; Roger built the very first syndicate management platform themselves. It’s taken a lot of hard work, late nights, take away pizza and of course some very loyal customers to bring you the version of Lotto Social we have today.
 
-</dd><dd></dd><dt>OUR GOAL</dt><dd>Our focus is providing you with a service that makes it easy to play in a syndicate. But we want to give you more than just the lottery. We want to create that winning formula! So whether it’s winning little and often on the EuroMillions, or playing in our exclusive member competitions – from spa treatments, to weekends away, or Amazon vouchers; we've created winning opportunities for you and fellow lottery lovers!</dd></dl></div>
-</div>
-</div>
+</dd><dd></dd><dt>OUR GOAL</dt><dd>Our focus is providing you with a service that makes it easy to play in a syndicate. But we want to give you more than just the lottery. We want to create that winning formula! So whether it’s winning little and often on the EuroMillions, or playing in our exclusive member competitions – from spa treatments, to weekends away, or Amazon vouchers; we've created winning opportunities for you and fellow lottery lovers!</dd></dl>
 <h3 class="text-center">WHY PLAY WITH US:</h3>
 <div class="row">
 <div class="col-md-4">
