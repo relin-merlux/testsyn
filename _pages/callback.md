@@ -54,4 +54,6 @@ slide_template:
   - default
 lotto_reg_form:
   - 'no'
+lotto_free_registration_step:
+  - free-reg-social-callback
 ---
