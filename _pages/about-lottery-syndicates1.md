@@ -64,8 +64,8 @@ LOTTO-SOCIAL</strong></p>
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-12">
-<h2 class="bold blue">About Us</h2>
-Welcome to Lotto-Social, the social hub for all you lottery syndicate lovers out there!
+<h2 class="bold blue"></h2>
+<p style="text-align: center; color: #2f76d2; font-family: lato; font-size: 24px;">Welcome to Lotto-Social, the social hub for all you lottery syndicate lovers out there!</p>
 
 <dl><dt>WHERE IT ALL BEGAN...</dt><dd>Lotto social was born in 2007, after a group of university friends grouped together to play in a lottery syndicate. However, collecting the money in time often proved a problem &amp; everyone in the syndicate wasn’t always around to play each week either! The guys knew that clubbing together would mean more chances to win BIG, but they just needed someone to manage the syndicate for them…
 
