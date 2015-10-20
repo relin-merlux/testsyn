@@ -58,7 +58,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row parallax="content-moving-fade" parallax_image="5020"][vc_column][vc_column_text]
-<p style="text-align: center; font-size: 50px; color: #fff; margin-top: 120px; margin-bottom: 120px;"><strong>FIND OUT MORE ABOUT LOTTO-SOCIAL</strong></p>
+<p style="text-align: center; color: #fff; margin-top: 150px; margin-bottom: 150px; font-size: 72px; font-weight: 900; text-shadow: 1px 2px 3px #000;"><strong>FIND OUT MORE ABOUT LOTTO-SOCIAL</strong></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="whitePaper"][vc_column][vc_column_text]
 <div class="container-fluid">
 <div class="row">
