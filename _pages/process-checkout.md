@@ -52,7 +52,20 @@ ulp_onidle_popup_mobile:
   - default
 slide_template:
   - default
+lotto_reg_form:
+  - 'no'
 ---
-[list_of_cart_items]
+<div class="spinner"><div></div></div>
+<div class="loadShow">[list_of_cart_items]
 
-[lotto-social-payment-processor]
+[lotto-social-payment-processor]</div>
+
+<style>
+.loadShow {display: none;}
+</style>
+<script>
+$(window).load(function() {
+  $(".spinner").hide();
+$(".loadShow").fadeIn();
+});
+</script>
