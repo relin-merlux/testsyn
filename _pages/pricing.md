@@ -59,6 +59,6 @@ lotto_reg_form:
 <h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img id="Image-Maps-Com-image-maps-2015-10-20-044238" class="aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img.png" alt="" usemap="#image-maps-2015-10-20-044238" width="971" height="428" border="0" />
 
-<map id="ImageMapsCom-image-maps-2015-10-20-044238" name="image-maps-2015-10-20-044238"> <area style="outline: none;" title="" alt="" coords="30,235,194,288" shape="rect" href="#" target="_self" /> <area style="outline: none;" title="" alt="" coords="272,349,444,402" shape="rect" href="#" target="_self" /> <area style="outline: none;" title="" alt="" coords="526,355,688,408" shape="rect" href="#" target="_self" /> <area style="outline: none;" title="" alt="" coords="769,348,931,401" shape="rect" href="#" target="_self" /> </map>
+<map id="ImageMapsCom-image-maps-2015-10-20-044238" name="image-maps-2015-10-20-044238"> <area style="outline: none;" title="" alt="" coords="30,235,194,288" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="272,349,444,402" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="526,355,688,408" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="769,348,931,401" shape="rect" href="/offer" target="_self" /> </map>
 
 [/vc_column_text][/vc_column][/vc_row]
