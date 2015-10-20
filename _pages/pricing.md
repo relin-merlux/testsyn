@@ -55,3 +55,4 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
+[vc_row][vc_column][ultimate_heading main_heading="Plans built for everyone!" margin_design_tab_text=""][/ultimate_heading][/vc_column][/vc_row]
