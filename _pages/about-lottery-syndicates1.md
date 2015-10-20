@@ -104,7 +104,7 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 </div>
 </div>
 </div>
-<a href="http://www.ecommerce.lotto-social.com/pricing/"><img class="size-full wp-image-5047 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan1.png" alt="4bc7bb99-au-plan" width="623" height="79" /></a>
+<a style="margin: 20px 0px;" href="http://www.ecommerce.lotto-social.com/pricing/"><img class="size-full wp-image-5047 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan1.png" alt="4bc7bb99-au-plan" width="623" height="79" /></a>
 <div class="col-md-6">
 <div class="stillntclear">
 <h3 class="">STILL NOT CLEAR?</h3>
