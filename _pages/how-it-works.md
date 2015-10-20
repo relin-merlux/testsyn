@@ -57,8 +57,8 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" css=".vc_custom_1445340053114{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #d8d8d8 !important;}" bg_color_value="#d8d8d8"][vc_column width="1/2"][vc_column_text]
-<div style="float: right;">
+[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
+<div style="float: right; margin-top: 40px;">
 
 <strong style="color: #000000;">STILL NOT SURE</strong>
 <p style="color: #000000;">Watch our video and find out how Annie and
