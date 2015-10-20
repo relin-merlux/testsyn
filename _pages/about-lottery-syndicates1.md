@@ -71,7 +71,7 @@ LOTTO-SOCIAL</strong></p>
 <h3 class="text-center" style="color: hsl(0, 0%, 34%); font-family: lato; font-size: 20px; margin: 42px 0 34px;">WHY PLAY WITH US:</h3>
 <div class="row">
 <div class="col-md-4">
-<div class="thumbnail">
+<div class="thumbnail" style="border: 2px solid hsl(0, 0%, 88%); padding: 2px;">
 
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab003.jpg" alt="Never miss a draw again!" />
 <div class="caption">
@@ -82,7 +82,7 @@ No more last minute dashes to the shops when you realise it’s a big jackpot. W
 </div>
 </div>
 <div class="col-md-4">
-<div class="thumbnail">
+<div class="thumbnail" style="border: 2px solid hsl(0, 0%, 88%); padding: 2px;">
 
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab001.jpg" alt="One click to check your winnings" />
 <div class="caption">
@@ -93,7 +93,7 @@ There's no need to check your numbers after each draw; we do it all for you with
 </div>
 </div>
 <div class="col-md-4">
-<div class="thumbnail">
+<div class="thumbnail" style="border: 2px solid hsl(0, 0%, 88%); padding: 2px;">
 
 <img src="https://imageupdater.s3.amazonaws.com/ls/ab002.jpg" alt="1 in 5 jackpots won by a syndicate" />
 <div class="caption">
