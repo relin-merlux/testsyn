@@ -57,7 +57,7 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row parallax="content-moving" parallax_image="5020"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row_content" parallax="content-moving-fade" parallax_image="5020" bg_type="image" parallax_style="vcpb-default" bg_image_new="5020|http://www.ecommerce.lotto-social.com/wp-content/uploads/aboutmain-image.jpg"][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 40px;">FIND OUT MORE ABOUT LOTTO-SOCIAL</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="whitePaper"][vc_column][vc_column_text]
 <div class="container-fluid">
