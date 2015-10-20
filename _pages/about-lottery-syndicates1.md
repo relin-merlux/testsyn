@@ -125,12 +125,7 @@ Watch our video and find out how Annie and millions of other LottoSocial players
 
 Watch our video and find out how Annie and millions of other LottoSocial players have made their dreams come true.<img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two396.png" alt="" />
 </div>
-
-&nbsp;
 </div>
-
-&nbsp;
-
 <div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
 </div>
 
