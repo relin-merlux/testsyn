@@ -73,10 +73,8 @@ to buy late
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img21.png" alt="price-img1" />
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Tuesday
-
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Friday
-
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
@@ -89,10 +87,8 @@ prize draw
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img3.png" alt="price-img1" />
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday
-
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Friday
-
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
@@ -104,10 +100,8 @@ prize draw
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 20px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img4.png" alt="price-img1" />
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Tuesday &amp; Friday
-
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 Lotto lines every
 Wednesday &amp; Saturday
-
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
@@ -128,8 +122,6 @@ You won't need to check your lines one by one. Save time and check all your line
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
 <p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
 We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime
-or <span style="color: #2f76d7;">click here to choose one of our plans</span>.
-
-</div>
+or <span style="color: #2f76d7;">click here to choose one of our plans</span>.</div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
-<a href="/offer"><img class="size-full wp-image-5089 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/link.png" alt="link" /></a>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][logos_slider items="10" active_bw="0"][/vc_column][/vc_row]
+<a href="/offer"><img class="size-full wp-image-5089 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/link.png" alt="link" /></a>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
