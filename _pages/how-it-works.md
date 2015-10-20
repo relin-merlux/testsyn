@@ -57,10 +57,11 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]<strong style="color: #000000;">STILL NOT SURE</strong>
+[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+<div style="float: right;"><strong style="color: #000000;">STILL NOT SURE</strong></div>
 <p style="color: #000000;">Watch our video and find out how Annie and
 millions of other LottoSocial players have made
-their dreams come true.<img style="margin-left: 3px; margin-top: 5px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
+their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="4969" img_size="full" alignment="center" onclick="custom_link" link="http://www.ecommerce.lotto-social.com/pricing/"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="4967" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <div class="lplh-26"><strong>WHERE CAN I VIEW MY LOTTERY  TICKETS AND RAFFLE ENTRIES?</strong></div>
 <div class="lplh-26"></div>
