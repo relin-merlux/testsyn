@@ -54,6 +54,8 @@ ulp_onidle_popup_mobile:
   - default
 lotto_page_redirect:
   - 'no'
+lotto_reg_form:
+  - 'no'
 ---
 [vc_row][vc_column][vc_column_text]<script src="<?php echo get_template_directory_uri(); ?>/js/customLogin.js"></script>
 <div class="col-md-12 whitePaper">
@@ -62,20 +64,26 @@ lotto_page_redirect:
 
 <form id="Login-form2" class="form-horizontal" method="post" name="SeparateLoginForm">
 <div class="col-md-8 col-md-offset-1">
-<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Mobile Number</strong></label>
+<div class="form-group">
+
+<label class="col-sm-5 control-label"><strong>Enter your Mobile Number</strong></label>
 <div class="col-sm-6"><input id="SeparateLoginForm_mobile" class="form-control" style="color: black;" maxlength="100" name="SeparateLoginForm[mobile]" type="text" value="" placeholder="Enter your Mobile Number" />
- <label for="SeparateLoginForm_mobile" class="errorText hidden" name="SeparateLoginForm_mobile_errorlbl" id="SeparateLoginForm_mobile_errorlbl"></label></div>
+<label id="SeparateLoginForm_mobile_errorlbl" class="errorText hidden" for="SeparateLoginForm_mobile"></label></div>
 &nbsp;
 
 </div>
 &nbsp;
-<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Password <span class="su-tooltip" title="" data-title="" data-my="bottom center" data-hasqtip="1" data-close="no" data-classes="su-qtip qtip-bootstrap su-qtip-size-default" data-behavior="hover" data-at="top center"><img class="infoPopUpModal" src="/wp-content/uploads/info.png" alt="" width="16" height="16" /></span></strong></label>
+<div class="form-group">
+
+<label class="col-sm-5 control-label"><strong>Enter your Password <span class="su-tooltip" title="" data-title="" data-my="bottom center" data-hasqtip="1" data-close="no" data-classes="su-qtip qtip-bootstrap su-qtip-size-default" data-behavior="hover" data-at="top center"><img class="infoPopUpModal" src="/wp-content/uploads/info.png" alt="" width="16" height="16" /></span></strong></label>
 <div class="col-sm-6"><input id="SeparateLoginForm_password" class="form-control" style="color: black;" name="SeparateLoginForm[password]" type="password" value="" placeholder="Enter your Password" />
-<label for="SeparateLoginForm_password" class="errorText hidden" name="SeparateLoginForm_password_errorlbl" id="SeparateLoginForm_password_errorlbl"></label></div>
-&nbsp;</div>
+<label id="SeparateLoginForm_password_errorlbl" class="errorText hidden" for="SeparateLoginForm_password"></label></div>
+&nbsp;
+
+</div>
 &nbsp;
 <div class="form-group">
-<div class="col-sm-6 col-sm-offset-5"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button" onclick="return customValidation('separatepg');">Login</button><img class="loadSection" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
+<div class="col-sm-6 col-sm-offset-5"><input type="hidden" value="/login/" name="_wp_http_referer"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button">Login</button><img class="loadSection" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
 &nbsp;
 
 </div>
