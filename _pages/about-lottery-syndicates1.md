@@ -115,6 +115,7 @@ Watch our video and find out how Annie and millions of other LottoSocial players
 <div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
 <script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#f2f2f2"][vc_column][vc_column_text]
 
+<div style="padding: 20px 0px;">
 <div class="col-md-6">
 
 <div class="stillntclear">
@@ -130,5 +131,6 @@ Watch our video and find out how Annie and millions of other LottoSocial players
 &nbsp;
 
 <div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
+</div>
 
 <script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#fff" el_class="aboutlastfield"][vc_column][parallax height="300" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/imagedoc-darknoise.png" font_p="24"][one_fourth class="" last="no" ][counter text="Happy Customers" text_color="#ffffff" text_size="12" number="36000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="heart-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Hours Saved" text_color="#ffffff" text_size="12" number="650" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="clock-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Cups Of Coffee" text_color="#ffffff" text_size="12" number="12000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="coffee" ][/one_fourth][one_fourth class="" last="yes" ][counter text="Winners Last Month" text_color="#ffffff" text_size="12" number="23000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="star-o" ][/one_fourth][/parallax][/vc_column][/vc_row]
