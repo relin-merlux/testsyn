@@ -65,7 +65,9 @@ LOTTO-SOCIAL</strong></p>
 
 <dl><dt><strong>WHERE IT ALL BEGAN...</strong></dt><dd>Lotto social was born in 2007, after a group of university friends grouped together to play in a lottery syndicate. However, collecting the money in time often proved a problem &amp; everyone in the syndicate wasn’t always around to play each week either! The guys knew that clubbing together would mean more chances to win BIG, but they just needed someone to manage the syndicate for them…And that’s how Lotto Social came to be! Being tech savvy, Mark, Derick &amp; Roger built the very first syndicate management platform themselves. It’s taken a lot of hard work, late nights, take away pizza and of course some very loyal customers to bring you the version of Lotto Social we have today.
 
-</dd><dd></dd><dt>OUR GOAL</dt><dd>Our focus is providing you with a service that makes it easy to play in a syndicate. But we want to give you more than just the lottery. We want to create that winning formula! So whether it’s winning little and often on the EuroMillions, or playing in our exclusive member competitions – from spa treatments, to weekends away, or Amazon vouchers; we've created winning opportunities for you and fellow lottery lovers!</dd></dl>
+&nbsp;
+
+</dd><dd></dd><dt><strong>OUR GOAL</strong></dt><dd>Our focus is providing you with a service that makes it easy to play in a syndicate. But we want to give you more than just the lottery. We want to create that winning formula! So whether it’s winning little and often on the EuroMillions, or playing in our exclusive member competitions – from spa treatments, to weekends away, or Amazon vouchers; we've created winning opportunities for you and fellow lottery lovers!</dd></dl>
 <h3 class="text-center">WHY PLAY WITH US:</h3>
 <div class="row">
 <div class="col-md-4">
