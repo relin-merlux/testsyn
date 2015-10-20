@@ -115,7 +115,8 @@ Watch our video and find out how Annie and millions of other LottoSocial players
 <div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
 <script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#f2f2f2"][vc_column][vc_column_text]
 
-<div style="padding: 20px 0px;">
+<div style="margin: 20px 0px;">
+
 <div class="col-md-6">
 
 <div class="stillntclear">
