@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column width="1/4"][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" />[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" />[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-4987" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join.jpg" alt="join" />[/vc_column_text][/vc_column][vc_column width="3/4"][vc_column_text]Simply join LottoSocial by <a href="#">choosing one of our plans.</a>[/vc_column_text][vc_column_text]Simply join LottoSocial by <a href="#">choosing one of our plans.</a>[/vc_column_text][vc_column_text]Simply join LottoSocial by <a href="#">choosing one of our plans.</a>[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
+[vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right; margin-top: 40px;">
 
 <strong style="color: #000000;">STILL NOT SURE</strong>
