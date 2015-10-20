@@ -110,11 +110,13 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 <p style="text-align: center;">Just watch our super easy video and learn more about Lotto-Social. We make it so easy for you…come on, what are you waiting for?!</p>
 
 </div>
-<div class="col-md-4"><a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
+<div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
+<a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
 Watch Video
 </button>
 </a>
-<script src="//fast.wistia.com/assets/external/popover-v1.js"></script></div>
+<script src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 
 [footer_images_reg]
