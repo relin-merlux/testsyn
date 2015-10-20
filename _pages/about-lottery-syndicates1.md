@@ -68,7 +68,7 @@ LOTTO-SOCIAL</strong></p>
 &nbsp;
 
 </dd><dd></dd><dt><strong>OUR GOAL</strong></dt><dd style="font-family: lato; font-size: 16px;">Our focus is providing you with a service that makes it easy to play in a syndicate. But we want to give you more than just the lottery. We want to create that winning formula! So whether it’s winning little and often on the EuroMillions, or playing in our exclusive member competitions – from spa treatments, to weekends away, or Amazon vouchers; we've created winning opportunities for you and fellow lottery lovers!</dd></dl>
-<h3 class="text-center">WHY PLAY WITH US:</h3>
+<h3 class="text-center" style="color: hsl(0, 0%, 34%); font-family: lato; font-size: 20px; margin: 42px 0 34px;">WHY PLAY WITH US:</h3>
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
