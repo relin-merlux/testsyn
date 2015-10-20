@@ -55,6 +55,6 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][ultimate_heading margin_design_tab_text=""]Plans built for everyone![/ultimate_heading][vc_column_text]
-<h2 style="text-align: center;">Plans built for everyone!</h2>
-[/vc_column_text][/vc_column][/vc_row]
+[vc_row][vc_column][vc_column_text]
+<h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][price title="FREE" price="0" price_suffix="tEST" href="#" buttontext="JOIN NOW" centered="1"][/price][/vc_column][/vc_row]
