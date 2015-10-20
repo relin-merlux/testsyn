@@ -105,33 +105,18 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 </div>
 </div>
 <a style="margin: 20px 0px;" href="http://www.ecommerce.lotto-social.com/pricing/"><img class="size-full wp-image-5047 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan1.png" alt="4bc7bb99-au-plan" width="623" height="79" /></a>
-<div class="col-md-6">
-<div class="stillntclear">
-<h3 class="">STILL NOT CLEAR?</h3>
-Watch our video and find out how Annie and millions of other LottoSocial players have made their dreams come true.<img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two396.png" alt="" />
-
-</div>
-</div>
-<div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
-<script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#f2f2f2"][vc_column][vc_column_text] 
-
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#f2f2f2"][vc_column][vc_column_text el_class="stillntclearcont"]
 <div style="margin: 20px 0px;">
-
 <div class="col-md-6">
-
 <div class="stillntclear">
-
 <h3 class="">STILL NOT CLEAR?</h3>
-
 Watch our video and find out how Annie and millions of other LottoSocial players have made their dreams come true.<img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two396.png" alt="" />
-</div>
 
-&nbsp;
 </div>
-
 &nbsp;
 
+</div>
+&nbsp;
 <div class="col-md-6"><iframe src="http://fast.wistia.net/embed/iframe/acr33o7op8" width="300" height="150"></iframe></div>
 </div>
-
 <script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#fff" el_class="aboutlastfield"][vc_column][parallax height="300" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/imagedoc-darknoise.png" font_p="24"][one_fourth class="" last="no" ][counter text="Happy Customers" text_color="#ffffff" text_size="12" number="36000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="heart-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Hours Saved" text_color="#ffffff" text_size="12" number="650" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="clock-o" ][/one_fourth][one_fourth class="" last="no" ][counter text="Cups Of Coffee" text_color="#ffffff" text_size="12" number="12000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="coffee" ][/one_fourth][one_fourth class="" last="yes" ][counter text="Winners Last Month" text_color="#ffffff" text_size="12" number="23000" number_size="40" number_color="#ffffff" percent="no" percent_color="#000000" icon_size="65" icon_color="#ffffff" animate="no" icon_type="theme-icon" icon_theme="star-o" ][/one_fourth][/parallax][/vc_column][/vc_row]
