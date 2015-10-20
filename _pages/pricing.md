@@ -61,9 +61,9 @@ lotto_reg_form:
 
 <map id="ImageMapsCom-image-maps-2015-10-20-044238" name="image-maps-2015-10-20-044238"> <area style="outline: none;" title="" alt="" coords="30,235,194,288" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="272,349,444,402" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="526,355,688,408" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="769,348,931,401" shape="rect" href="/offer" target="_self" /> </map>
 
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445343941323{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text]
-<p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; text-align: center;">FREE</strong>
-<img class="aligncenter size-full wp-image-5125" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img11.png" alt="price-img1" /></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445344469554{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+<p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB;">FREE</strong></p>
+<img class="aligncenter size-full wp-image-5125" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img11.png" alt="price-img1" />
 <p style="color: ##636362; background: #EBEBEB; text-align: center;">Register for FREEE. Decide what
 to buy late</p>
 
