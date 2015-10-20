@@ -105,13 +105,17 @@ Remember, more lines = More chances! And don’t just take our word for it, acco
 </div>
 </div>
 <a href="http://www.ecommerce.lotto-social.com/pricing/"><img class="size-full wp-image-5047 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/4bc7bb99-au-plan1.png" alt="4bc7bb99-au-plan" width="623" height="79" /></a>
+<div class="col-md-6">
 <h3 class="text-center">STILL NOT CLEAR?</h3>
 <p style="text-align: center;">Just watch our super easy video and learn more about Lotto-Social. We make it so easy for you…come on, what are you waiting for?!</p>
-<a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
+
+</div>
+<div class="col-md-4"><a class="wistia-popover[height=360,playerColor=7b796a,width=640]" href="//fast.wistia.net/embed/iframe/acr33o7op8?popover=true"><button class="btn btn-link btn-block btn-default" type="button">
 Watch Video
 </button>
 </a>
-<script src="//fast.wistia.com/assets/external/popover-v1.js"></script>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+<script src="//fast.wistia.com/assets/external/popover-v1.js"></script></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 
 [footer_images_reg]
 
