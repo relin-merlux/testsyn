@@ -57,4 +57,8 @@ lotto_reg_form:
 ---
 [vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][price title="FREE" price="0" price_suffix="tEST" href="#" buttontext="JOIN NOW" centered="1"][/price][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][vc_column_text]<img class="alignleft size-full wp-image-5053" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img1.png" alt="price-img1" width="220" height="301" />
+<div class="button-container"><a class="btn btn-alternative" href="#">JOIN NOW</a></div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]<img class="alignleft size-full wp-image-5054" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img2.png" alt="price-img2" width="220" height="415" />
+<div class="button-container"><a class="btn btn-alternative" href="#">JOIN NOW</a></div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][/vc_row]
