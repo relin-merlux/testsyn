@@ -61,15 +61,15 @@ lotto_reg_form:
 
 <map id="ImageMapsCom-image-maps-2015-10-20-044238" name="image-maps-2015-10-20-044238"> <area style="outline: none;" title="" alt="" coords="30,235,194,288" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="272,349,444,402" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="526,355,688,408" shape="rect" href="/offer" target="_self" /> <area style="outline: none;" title="" alt="" coords="769,348,931,401" shape="rect" href="/offer" target="_self" /> </map>
 
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445346894608{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
-
-&nbsp;
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445347611222{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+<div style="border: 2px solid ##D4D4D4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;">FREE</strong></p>
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img11.png" alt="price-img1" />
 <p style="color: ##636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Register for FREEE. Decide what
 to buy late</p>
 
 <div class="button-container"><a class="btn btn-alternative" style="background: #2F76D2 !important;" href="/offer">JOIN NOW</a></div>
+</div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445345915278{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;">STARTER</strong></p>
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img21.png" alt="price-img1" />
@@ -81,14 +81,13 @@ Friday</p>
 prize draw</p>
 
 <div class="button-container"><a class="btn btn-alternative" style="background: #2F76D2 !important;" href="#">JOIN NOW</a></div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
-<p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;"><img class="aligncenter size-full wp-image-5133" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img.png" alt="pro-img" /></strong></p>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]<img class="aligncenter size-full wp-image-5135" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png" alt="pro-img" />
 <img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img3.png" alt="price-img1" />
 <p style="color: ##636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday</p>
 <p style="color: ##636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Friday</p>
-<p style="color: ##636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the 300 monthly
+<p style="color: ##636362; background: #00A651; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the 300 monthly
 prize draw</p>
 
 <div class="button-container"><a class="btn btn-alternative" style="background: #2F76D2 !important;" href="/offer">JOIN NOW</a></div>
