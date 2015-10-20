@@ -82,11 +82,11 @@ prize draw</p>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;"><img class="aligncenter size-full wp-image-5135" style="margin-top: 0;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png" alt="pro-img" />
 <img class="aligncenter size-full wp-image-5125" style="padding: 0 0 20px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img3.png" alt="price-img1" /></div>
-<p style="color: ##636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday</p>
-<p style="color: ##636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Friday</p>
-<p style="color: ##636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the 300 monthly
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the 300 monthly
 prize draw</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
