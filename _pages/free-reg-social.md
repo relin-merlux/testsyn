@@ -64,7 +64,7 @@ lotto_free_registration_step:
 <h2>Go Social!</h2>
 <h3>Make your login even easier by connecting Lotto-Social with your Facebook account. No more password required!</h3>
 <h4>Don‘t worry we will never post on your behalf.</h4>
-<a class="btn btn-success btn-lg facebookBtn1" href="#" target="_top">Connect with Facebook</a><a id="skip_reg2" class="btn btn-link btn-lg">Skip</a>
+<a class="btn btn-success btn-lg facebookBtn1" href="#" target="_blank">Connect with Facebook</a><a id="skip_reg2" class="btn btn-link btn-lg">Skip</a>
 <p id="" class="invalidError"></p>
 
 </div>
