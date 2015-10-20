@@ -71,4 +71,4 @@ or <span style="color: #2f76d7;">click here to choose one of our plans</span>.</
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
-<img class="size-full wp-image-5089 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/link.png" alt="link" />[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="size-full wp-image-5098 aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/clients.jpg" alt="clients" />[/vc_column_text][/vc_column][/vc_row]
+<a href="/offer"><img class="size-full wp-image-5089 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/link.png" alt="link" /></a>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5103" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/clients.png" alt="clients" />[/vc_column_text][/vc_column][/vc_row]
