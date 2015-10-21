@@ -59,7 +59,7 @@ lotto_reg_form:
 lotto_free_registration_step:
   - free-reg-social
 ---
-<div class="free-registration social-reg">
+[tracking_code]<div class="free-registration social-reg">
 <div class="welcom-social-reg-page text-center">
 <h2>Go Social!</h2>
 <h3>Make your login even easier by connecting Lotto-Social with your Facebook account. No more password required!</h3>
