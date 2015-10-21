@@ -57,7 +57,7 @@ lotto_reg_form:
 ---
 <div class="spinner"><div></div></div>
 <div class="loadShow">[list_of_cart_items]
-test
+
 [lotto-social-payment-processor]</div>
 
 <style>
