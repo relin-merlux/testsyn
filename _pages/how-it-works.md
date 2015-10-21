@@ -67,7 +67,7 @@ You don‘t need to do anything else, just wait for your draw to occur.</span>[/
 Your winnings will be automatically added to your account.
 </span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422004280{margin-top: -35px !important;margin-right: 65px !important;margin-left: 65px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5195" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/repeat1.jpg" alt="repeat" width="297" height="118" />
 <span style="font-family: lato; font-size: 18px;">Never miss a draw again!
-We automatically enter you in any of the following draws you selected.</span>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
+We automatically enter you in any of the following draws you selected.</span>[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right; margin-top: 40px;">
 
 <strong style="color: #000000;">STILL NOT SURE</strong>
