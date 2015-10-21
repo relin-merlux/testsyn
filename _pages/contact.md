@@ -54,5 +54,11 @@ ulp_onidle_popup:
   - default
 ulp_onidle_popup_mobile:
   - default
+lotto_reg_form:
+  - 'no'
 ---
-[vc_row][vc_column width="1/4"][contact_info title="CONTACT INFO" subtitle="OUR LONDON STORE" address="Baker Street, 221B London, UK" address_icon="None" phone="3334455666" phone_icon="None" mobile_icon="None" fax="3334455666" fax_icon="None" email="info@info.it" email_icon="None" animation_delay="0" animate="bounceIn"][/vc_column][vc_column width="1/2"][vc_column_text css_animation="appear"]<img class="alignnone size-full wp-image-1534" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/2014/06/mappa.jpg" alt="mappa" width="549" height="380" />[/vc_column_text][/vc_column][vc_column width="1/4"][contact_form name="contact-form-page-1"][/vc_column][/vc_row]
+[vc_row][vc_column width="1/2"][vc_column_text]
+<h2 style="text-align: center;"><strong>OUR FAQs</strong></h2>
+[/vc_column_text][faq filter="1"][/vc_column][vc_column width="1/2"][vc_column_text]
+<h2 style="text-align: center;"><strong>CONTACT US</strong></h2>
+[/vc_column_text][contact_form name="contact-form"][/vc_column][/vc_row]
