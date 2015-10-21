@@ -59,7 +59,7 @@ lotto_reg_form:
 lotto_free_registration_step:
   - free-reg-step4a
 ---
-<div class="free-registration 4a">
+[tracking_code]<div class="free-registration 4a">
         <div class="welcom-4a-page text-center">
           <h2>{%title%}</h2>{%body%}          
           <a href="javascript:void(0)" class="btn btn-success btn-lg reg-btn-1 free_reg_step4a_btn1 ladda-button" data-style="expand-right">{%button1%}</a>
