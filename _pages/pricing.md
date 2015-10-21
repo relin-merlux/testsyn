@@ -89,8 +89,10 @@ prize draw</p>
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 
 <img class="aligncenter size-full wp-image-5135" style="margin-top: 0;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png" alt="pro-img" />
+<p style="text-align: center; padding: 0 100px;"><span style="font-size: 40px; float: left; color: #00a850;">£</span></p>
+<p style="font-size: 60px; color: #00a850; font-weight: bold;">7</p>
 
-<img class="aligncenter size-full wp-image-5125" style="padding: 10px 0 22px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/price-img3.png" alt="price-img1" />
+<h6 style="color: #00a850; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
