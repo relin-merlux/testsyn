@@ -61,9 +61,8 @@ lotto_reg_form:
 <h1 style="color: #2f76d2; font-size: 25px; text-align: center;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
 Simply join LottoSocial by<span style="color: #2f76d2;"> choosing one of our plans.</span>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5193" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play1.jpg" alt="play" width="297" height="118" />
-We automatically join you in our EuroMillions or Lotto syndicates.
-You don‘t need to do anything else, just wait for your draw to occur.
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5194" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/win1.jpg" alt="win" width="297" height="118" />
+<span style="font-size: 18px;">We automatically join you in our EuroMillions or Lotto syndicates.
+You don‘t need to do anything else, just wait for your draw to occur.</span>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5194" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/win1.jpg" alt="win" width="297" height="118" />
 Check all your tickets with a simple click.
 Your winnings will be automatically added to your account.
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5195" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/repeat1.jpg" alt="repeat" width="297" height="118" />
