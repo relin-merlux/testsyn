@@ -60,6 +60,8 @@ lotto_reg_form:
 [vc_row][vc_column][vc_column_text]
 <h1 style="color: #2f76d2; font-size: 25px; text-align: center;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
+Simply join LottoSocial by choosing one of our plans.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
+Simply join LottoSocial by choosing one of our plans.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
 Simply join LottoSocial by choosing one of our plans.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<img class="aligncenter size-full wp-image-5108" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/how-its-work-img.png" alt="how-its-work-img" />[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right; margin-top: 40px;">
 
