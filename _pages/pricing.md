@@ -103,7 +103,7 @@ prize draw</p>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;">VIP</strong></p>
-<p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
+<p style="text-align: center; padding: 0 76px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">15</p>
 
 <h6 style="color: #2b77d3; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
