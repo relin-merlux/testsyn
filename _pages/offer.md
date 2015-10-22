@@ -55,7 +55,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]<img class="alignleft size-full wp-image-5363" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" alt="c16b30a6-lp-bg" width="1858" height="477" />[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
+[vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
 <div class="lplh-29" style="text-align: center;"><span style="font-family: lato;"><strong><span style="font-size: 18px;">What‘s included in my 7 day free trial?</span></strong></span></div>
 <div style="text-align: center;"><span style="font-family: lato;">• 20 FREE EuroMillions lines valid for the next 2 draws</span></div>
 <div style="text-align: center;"><span style="font-family: lato;">• 20 EuroMillions lines a week afterwards for only £5 per week. You can become a millionaire for the price of 2 coffees!</span></div>
