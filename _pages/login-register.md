@@ -56,17 +56,17 @@ lotto_reg_form:
   - 'no'
 ---
 
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myRegisterModal"> LOGIN / REGISTER MODAL </button>
-<div class="modal fade" id="myLoginModal">
+<button type="button" class="btn btn-primary btn-lg tc" data-toggle="modal" data-target="#myRegisterModal"> LOGIN / REGISTER MODAL </button>
+<div class="modal fade" id="myRegisterModal">
   <div class="modal-dialog modal-md">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Login</h4>
+        <h4 class="modal-title" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h4>
       </div>
       <div class="modal-body">
-        <div id="customer_login">
-          <div class="customer-login-box customer-login-box1">
+        <div id="customer_login" class="row">
+          <div class="col-sm-6">
             <h4> Login </h4>
             <form method="post" class="login">
               <div class="form-group">
@@ -90,7 +90,7 @@ lotto_reg_form:
               <div class="form-group"> </div>
             </form>
           </div>
-          <div class="customer-login-box customer-login-box2">
+          <div class="col-sm-6">
             <h4> First time here? Create your account </h4>
             <form method="post" class="register" id="payment_form" name="payment_form">
               <input type="hidden" name="gender" id="gender" value="">
