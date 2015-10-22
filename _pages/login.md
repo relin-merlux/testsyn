@@ -57,37 +57,25 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-<div class="row">
-<div class="col-md-9 whitePaper">
-<h2 class="bold blue">Login</h2>
-<form id="Login-form2" class="form-horizontal" method="post" name="SeparateLoginForm">
-<div class="col-md-8 col-md-offset-1">
-<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Mobile </strong></label>
-<div class="col-sm-6"><input id="SeparateLoginForm_mobile" class="form-control" style="color: black;" maxlength="100" name="SeparateLoginForm[mobile]" type="text" value="<?php echo Yii::app()->request->cookies['coki_msn']->value;?>" placeholder="Enter your Mobile Number" /></div>
-</div>
-<div class="form-group"><label class="col-sm-5 control-label"><strong>Enter your Password [tooltip style="bootstrap" position="top" shadow="no" rounded="no" size="default" title="" content="Your password may include uppercase and lowercase characters (LOTTO is different from lotto). You can also use your latest unique order reference to login." behavior="hover" close="no" class=""]<img class="infoPopUpModal" src="/images/info.png" alt="" width="16" height="16" />[/tooltip]</strong></label>
-<div class="col-sm-6"><input id="SeparateLoginForm_password" class="form-control" style="color: black;" name="SeparateLoginForm[password]" type="password" value="<?php echo Yii::app()->request->cookies['coki_pwd']->value;?>" placeholder="Enter your Password" /></div>
-</div>
-<div class="form-group">
-<div class="col-sm-6 col-sm-offset-5"><button id="login2" class="btn btn-primary popupLogin btn-block" type="button">Login</button><img class="loadSection" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2013/11/move-spinner.gif" alt="spinner" /></div>
-</div>
-<div class="form-group">
-<div class="col-sm-5">
-<div class="checkbox"><label><input id="Separateremember" name="Separateremember" type="checkbox" /> Remember Me</label>
-<a href="/forgot-password">Forgot your password?</a></div>
-</div>
-<div class="col-sm-6">Tip: your password may include uppercase and lowercase characters (LOTTO is different from lotto)</div>
-</div>
-<div class="form-group hide">
-<div class="col-sm-5 control-label"></div>
-<div class="col-sm-6 tc orImage"><img src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/or-login.png" alt="or" /></div>
-</div>
-<div class="form-group hide">
-<div class="col-sm-5 control-label"></div>
-<div class="col-sm-6 tc"><a class="btn btn-block btn-primary fb-Btn" href="<?php echo $fb;?>">Facebook</a><a class="btn btn-block btn-primary gplus-Btn" href="<?php echo $fb;?>">Google+</a></div>
-</div>
-</div>
-</form></div>
-[home_top_right_elements]
-
-</div>
+<h4> Login </h4>
+            <form method="post" class="login">
+              <div class="form-group">
+                <label for="login_mobile"> Mobile Number <span class="required">*</span></label>
+                <input type="text" class="form-control" name="login_mobile" id="login_mobile" value="">
+                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl"></label>
+              </div>
+              <div class="form-group">
+                <label for="login_password"> Password <span class="required">*</span></label>
+                <input class="form-control" type="password" name="login_password" id="login_password">
+                <label for="login_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl"></label>
+              </div>
+              <div class="form-group">
+                <input type="hidden" id="_wpnonce" name="_wpnonce" value="00b49eda77">
+                <input type="hidden" name="_wp_http_referer" value="/">
+                <input type="button" class="button button-login" onclick="return customValidation();" name="login" value="Login">
+                <p class="lost_password"> <a href="http://www.ecommerce.lotto-social.com/my-account/lost-password/"> Lost password? </a> </p>
+                <!-- <label for="rememberme" class="inline">
+                                                        <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> --> 
+              </div>
+              <div class="form-group"> </div>
+            </form>
