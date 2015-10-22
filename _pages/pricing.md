@@ -106,7 +106,7 @@ prize draw</p>
 <p style="text-align: center; padding: 0 76px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">15</p>
 
-<h6 style="color: #2b77d3; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
+<h6 style="color: #2b77d3; left: 122px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Tuesday &amp; Friday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 Lotto lines every
