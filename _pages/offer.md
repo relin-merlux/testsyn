@@ -55,7 +55,19 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
+[vc_row][vc_column width="1/2" css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
+<div class="timing-events">
+<h6>NEXT DRAWIN</h6>
+<h1>01 :
+DAYS</h1>
+<h1>30 :
+HOURS</h1>
+<h1>15 :
+MINS</h1>
+<h1>01
+SECS</h1>
+</div>
+[/vc_column_text][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5147" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/points-img4.png" alt="points-img4" width="58" height="56" /><strong>REWARD POINTS</strong>
@@ -69,7 +81,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <strong style="color: #000000;">STILL NOT SURE</strong>
 <p style="color: #000000;">Watch our video and find out how Annie and
 millions of other LottoSocial players have made
-their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" />
+their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row]
