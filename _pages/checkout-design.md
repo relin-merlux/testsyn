@@ -106,5 +106,5 @@ lotto_reg_form:
       </tr>
     </tbody>
   </table>
-  <div class="tr"> <a href="#" class="add_to_cart_button btn btn-alternative product_type_simple">CONFIRM PURCHASE</a> </div>
+  <div class="col-sm-4 col-sm-offset-8"> <a href="#" class="add_to_cart_button btn btn-alternative product_type_simple">CONFIRM PURCHASE</a> </div>
 </div>
