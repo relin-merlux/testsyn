@@ -64,4 +64,5 @@ lotto_free_registration_step:
           <h2>{%title%}</h2>{%body%}          
           <a href="javascript:void(0)" class="btn btn-success btn-lg reg-btn-1 free_reg_step4a_btn1 ladda-button" data-style="expand-right">{%button1%}</a>
           </div>
+<div class="target_url hide">{%target_url%}</div>
       </div>
