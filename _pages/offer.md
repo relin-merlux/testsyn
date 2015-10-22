@@ -63,12 +63,14 @@ You automatically enter our loyalty scheme and gain reward points to buy exclusi
 We have a wide range of prize draws available for our members from sps days to trips around the world[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5143" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-img2.png" alt="reward-img2" width="58" height="56" /><strong>PRIZE DRAWS</strong>
 We have a wide range of prize draws available for our members from sps days to trips around the world[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5144" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/credit-img3.png" alt="credit-img3" width="58" height="56" /><strong>BONUS CREDIT</strong>
 Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5144" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/credit-img3.png" alt="credit-img3" width="58" height="56" /><strong>BONUS CREDIT</strong>
-Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][/vc_column][/vc_row]
 
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+<div style="float: right; margin-top: 40px;">
 
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+<strong style="color: #000000;">STILL NOT SURE</strong>
+<p style="color: #000000;">Watch our video and find out how Annie and
+millions of other LottoSocial players have made
+their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
 
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-[/vc_column_text][/vc_column][/vc_row]
+</div>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
