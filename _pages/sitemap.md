@@ -65,14 +65,14 @@ lotto_reg_form:
 	<li><a href="http://www.ecommerce.lotto-social.com/pricing/">Pricing</a></li>
 </ul>
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
-<ul>
+<ul class="menu-bar">
 	<li><a href="http://www.ecommerce.lotto-social.com/shop/">Shop</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/product/awards-point/">Award Points</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/wishlist/view/">Views</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/lottery-results-for-lotto-and-euromillions/">Lottery Results for Lotto and Euromillions</a></li>
 </ul>
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
-<ul>
+<ul class="menu-bar">
 	<li><a href="http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/">Term and Conditions for Lottery Syndicate Membership</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership/"> Enter Detail for Lottery Syndicate Membership</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/login/">Login</a></li>
