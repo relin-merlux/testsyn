@@ -54,6 +54,8 @@ ulp_onidle_popup:
   - default
 ulp_onidle_popup_mobile:
   - default
+lotto_reg_form:
+  - 'no'
 ---
 <div class="row">
 <div class="col-md-9 whitePaper">
