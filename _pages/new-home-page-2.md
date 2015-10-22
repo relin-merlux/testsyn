@@ -57,7 +57,7 @@ lotto_reg_form:
 [vc_row][vc_column][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" show_excerpt="0" excerpt_length="10"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/5ee24913-ico1.png" title="Never miss a draw" title_size="h3"]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/5ee24913-ico1.png" title="Never miss a draw" title_size="h3"]
 <p style="text-align: center;">We enter you in every of your selected EuroMillions and/or Lotto draws.</p>
 
 <ul>
