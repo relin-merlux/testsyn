@@ -57,6 +57,8 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
+<div id="customer_login" class="row">
+          <div class="col-sm-6">
 <h4> Login </h4>
             <form method="post" class="login">
               <div class="form-group">
@@ -79,3 +81,5 @@ lotto_reg_form:
               </div>
               <div class="form-group"> </div>
             </form>
+</div>
+</div>
