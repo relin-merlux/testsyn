@@ -56,6 +56,8 @@ ulp_onidle_popup:
   - default
 ulp_onidle_popup_mobile:
   - default
+lotto_reg_form:
+  - 'no'
 ---
 [vc_row][vc_column][woocommerce_my_account order_count="15"][vc_column_text]<!--:en-->
 <div id="postcode" class="modal fade" tabindex="-1">
