@@ -57,3 +57,17 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
+<ul>
+<li><a href="http://www.ecommerce.lotto-social.com/">Home</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/about/">About</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/how-it-works/">How it works<</a>/li>
+    <li><a href="http://www.ecommerce.lotto-social.com/pricing/">Pricing</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/shop/">Shop</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/product/awards-point/">Award Points</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/wishlist/view/">Views</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/lottery-results-for-lotto-and-euromillions/">Lottery Results for Lotto and Euromillions</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/">Term and Conditions for Lottery Syndicate Membership</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership/"> Enter Detail for Lottery Syndicate Membership</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/login/">Login</a></li>
+    <li><a href="http://www.ecommerce.lotto-social.com/unsubscriber/"> Unsubcriber</a>/li>
+</ul>
