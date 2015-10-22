@@ -56,6 +56,7 @@ lotto_reg_form:
   - 'no'
 ---
 <div class="woocommerce" id="yith-wcwl-form">
+<h1>Checkout</h1>
   <table class="shop_table cart wishlist_table" cellspacing="0">
     <thead>
       <tr>
