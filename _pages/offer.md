@@ -56,6 +56,11 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
+<div class="lplh-29" style="text-align: center;"><span style="font-family: lato;"><strong><span style="font-size: 18px;">What‘s included in my 7 day free trial?</span></strong></span></div>
+<div style="text-align: center;"><span style="font-family: lato;">• 20 FREE EuroMillions lines valid for the next 2 draws</span></div>
+<div style="text-align: center;"><span style="font-family: lato;">• 20 EuroMillions lines a week afterwards for only £5 per week. You can become a millionaire for the price of 2 coffees!</span></div>
+<div style="text-align: center;"><span style="font-family: lato;">• Get entered in every EuroMillions draws, never miss a draw anymore!</span></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5147" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/points-img4.png" alt="points-img4" width="58" height="56" /><strong>REWARD POINTS</strong>
