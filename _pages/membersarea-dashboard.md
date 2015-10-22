@@ -59,35 +59,13 @@ lotto_reg_form:
 lotto_free_registration_step:
   - free-reg-step_memberarea
 ---
-[vc_row el_class="row memberNew"][vc_column width="1/1"][vc_row_inner el_class="row"][vc_column_inner width="1/1"][vc_column_text][limb_msg]
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner width="1/2" el_class="col-sm-6 tc"][vc_column_text][dashboard_slider]
-
-[/vc_column_text][vc_column_text el_class="visible-xs"][result_euro_lotto]
-
-[/vc_column_text][vc_column_text el_class="hidden-xs"][dashboard_playing_in]
-
-[/vc_column_text][vc_column_text]
+[vc_row el_class="row memberNew"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/1" el_class="col-lg-12"][vc_column_text][limb_msg][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="col-lg-12 padding-xs-zero"][vc_column_inner width="1/2" el_class="col-sm-6 tc"][vc_column_text][dashboard_slider][/vc_column_text][vc_column_text el_class="visible-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="hidden-xs"][dashboard_playing_in][/vc_column_text][vc_column_text]
 <div id="blogcontent" class="col-lg-12 whiteBg padding-xs">
 <div class="blogimage" style="position: relative;">
 
-<a style="text-decoration: none; color: #fff;" title="How the rich get hitched…" href="/news/choices-choices-choices-where-will-you-be-jetting-off-to-this-mega-friday/" target="_blank"><img class="img-responsive" src="https://news-lotto-social.s3.amazonaws.com/news/wp-content/uploads/2015/09/mftrip.jpg" alt="Where will you be jetting off to this Mega Friday?" /></a>
-<div class="blog-title"><a style="text-decoration: none; color: #fff;" title="How the rich get hitched…" href="/news/choices-choices-choices-where-will-you-be-jetting-off-to-this-mega-friday/" target="_blank"><span style="color: #24890d;">Our writers think</span> <span style="color: #888888;">•</span> Where will you be jetting off to this Mega Friday?
+<a style="text-decoration: none; color: #fff;" title="Say Hello to this month’s MEGA Friday getaway…" href="/news/say-hello-to-this-months-mega-friday-getaway-song-saa-island-is-no-longer-a-secret/" target="_blank"><img class="img-responsive" src="https://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/mfri_island_header.jpg" alt="Say Hello to this month’s MEGA Friday getaway..." /></a>
+<div class="blog-title"><a style="text-decoration: none; color: #fff;" title="Find out more about our spa competition…" href="/news/say-hello-to-this-months-mega-friday-getaway-song-saa-island-is-no-longer-a-secret/" target="_blank"><span style="color: #24890d;">Our writers think</span> <span style="color: #888888;">•</span> Say Hello to this month’s MEGA Friday getaway…
 </a></div>
 </div>
 </div>
-[/vc_column_text][vc_column_text el_class="hidden-xs"][have_you_got_a_voucher_desktop]
-
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6 tc"][vc_column_text][spend_your_bouns]
-
-[/vc_column_text][vc_column_text][next_events]
-
-[/vc_column_text][vc_column_text el_class="hidden-xs"][result_euro_lotto]
-
-[/vc_column_text][vc_column_text el_class="visible-xs"][have_you_got_a_voucher_mobile]
-
-[/vc_column_text][vc_column_text][dashboard_your_offers]
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-
-[/vc_column_text][/vc_column][/vc_row]
+[/vc_column_text][vc_column_text el_class="hidden-xs"][have_you_got_a_voucher_desktop][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6 tc"][vc_column_text][spend_your_bouns][/vc_column_text][vc_column_text][next_events][/vc_column_text][vc_column_text el_class="hidden-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="visible-xs"][have_you_got_a_voucher_mobile][/vc_column_text][vc_column_text][dashboard_your_offers][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
