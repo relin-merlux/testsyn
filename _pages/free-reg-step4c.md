@@ -59,7 +59,7 @@ lotto_reg_form:
 lotto_free_registration_step:
   - free-reg-step4c
 ---
-<div class="free-registration 4c">
+<div class="free-registration 4c"><div class="target_url hide">{%target_url%}</div>
 <div class="offer-popup hide" style="vertical-align: middle;">
 <div class="whiteBg1">
 <div class="offerreject1">
