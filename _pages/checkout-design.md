@@ -55,6 +55,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
+<div class="woocommmerce" id="yith-wcwl-form">
 <table class="shop_table cart wishlist_table" cellspacing="0">
   <thead>
     <tr>
@@ -81,3 +82,4 @@ lotto_reg_form:
     </tr>
   </tbody>
 </table>
+</div>
