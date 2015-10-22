@@ -57,8 +57,8 @@ lotto_reg_form:
 ---
 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myLoginModal"> Login button </button>
 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myRegisterModal"> Register button </button>
-<div class="modal modal-md fade" id="myLoginModal">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="myLoginModal">
+  <div class="modal-dialog modal-md">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -91,8 +91,8 @@ lotto_reg_form:
     </div>
   </div>
 </div>
-<div class="modal modal-md fade" id="myRegisterModal">
-  <div class="modal" role="document">
+<div class="modal fade" id="myRegisterModal">
+  <div class="modal-dialog modal-md">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
