@@ -56,58 +56,31 @@ lotto_reg_form:
 ---
 [vc_row][vc_column][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
-<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/5ee24913-ico1.png" title="Never miss a draw" title_size="h3"]
-<p style="text-align: center;">We enter you in every of your selected EuroMillions and/or Lotto draws.</p>
+<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span>
 
-<ul>
-	<li class="lplh-16">No more journeys to the newsagent</li>
-	<li class="lplh-16">Never forget to buy a ticket again</li>
-	<li class="lplh-16">We‘ll do the job for you, you just sit back relax and become the next millionaire</li>
-</ul>
-[/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/964eca4b-ico2.png" title="More lines, more chances" title_size="h3"]
-<p style="text-align: center;">Yeah, that‘s right far more chances of hitting the jackpot!</p>
-
-<ul>
-	<li class="lplh-16">Joining our syndicate you share the cost of the ticket</li>
-	<li class="lplh-16">You‘ll get far more chances to hit the jackpot than playing alone</li>
-</ul>
-[/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/3e693b4f-ico3.png" title="Mobile ready" title_size="h3"]
-<p style="text-align: center;">Your account is fully accessible from any device including your smartphone.</p>
-
-<ul>
-	<li class="lplh-16">Receive cashouts and important notifications directly on your smartphone</li>
-	<li class="lplh-16">Improved account security</li>
-</ul>
-[/box_section][/vc_column][vc_column width="1/4"][box_section layout="vertical" icon_type="custom" icon_url="/wp-content/uploads/c9b07e20-ico4.png" title="More than just lottery" title_size="h3"]
-<p style="text-align: center;">LottoSocial is not just about lottery. Inside your members area you will find:</p>
-
-<div id="lp-pom-text-42" class="lp-element lp-pom-text nlh">
-<ul>
-	<li class="lplh-16">Instant win games</li>
-	<li class="lplh-16">Periodic prize draws</li>
-	<li class="lplh-16">Exclusive offers</li>
-	<li class="lplh-16">Loyalty scheme</li>
-</ul>
-</div>
-[/box_section][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
 
 [button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]Find out more about the service[/button]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span>11M</strong></span></p>
 <p style="margin: 0px;">Draw Date: 06-10-2015</p>
+
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: 07-10-2015</p>
+
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>VISIT OUR STORE
-</strong></p>
+</strong>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]
 
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit!
