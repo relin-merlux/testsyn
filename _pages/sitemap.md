@@ -58,7 +58,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row][vc_column width="1/3"][vc_column_text]
-<ul class="nav-menu">
+<ul class="menu-bar ">
 	<li><a href="http://www.ecommerce.lotto-social.com/">Home</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/about/">About</a></li>
 	<li><a href="http://www.ecommerce.lotto-social.com/how-it-works/">How it works</a></li>
