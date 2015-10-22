@@ -61,7 +61,7 @@ lotto_reg_form:
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h2 class="modal-title tc bold" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h2>
+        <h3 class="modal-title tc bold" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h3>
       </div>
       <div class="modal-body">
         <div class="row">
