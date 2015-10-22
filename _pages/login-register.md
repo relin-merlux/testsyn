@@ -57,7 +57,7 @@ lotto_reg_form:
 ---
 
 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myRegisterModal"> LOGIN / REGISTER MODAL </button>
-<div class="modal fade" id="myRegisterModal">
+<div class="modal fade" id="myLoginModal">
   <div class="modal-dialog modal-md">
     <div class="modal-content">
       <div class="modal-header">
