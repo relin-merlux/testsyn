@@ -55,7 +55,6 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-
 <button type="button" class="btn btn-primary btn-lg tc" data-toggle="modal" data-target="#myRegisterModal"> LOGIN / REGISTER MODAL </button>
 <div class="modal fade" id="myRegisterModal">
   <div class="modal-dialog modal-md">
@@ -65,6 +64,7 @@ lotto_reg_form:
         <h4 class="modal-title" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h4>
       </div>
       <div class="modal-body">
+      <div class="col-sm-10 col-sm-offset-1">
         <div id="customer_login" class="row">
           <div class="col-sm-6">
             <h4> Login </h4>
@@ -150,6 +150,7 @@ lotto_reg_form:
               </div>
             </form>
           </div>
+        </div>
         </div>
       </div>
     </div>
