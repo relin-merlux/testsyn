@@ -61,9 +61,10 @@ lotto_reg_form:
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h4>
+        <h4 class="modal-title tc" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h4>
       </div>
       <div class="modal-body">
+      <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
         <div id="customer_login" class="row">
           <div class="col-sm-6">
@@ -150,6 +151,7 @@ lotto_reg_form:
               </div>
             </form>
           </div>
+        </div>
         </div>
         </div>
       </div>
