@@ -97,7 +97,7 @@ lotto_reg_form:
         <td class="product-remove"><div> <a href="#" class="remove remove_from_wishlist" title="Remove this product"><span class="remove fa fa-times"></span></a> </div></td>
         <td class="product-thumbnail"><a href="http://www.ecommerce.lotto-social.com/product/burger/"> <img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"> </a></td>
         <td class="product-name-price"><a href="http://www.ecommerce.lotto-social.com/product/burger/">Burger</a></td>
-        <td class="product-price"><span class="amount">2000</span></td>
+        <td class="product-price"><span class="amount">2,000</span></td>
         <td class="product-quantity"><div class="quantity buttons_added">
             <input type="button" value="-" class="minus">
             <input type="number" step="1" title="Qty" value="1" class="input-text qty text" size="4">
