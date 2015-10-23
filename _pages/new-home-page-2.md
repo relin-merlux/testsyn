@@ -54,10 +54,10 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
+[vc_row css=".vc_custom_1445590407500{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"][next_jackpot]
-<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo $currencyForEuro.round($NextJackpotValues['homeEuroJackpot'])?></strong></span></p>
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span>11M</strong></span></p>
 <p style="margin: 0px;">Draw Date: 06-10-2015</p>
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
