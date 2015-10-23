@@ -84,9 +84,7 @@ prize draw</p>
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
-<div style="border: 2px solid #d4d4d4; border-radius: 3px;">
-
-<img class="aligncenter size-full wp-image-5135" style="margin-top: 0;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png" alt="pro-img" />
+<div style="border: 2px solid #d4d4d4; border-radius: 3px;"></div>
 <p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #00a850; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #00a850; font-weight: bold;">7</p>
 
@@ -99,7 +97,6 @@ Friday</p>
 prize draw</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
-</div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;">VIP</strong></p>
