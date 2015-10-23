@@ -55,8 +55,6 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-<?php global $test;; echo $test;?>
-
 <form id="IframeCreditCardForm" action="" method="post" name="IframeCreditCardForm">
 <div id="credit-card-formdiv" class="col-lg-12" style="display: none;">
 <div style="display: inline-block; max-width: 300px;">
