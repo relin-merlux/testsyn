@@ -85,7 +85,7 @@ prize draw</p>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
-<div style="background: url('http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png') no-repeat top center; width: 264px; height: 94px;"></div>
+<div style="background: url('http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img1.png') no-repeat top center; width: 264px; height: 59px;"></div>
 <p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #00a850; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #00a850; font-weight: bold;">7</p>
 
