@@ -54,10 +54,12 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row css=".vc_custom_1445595578746{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
+[vc_row css=".vc_custom_1445590407500{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); print_r($NextJackpotValues); ?>&lt;p style="margin: 0px; font-size: 45px;"&gt;&lt;span style="color: #6699cc;"&gt;&lt;strong&gt;&lt;span class="product_price"&gt;&lt;span class="amount"&gt;£&lt;/span&gt;&lt;/span&gt;<?php echo round($NextJackpotValues['homeEuroJackpot'])?>&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style="margin: 0px;"&gt;<?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?>&lt;/p&gt;[/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); print_r($NextJackpotValues); ?>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?></strong></span></p>
+<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
+[/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php print_r($NextJackpotValues); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
@@ -81,7 +83,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 
 Don't take our words for granted . This is what our customers say
 
-[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
+[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_color_value="#eaeaea"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
 
 <span style="font-size: 16px;"><span style="font-family: lato;">No contracts, no surprises. Try our service for FREE for 7 days</span></span>
 
