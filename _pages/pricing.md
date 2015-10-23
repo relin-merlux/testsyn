@@ -144,7 +144,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <p style="text-align: center;"><strong>VISIT OUR STORE</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445342787412{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445342787412{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right;">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
