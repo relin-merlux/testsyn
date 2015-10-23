@@ -58,7 +58,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row][vc_column][vc_column_text]
-<h1 style="color: #2f76d2; font-size: 25px; text-align: center;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
+<h1 style="color: #2f76d2; font-size: 25px; text-align: center; margin-top: 38px;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422340388{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
 <span style="font-size: 18px; position: relative; top: 25px;">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span>.</span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422366424{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5193" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play1.jpg" alt="play" width="297" height="118" />
 <span style="font-size: 18px; position: relative; top: 14px;">We automatically join you in our EuroMillions or Lotto syndicates.
