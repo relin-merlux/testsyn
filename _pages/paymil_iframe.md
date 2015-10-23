@@ -59,7 +59,9 @@ lotto_reg_form:
 <div id="credit-card-formdiv" class="col-lg-12" style="display: none;">
 <div style="display: inline-block; max-width: 300px;">
 <h4 id="creditCardText" style="display: none;">Credit Card Details</h4>
-<div><!-- Other fields of your form -->
+<div>
+
+<!-- Other fields of your form -->
 <div id="credit-card-fields"><!-- Embedded credit card frame will load here --></div>
 <!-- Other fields of your form -->
 
