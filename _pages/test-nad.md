@@ -60,8 +60,8 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[next_jackpot]
 <?php
+do_shortcode([next_jackpot]);
 global $NextJackpotValues;
 print_r($NextJackpotValues);
 ?>
