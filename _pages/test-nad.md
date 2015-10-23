@@ -60,7 +60,8 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
+echo '1'
 <?php
-global $user_logged;
-echo 'user logged'.$user_logged;
+$test = do_shortcode('[next_jackpot]');
+print_r($test);
 ?>
