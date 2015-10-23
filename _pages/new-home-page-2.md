@@ -58,7 +58,7 @@ lotto_reg_form:
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
-<p style="margin: 0px;"><?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
+<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
@@ -83,7 +83,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 
 Don't take our words for granted . This is what our customers say
 
-[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounce"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
+[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
 
 <span style="font-size: 16px;"><span style="font-family: lato;">No contracts, no surprises. Try our service for FREE for 7 days</span></span>
 
