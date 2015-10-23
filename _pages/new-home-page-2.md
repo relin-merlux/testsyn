@@ -56,8 +56,10 @@ lotto_reg_form:
 ---
 [vc_row full_width="stretch_row" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>&lt;p style="margin: 0px; font-size: 45px;"&gt;&lt;span style="color: #6699cc;"&gt;&lt;strong&gt;&lt;span class="product_price"&gt;&lt;span class="amount"&gt;£&lt;/span&gt;&lt;/span&gt;<?php echo round($NextJackpotValues['homeEuroJackpot'])?>&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style="margin: 0px;"&gt;<?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?>&lt;/p&gt;[/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?></strong></span></p>
+<p style="margin: 0px;"><?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
+[/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
