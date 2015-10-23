@@ -127,9 +127,9 @@ Join now and play our games in your members area. Decide it playing for fee or r
 Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click![/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445359214679{background-color: #f2f2f2 !important;}"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
-<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span>11M</strong></span></p>
-<p style="margin: 0px;">Draw Date: 06-10-2015</p>
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
+<p style="margin: 0px;"><?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
 <div class="wpb_text_column wpb_content_element jackpot-title">
 <div class="wpb_wrapper">
@@ -137,9 +137,9 @@ You won't need to check your lines one by one. Save time and check all your line
 
 </div>
 </div>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
-<p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
-<p style="margin: 0px;">Draw Date: 07-10-2015</p>
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
+<p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
+<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
 <p style="text-align: center;"><strong>VISIT OUR STORE</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
