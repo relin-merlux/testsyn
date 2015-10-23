@@ -57,4 +57,4 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row el_class="row memberNew pageProfile"][vc_column width="1/1"][vc_row_inner el_class="col-lg-12"][vc_column_inner width="1/2" el_class="col-md-3 col-sm-4 tc"][vc_column_text][profile_left_side][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-md-9 col-sm-8"][vc_column_text][profile_right_side][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
+[vc_row el_class="row memberNew pageProfile"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/2" el_class="col-md-3 col-sm-4 tc"][vc_column_text][profile_left_side][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-md-9 col-sm-8"][vc_column_text][profile_right_side][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
