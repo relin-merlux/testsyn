@@ -56,24 +56,30 @@ lotto_reg_form:
 ---
 [vc_row css=".vc_custom_1445590407500{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"][next_jackpot]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo $currencyForEuro.round($NextJackpotValues['homeEuroJackpot'])?></strong></span></p>
 <p style="margin: 0px;">Draw Date: 06-10-2015</p>
+
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£4</span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: 07-10-2015</p>
+
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>VISIT OUR STORE
-</strong></p>
+</strong>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]
 
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit!
 
 [/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
-<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
+<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span>
+
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
 
@@ -83,7 +89,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 
 Don't take our words for granted . This is what our customers say
 
-[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_color_value="#eaeaea"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
+[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_color_value="#eaeaea"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
 
 <span style="font-size: 16px;"><span style="font-family: lato;">No contracts, no surprises. Try our service for FREE for 7 days</span></span>
 
