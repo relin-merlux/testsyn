@@ -59,7 +59,8 @@ lotto_reg_form:
 lotto_free_registration_step:
   - free-reg-step4c
 ---
-<div class="free-registration 4c"><div class="target_url hide">{%target_url%}</div>
+<div class="free-registration 4c">
+<div class="target_url hide">{%target_url%}</div><div class="target_url hide">{%iframe_url%}</div>
 <div class="offer-popup hide" style="vertical-align: middle;">
 <div class="whiteBg1">
 <div class="offerreject1">
@@ -83,27 +84,5 @@ lotto_free_registration_step:
 <div id="spinner-on" style="display: none;"></div>
 <div id="spinner-off" style="display: none;"></div>
 <script id="loader" src="/cms2/wp-content/themes/textlotto/js/spinner.js" type="text/javascript"></script><script>// <![CDATA[
-$(document).ready(function() {
-    $(".offer-popup").hide();
-    $(".notinterested-btn").click(function() {
-       $(".offer-popup").show();
-    });
- $(".close-popup-link").click(function() {
-         $(".offer-popup").hide();
-    });
-    $(".free_reg_step4c_btn1").click(function() {
-        $(".whiteBg1").css("height", "200");
-        $(".offerreject1").hide();
-        $(".spinner4cNew").show();
-    });
-    var spinner; 
-    $("#spinner-on").click(function(){	
-	spinner = new ajaxLoader($('.welcom-4c-page'), {classOveride: 'blue-loader', bgColor: '#fff', opacity: '0.5'});
-        $('#ValidatingDiv').css('display', 'block').css('opacity', '0.6');
-    });
-    $("#spinner-off").click(function(){	
-	if (spinner) spinner.remove();
-        $('#ValidatingDiv').css('display', 'none').css('opacity', '0');
-    });
-});
+$(document).ready(function() { $(".offer-popup").hide(); $(".notinterested-btn").click(function() { $(".offer-popup").show(); }); $(".close-popup-link").click(function() { $(".offer-popup").hide(); }); $(".free_reg_step4c_btn1").click(function() { $(".whiteBg1").css("height", "200"); $(".offerreject1").hide(); $(".spinner4cNew").show(); }); var spinner; $("#spinner-on").click(function(){ spinner = new ajaxLoader($('.welcom-4c-page'), {classOveride: 'blue-loader', bgColor: '#fff', opacity: '0.5'}); $('#ValidatingDiv').css('display', 'block').css('opacity', '0.6'); }); $("#spinner-off").click(function(){ if (spinner) spinner.remove(); $('#ValidatingDiv').css('display', 'none').css('opacity', '0'); }); });
 // ]]></script>
