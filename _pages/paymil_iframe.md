@@ -55,6 +55,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
+<?php echo 'PaymillMethod'.$PaymillMethod ?>
 <form action="" method="post" name="IframeCreditCardForm" id="IframeCreditCardForm">	
 	<div class="col-lg-12" style="background-color:white; text-align:center;" id='credit-card-formdiv' style='display:none' >
 		<div style="display: block;max-width: 300px; display: inline-block;" >
