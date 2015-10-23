@@ -61,7 +61,7 @@ lotto_reg_form:
   - 'no'
 ---
 <?php
-$t= do_shortcode([next_jackpot]);
 global $NextJackpotValues;
+$a = do_shortcode('[next_jackpot]');
 print_r($NextJackpotValues);
 ?>
