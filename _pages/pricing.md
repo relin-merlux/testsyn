@@ -63,8 +63,7 @@ lotto_reg_form:
 <p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">0</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Register for FREEE. Decide what
-to buy late</p>
-
+to buy late
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445523229176{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
@@ -75,12 +74,13 @@ to buy late</p>
 
 <h6 style="color: #2b77d3; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
-Tuesday</p>
-<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
-Friday</p>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
-prize draw</p>
+Tuesday
 
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
+Friday
+
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
+prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
@@ -91,12 +91,13 @@ prize draw</p>
 
 <h6 style="color: #00a850; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
-Tuesday</p>
-<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
-Friday</p>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
-prize draw</p>
+Tuesday
 
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
+Friday
+
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
+prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
@@ -107,12 +108,13 @@ prize draw</p>
 
 <h6 style="color: #2b77d3; left: 122px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
-Tuesday &amp; Friday</p>
-<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 Lotto lines every
-Wednesday &amp; Saturday</p>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
-prize draw</p>
+Tuesday &amp; Friday
 
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 Lotto lines every
+Wednesday &amp; Saturday
+
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
+prize draw
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
@@ -127,9 +129,10 @@ Join now and play our games in your members area. Decide it playing for fee or r
 Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click![/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445359214679{background-color: #f2f2f2 !important;}"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
-<p style="margin: 0px;"><?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
+<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
 <div class="wpb_text_column wpb_content_element jackpot-title">
 <div class="wpb_wrapper">
@@ -140,8 +143,10 @@ You won't need to check your lines one by one. Save time and check all your line
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
+
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
 <p style="text-align: center;"><strong>VISIT OUR STORE</strong></p>
+
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445342787412{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
@@ -150,7 +155,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
 <p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
 We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime
-or <span style="color: #2f76d7;">click here to choose one of our plans</span>.</p>
+or <span style="color: #2f76d7;">click here to choose one of our plans</span>.
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
