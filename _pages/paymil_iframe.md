@@ -55,24 +55,21 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-<?php 
-global $PaymillMethod;
-echo 'PaymillMethod'.$PaymillMethod ?>
-<form action="" method="post" name="IframeCreditCardForm" id="IframeCreditCardForm">	
-	<div class="col-lg-12" style="background-color:white; text-align:center;" id='credit-card-formdiv' style='display:none' >
-		<div style="display: block;max-width: 300px; display: inline-block;" >
-			<h4 id="creditCardText" style='display:none'>Credit Card Details</h4>
-			<div> 
-				<!-- Other fields of your form -->
-				<div id="credit-card-fields">
-				<!-- Embedded credit card frame will load here -->
-				</div>
-				<!-- Other fields of your form -->
-			</div>
-			<div class="form-group">
-				<div class="tc"><button class="btn btn-block btn-success btn-next" type="button" id="btnPlaceOrder" style='display:none'>PLACE ORDER &gt;&gt;</button></div>
-			</div>
-			<div class="tc"><img src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/07/cardIcons.png" alt="Card icons" ID='CardIconsimage' style='display:none'></div>
-		</div>    
-	</div>    
+<?php global $test;; echo $test;?>
+
+<form id="IframeCreditCardForm" action="" method="post" name="IframeCreditCardForm">
+<div id="credit-card-formdiv" class="col-lg-12" style="display: none;">
+<div style="display: inline-block; max-width: 300px;">
+<h4 id="creditCardText" style="display: none;">Credit Card Details</h4>
+<div><!-- Other fields of your form -->
+<div id="credit-card-fields"><!-- Embedded credit card frame will load here --></div>
+<!-- Other fields of your form -->
+
+</div>
+<div class="form-group">
+<div class="tc"><button id="btnPlaceOrder" class="btn btn-block btn-success btn-next" style="display: none;" type="button">PLACE ORDER &gt;&gt;</button></div>
+</div>
+<div class="tc"><img id="CardIconsimage" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/07/cardIcons.png" alt="Card icons" /></div>
+</div>
+</div>
 </form>
