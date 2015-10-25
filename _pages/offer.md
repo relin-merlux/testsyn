@@ -58,11 +58,10 @@ lotto_reg_form:
 [vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445785128737{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
 <div class="promotionBanner">
 <div class="col-lg-12"></div>
-<div class="col-lg-12" style="margin-left: 10px;">
-<h3> Enter your mobile number and password to start your 7 days free trial</h3>
-</div>
+<div class="col-lg-12"></div>
 <div class="promotionForm col-md-7 col-md-offset-3">
 <div class="main_content">
+<h3 style="margin-left: 10px;">Enter your mobile number and password to start your 7 days free trial</h3>
 <div class="col-sm-12 height20"></div>
 <div class="col-sm-9 test1">
 <div class="row">
