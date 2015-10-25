@@ -63,7 +63,7 @@ lotto_reg_form:
 <div class="col-sm-12 height20"></div>
 <div class="col-sm-9 test1">
 <div class="row">
-<h2>Enter your mobile number and password to start your 7 days free trial</h2>
+<h2 style="text-align: left !important;">Enter your mobile number and password to start your 7 days free trial</h2>
 <div class="col-sm-6 form-group specialFpd"><label>Mobile number</label>
 <input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
 <div class="col-sm-6 form-group specialFpd"><label>Enter password</label>
