@@ -55,7 +55,41 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column width="1/2"][vc_column_text]
+[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445784996116{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
+<div class="promotionBanner tc">
+<div class="col-lg-12">
+<div class="promoform-show"><a class="btn btn-success btn-block" data-style="expand-right">Enter your mobile number and password to start your 7 days free trial</a></div>
+</div>
+<div class="promotionForm col-md-10 col-md-offset-1">
+<div class="main_content">
+<div class="col-sm-12 height20"></div>
+<div class="col-sm-9 test1">
+<div class="row">
+<div class="col-sm-6 form-group specialFpd"><label>Mobile number</label>
+<input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
+<div class="col-sm-6 form-group specialFpd"><label>Enter password</label>
+<input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="row mrg0">
+<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">START NOW</a></div>
+</div>
+</div>
+</div>
+&nbsp;
+<div id="captchaFreeReg" class="captchaFreeReg hidden">
+<div>
+<div style="width: 304px; height: 78px;"><iframe id="I0_1445429639946" tabindex="0" title="recaptcha widget" src="https://www.google.com/recaptcha/api2/anchor?k=6LfVtQwTAAAAAA85D_QywtA2UlHa6DP8GSVlgVS9&amp;co=aHR0cDovL3d3dy5sb3R0by1zb2NpYWwuY29t&amp;hl=en-GB&amp;v=r20151013164303&amp;size=normal&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.fBK5e3LxM7E.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCPvv7t1gQxGPtkYRax67RiMza_LpQ#id=I0_1445429639946&amp;parent=http%3A%2F%2Fwww.lotto-social.com&amp;pfname=&amp;rpctoken=58877196" name="I0_1445429639946" width="304" height="78" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<textarea id="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none; display: none;" name="g-recaptcha-response"></textarea>
+
+</div>
+</div>
+&nbsp;
+
+</div>
+</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
 <p style="text-align: center;"><strong>NEXT DRAW IN
 </strong></p>
 [/vc_column_text][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
@@ -80,43 +114,4 @@ millions of other LottoSocial players have made
 their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
 
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row][vc_row css=".vc_custom_1445784443640{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
-<div class="promotionBanner tc">
-<div class="col-lg-12">
-<div class="promoform-show"><a class="btn btn-success btn-block" data-style="expand-right">TRY IT FOR FREE</a></div>
-</div>
-<div class="promotionForm col-md-10 col-md-offset-1">
-<div class="main_content">
-<div class="col-sm-12 height20">
-<div id="free_reg_error" class="row mrg0 hide" style="display: none;">
-<p class="invalidError">Enter your mobile number and password to start your 7 days free trial</p>
-
-</div>
-</div>
-<div class="col-sm-9 test1">
-<div class="row">
-<div class="col-sm-6 form-group specialFpd"><label>Mobile number</label>
-<input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
-<div class="col-sm-6 form-group specialFpd"><label>Choose a password</label>
-<input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
-</div>
-</div>
-<div class="col-sm-3">
-<div class="row mrg0">
-<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">START NOW</a></div>
-</div>
-</div>
-</div>
-&nbsp;
-<div id="captchaFreeReg" class="captchaFreeReg hidden">
-<div>
-<div style="width: 304px; height: 78px;"><iframe id="I0_1445429639946" tabindex="0" title="recaptcha widget" src="https://www.google.com/recaptcha/api2/anchor?k=6LfVtQwTAAAAAA85D_QywtA2UlHa6DP8GSVlgVS9&amp;co=aHR0cDovL3d3dy5sb3R0by1zb2NpYWwuY29t&amp;hl=en-GB&amp;v=r20151013164303&amp;size=normal&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.fBK5e3LxM7E.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCPvv7t1gQxGPtkYRax67RiMza_LpQ#id=I0_1445429639946&amp;parent=http%3A%2F%2Fwww.lotto-social.com&amp;pfname=&amp;rpctoken=58877196" name="I0_1445429639946" width="304" height="78" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
-<textarea id="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none; display: none;" name="g-recaptcha-response"></textarea>
-
-</div>
-</div>
-&nbsp;
-
-</div>
-</div>
-[/vc_column_text][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row]
