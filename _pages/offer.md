@@ -55,7 +55,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column][space height="50"][/vc_column][/vc_row][vc_row][vc_column][section_background background_type="image" background_image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" height="300" animate="fadeInDownBig"][/vc_column][vc_column][space height="50"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
 <p style="text-align: center;"><strong>NEXT DRAW IN
 </strong></p>
 [/vc_column_text][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
