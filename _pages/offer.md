@@ -74,7 +74,7 @@ lotto_reg_form:
 <div class="col-sm-3">
 <div class="row mrg0">
 <div class="form-group"><img src="//d9hhrg4mnvzow.cloudfront.net/promo.lotto-social.com/offer/07691679-arw.png" alt="" />
-<a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">START NOW</a></div>
+<a class="btn btn-success btn-block free_reg_submit ladda-button" style="margin-top: 7px !important;" data-style="expand-right">START NOW</a></div>
 </div>
 </div>
 </div>
