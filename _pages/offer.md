@@ -55,7 +55,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445785128737{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
+[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445789202105{background-color: #f2f2f2 !important;}"][vc_column][vc_column_text]
 <div class="promotionBanner">
 <div class="col-lg-12"></div>
 <div class="col-lg-12"></div>
