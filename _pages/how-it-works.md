@@ -60,13 +60,13 @@ lotto_reg_form:
 [vc_row][vc_column][vc_column_text]
 <h1 style="color: #2f76d2; font-size: 25px; text-align: center; margin-top: 38px;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422340388{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5190" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" />
-<span style="font-size: 18px; position: relative; top: 46px;">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span>.</span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422366424{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5193" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play1.jpg" alt="play" width="297" height="118" />
-<span style="font-size: 18px; position: relative; top: 30px;">We automatically join you in our EuroMillions or Lotto syndicates.
+<span style="font-size: 18px; position: relative; top: 42px;">Simply join LottoSocial by <span style="color: #2f76d2;">choosing one of our plans</span>.</span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422366424{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5193" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/play1.jpg" alt="play" width="297" height="118" />
+<span style="font-size: 18px; position: relative; top: 32px;">We automatically join you in our EuroMillions or Lotto syndicates.
 You don‘t need to do anything else, just wait for your draw to occur.</span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422391605{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5194" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/win1.jpg" alt="win" width="297" height="118" />
-<span style="font-size: 18px; position: relative; top: 30px;">Check all your tickets with a simple click.
+<span style="font-size: 18px; position: relative; top: 32px;">Check all your tickets with a simple click.
 Your winnings will be automatically added to your account.
 </span>[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422414328{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]<img class="alignleft size-full wp-image-5195" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/repeat1.jpg" alt="repeat" width="297" height="118" />
-<span style="font-size: 18px; position: relative; top: 30px;">Never miss a draw again!
+<span style="font-size: 18px; position: relative; top: 32px;">Never miss a draw again!
 We automatically enter you in any of the following draws you selected.</span>[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445340342792{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right; margin-top: 40px;">
 
