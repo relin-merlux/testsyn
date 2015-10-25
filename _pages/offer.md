@@ -57,16 +57,15 @@ lotto_reg_form:
 ---
 [vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445785128737{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
 <div class="promotionBanner">
-<div class="col-lg-12"></div>
+<div class="col-lg-12"> Enter your mobile number and password to start your 7 days free trial</div>
 <div class="promotionForm col-md-7 col-md-offset-3">
 <div class="main_content">
-<h3>Enter your mobile number and password to start your 7 days free trial</h3>
 <div class="col-sm-12 height20"></div>
 <div class="col-sm-9 test1">
 <div class="row">
-<div class="col-sm-6 form-group specialFpd" style="color: #808080;"><label>Mobile number</label>
+<div class="col-sm-6 form-group specialFpd"><label style="color: #808080;">Mobile number</label>
 <input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
-<div class="col-sm-6 form-group specialFpd" style="color: #808080;"><label>Enter password</label>
+<div class="col-sm-6 form-group specialFpd"><label style="color: #808080;">Enter password</label>
 <input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
 </div>
 </div>
