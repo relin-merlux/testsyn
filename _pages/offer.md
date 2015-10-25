@@ -55,12 +55,12 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][/vc_column][vc_column_text][/vc_column_text][/vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_column_text]
-<div class="lplh-29" style="text-align: center;"><span style="font-family: lato;"><strong><span style="font-size: 18px;">What‘s included in my 7 day free trial?</span></strong></span></div>
-<div style="text-align: center;"><span style="font-family: lato;">• 20 FREE EuroMillions lines valid for the next 2 draws</span></div>
-<div style="text-align: center;"><span style="font-family: lato;">• 20 EuroMillions lines a week afterwards for only £5 per week. You can become a millionaire for the price of 2 coffees!</span></div>
-<div style="text-align: center;"><span style="font-family: lato;">• Get entered in every EuroMillions draws, never miss a draw anymore!</span></div>
-[/vc_column_text][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
+[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column width="1/2"][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
+<p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
+<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
+[/box_section][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5147" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/points-img4.png" alt="points-img4" width="58" height="56" /><strong>REWARD POINTS</strong>
@@ -77,9 +77,4 @@ millions of other LottoSocial players have made
 their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="9af01c51-two396" /></p>
 
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row][vc_row][vc_column width="1/2"][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
-<p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
-<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
-<p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
-[/box_section][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row]
