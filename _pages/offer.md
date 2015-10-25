@@ -61,7 +61,7 @@ lotto_reg_form:
 <div class="col-lg-12"></div>
 <div class="promotionForm col-md-7 col-md-offset-3">
 <div class="main_content">
-<h3 style="margin-left: 10px;">Enter your mobile number and password to start your 7 days free trial</h3>
+<h3 style="margin-left: 18px; font-size: 18px;">Enter your mobile number and password to start your 7 days free trial</h3>
 <div class="col-sm-12 height20"></div>
 <div class="col-sm-9 test1">
 <div class="row">
