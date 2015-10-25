@@ -55,7 +55,10 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column width="1/2"][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
+[vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row][vc_column width="1/2"][vc_column_text]
+<p style="text-align: center;"><strong>NEXT DRAW IN
+</strong></p>
+[/vc_column_text][ult_countdown datetime="2015/11/05 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
