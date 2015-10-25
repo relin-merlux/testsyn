@@ -56,7 +56,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_column css=".vc_custom_1445341016765{margin-top: -32px !important;}"][/vc_column][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" css=".vc_custom_1445785128737{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
-<div class="promotionBanner tc">
+<div class="promotionBanner">
 <div class="col-lg-12"></div>
 <div class="promotionForm col-md-10 col-md-offset-1">
 <div class="main_content">
