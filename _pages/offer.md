@@ -82,9 +82,6 @@ their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJscC1jb2RlLTEzNyUyMiUyMGNsYXNzJTNEJTIybHAtZWxlbWVudCUyMGxwLWNvZGUlMjIlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMHN0YXJ0JTIwZGl2JTIzbHAtY29kZS0xMzclMjAtLSUzRSUwQSUzQ2ElMjBjbGFzcyUzRCUyMndpc3RpYS1wb3BvdmVyJTVCaGVpZ2h0JTNEMzYwJTJDcGxheWVyQ29sb3IlM0Q3Yjc5NmElMkN3aWR0aCUzRDY0MCU1RCUyMiUyMGhyZWYlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5uZXQlMkZlbWJlZCUyRmlmcmFtZSUyRmFjcjMzbzdvcDglM0Zwb3BvdmVyJTNEdHJ1ZSUyMiUzRSUzQ2ltZyUyMGFsdCUzRCUyMlNlZSUyMGhvdyUyMGl0JTIwd29ya3MlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGZDloaHJnNG1udnpvdy5jbG91ZGZyb250Lm5ldCUyRnByb21vLmxvdHRvLXNvY2lhbC5jb20lMkZhYm91dF91cyUyRmU3MjNlMGUwLXZpZGVvLnBuZyUyMiUzRSUzQyUyRmElM0UlMEElM0NzY3JpcHQlMjBzcmMlM0QlMjIlMkYlMkZmYXN0Lndpc3RpYS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRnBvcG92ZXItdjEuanMlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0MlMjEtLSUyMGxwJTNBaW5zZXJ0aW9ucyUyMGVuZCUyMGRpdiUyM2xwLWNvZGUtMTM3JTIwLS0lM0UlMEElM0MlMkZkaXYlM0U=[/vc_raw_html][/vc_column][/vc_row][vc_row css=".vc_custom_1445784443640{background-color: #c1c1c1 !important;}"][vc_column][vc_column_text]
 <div class="promotionBanner tc">
-<h1>'.$free_reg_desc1.'</h1>
-<h2>'.$free_reg_desc2.'</h2>
-';
 <div class="col-lg-12">
 <div class="promoform-show"><a class="btn btn-success btn-block" data-style="expand-right">TRY IT FOR FREE</a></div>
 </div>
@@ -92,7 +89,7 @@ their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http
 <div class="main_content">
 <div class="col-sm-12 height20">
 <div id="free_reg_error" class="row mrg0 hide" style="display: none;">
-<p class="invalidError">Please enter your Mobile Number</p>
+<p class="invalidError">Enter your mobile number and password to start your 7 days free trial</p>
 
 </div>
 </div>
@@ -106,11 +103,9 @@ their dreams come true.<img style="margin-left: 7px; margin-top: 1px;" src="http
 </div>
 <div class="col-sm-3">
 <div class="row mrg0">
-<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">'.$free_reg_btn.'</a></div>
+<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">START NOW</a></div>
 </div>
 </div>
-By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.
-
 </div>
 &nbsp;
 <div id="captchaFreeReg" class="captchaFreeReg hidden">
@@ -123,7 +118,5 @@ By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate
 &nbsp;
 
 </div>
-';
-
 </div>
 [/vc_column_text][/vc_column][/vc_row]
