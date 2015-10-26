@@ -6,7 +6,7 @@ post_date: 2015-10-26 11:26:40
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/skrill-iframe/
+  http://www.ecommerce.lotto-social.com/skrill_iframe/
 published: true
 ulp_version:
   - "4.9"
