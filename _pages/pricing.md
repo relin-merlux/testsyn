@@ -142,7 +142,9 @@ You won't need to check your lines one by one. Save time and check all your line
 
 </div>
 </div>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
+[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]NEXT EUROMILLION JACKPOT
+
+<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
