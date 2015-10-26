@@ -96,7 +96,7 @@ lotto_reg_form:
 [/vc_column_text][ult_countdown datetime="2015/10/27 19:05:21"][/vc_column][vc_column width="1/2"][vc_column_text]
 <p style="text-align: center; color: #333333;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
-<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc; font-size: 55px;"><strong><span class="product_price"><span class="amount">£</span></span>M</strong></span></p>
+<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc; font-size: 55px;"><strong><span class="product_price"><span class="amount">£</span></span>11M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <div class="lplh-29" style="text-align: center;"><span style="font-family: lato;"><strong><span style="font-size: 18px;">What‘s included in my 7 day free trial?</span></strong></span></div>
