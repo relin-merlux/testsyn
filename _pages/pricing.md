@@ -57,17 +57,16 @@ lotto_reg_form:
 ---
 [vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445523307724{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445881353935{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">FREE</strong></p>
-<p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold;">0</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>0</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Register for FREEE. Decide what
 to buy late</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445880684857{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445880795015{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">STARTER</strong></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>5</p>
@@ -89,14 +88,13 @@ prize draw</p>
 <p style="text-align: center;"><span style="color: #ffffff;"><strong style="color: #ffffff; display: block; font-size: 20px; padding: 15px 0px;">PRO</strong></span></p>
 
 </div>
-<p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #00a850; font-weight: bold; margin-top: 10px;">£</span></p>
-<p style="font-size: 60px; color: #00a850; font-weight: bold;">7</p>
+<p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>7</p>
 
-<h6 style="color: #00a850; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
-<p style="font-size: 18px; font-weight: 600; color: #00a850; text-align: center; padding: 15px;">40 LINES</p>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
+<h6 style="color: #00a651; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
+<p style="font-size: 18px; font-weight: 600; color: #00a651; text-align: center; padding: 15px;">30 LINES</p>
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">15 EuroMillions lines every
 Tuesday</p>
-<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">15 EuroMillions lines every
 Friday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
@@ -106,12 +104,11 @@ prize draw</p>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 112px;">VIP</strong></p>
-<p style="text-align: center; padding: 0 76px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold;">15</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>5</p>
 
-<h6 style="color: #2b77d3; left: 122px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
-<p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">100 LINES</p>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">30 EuroMillions lines every
+<h6 style="color: #2b77d3; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
+<p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">80 LINES</p>
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday &amp; Friday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 Lotto lines every
 Wednesday &amp; Saturday</p>
