@@ -135,36 +135,18 @@ Join now and play our games in your members area. Decide it playing for fee or r
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445876490491{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click!
 <div style="padding-top: 15px;"></div>
-[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874679874{background-color: #f2f2f2 !important;}"]
-<div class="wpb_text_column wpb_content_element jackpot-title">
-<div class="wpb_wrapper">
-<p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-
-</div>
-</div>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]NEXT EUROMILLION JACKPOT
-
+[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
+<p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
-[/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
-<div class="wpb_text_column wpb_content_element jackpot-title">
-<div class="wpb_wrapper">
-<p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
-
-</div>
-</div>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
+[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
+<p class="jackpot-title" style="font-weight: 600;">NEXT LOTTO JACKPOT</p>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
-[/box_section][/vc_column][vc_column width="1/3"][vc_column_text]
-<div class="wpb_text_column wpb_content_element jackpot-title">
-<div class="wpb_wrapper">
-<p style="text-align: center;"><strong>VISIT OUR STORE</strong></p>
-
-</div>
-</div>
-[/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]
+<p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
+Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445342787412{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div style="float: right;">
