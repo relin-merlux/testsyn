@@ -109,9 +109,9 @@ prize draw</p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">15</p>
 
 <h6 style="color: #2b77d3; left: 122px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
-<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
+<p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">30 EuroMillions lines every
 Tuesday &amp; Friday</p>
-<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 Lotto lines every
+<p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 Lotto lines every
 Wednesday &amp; Saturday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
@@ -125,9 +125,13 @@ All the members have access to exclusive offers in their members area
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5147" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/points-img4.png" alt="points-img4" width="58" height="56" /><strong>REWARD POINTS</strong>
 You automatically enter our loyalty scheme and gain reward points to buy exclusive items in the store[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5143" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-img2.png" alt="reward-img2" width="58" height="56" /><strong>PRIZE DRAWS</strong>
-We have a wide range of prize draws available for our members from sps days to trips around the world[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5148" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/games-img5.png" alt="games-img5" width="58" height="56" /><strong>GAMES</strong>
+We have a wide range of prize draws available for our members from sps days to trips around the world
+<div style="padding-top: 15px;"></div>
+[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5148" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/games-img5.png" alt="games-img5" width="58" height="56" /><strong>GAMES</strong>
 Join now and play our games in your members area. Decide it playing for fee or receiving rewards for it[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5144" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/credit-img3.png" alt="credit-img3" width="58" height="56" /><strong>BONUS CREDIT</strong>
-Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
+Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines
+<div style="padding-top: 15px;"></div>
+[/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click![/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445359214679{background-color: #f2f2f2 !important;}"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
@@ -153,7 +157,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
 <p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
 We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime
-or <span style="color: #2f76d7;">click here to choose one of our plans</span>.</p>
+or <span style="color: #2f76d7;"><a href="#">click here to choose one of our plans</a></span>.</p>
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
