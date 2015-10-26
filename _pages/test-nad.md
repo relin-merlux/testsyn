@@ -60,8 +60,4 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-<?php
-global $NextJackpotValues;
-$a = do_shortcode('[next_jackpot]');
-print_r($NextJackpotValues);
-?>
+ <a href="#" onclick="return ulp_open('Q9gQ1P2RPyYqOqnb');" class="btn btn-success">Link</a>
