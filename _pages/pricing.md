@@ -67,12 +67,12 @@ to buy late</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445880217651{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445880684857{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">STARTER</strong></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold;"><span style="font-size: 38px; vertical-align: top;">£</span>5</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>5</p>
 
-<h6 style="color: #2b77d3; font-weight: bold; text-align: center;">PER WEEK</h6>
+<h6 style="color: #2b77d3; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">20 LINES</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Tuesday</p>
