@@ -60,4 +60,4 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
- <a href="#" onclick="return ulp_open('Q9gQ1P2RPyYqOqnb');" class="btn btn-success">Link</a>
+ <a href="#" onclick="return ulp_open('cQKgtD4VvoWAOwPv');" class="btn btn-success">Link</a>
