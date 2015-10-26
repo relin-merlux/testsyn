@@ -157,5 +157,5 @@ We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anyt
 or <span style="color: #2f76d7;"><a href="#">click here to choose one of our plans</a></span>.</p>
 
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img class="size-full wp-image-5090 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[button url="#" style="flat" background="#2f76d2" size="5" wide="yes" radius="5" icon="icon: angle-double-right"]START YOUR 7 DAYS FREE TRIAL[/button]
 <a href="/offer"><img class="size-full wp-image-5089 alignleft" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/link.png" alt="link" /></a>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
