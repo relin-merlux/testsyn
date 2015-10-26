@@ -69,86 +69,89 @@ lotto_reg_form:
             <div id="customer_login" class="row">
               <div class="col-sm-6">
                 <h4> Login </h4>
-                <form method="post" class="login">
-                  <div class="form-group">
-                    <label for="login_mobile"> Mobile Number <span class="required">*</span></label>
-                    <input type="text" class="form-control" name="login_mobile" id="login_mobile" value="">
-                    <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl"></label>
-                  </div>
-                  <div class="form-group">
-                    <label for="login_password"> Password <span class="required">*</span></label>
-                    <input class="form-control" type="password" name="login_password" id="login_password">
-                    <label for="login_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl"></label>
-                  </div>
-                  <div class="form-group">
-                    <input type="hidden" id="_wpnonce" name="_wpnonce" value="00b49eda77">
-                    <input type="hidden" name="_wp_http_referer" value="/">
-                    <input type="button" class="button button-login" onclick="return customValidation();" name="login" value="Login">
-                    <p class="lost_password"> <a href="http://www.ecommerce.lotto-social.com/my-account/lost-password/"> Lost password? </a> </p>
-                    <!-- <label for="rememberme" class="inline">
-                                                        <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> --> 
-                  </div>
-                  <div class="form-group"> </div>
-                </form>
+
+            <form method="post" class="login">
+                <div class="form-group">
+                    <label for="login_mobile1"> Mobile Number   <span class="required">*</span></label>
+                    <input type="text" class="form-control" name="login_mobile1" id="login_mobile1" value="">
+                    <label for="login_mobile1" class="errorText hidden" name="mobile_errorlbl1" id="mobile_errorlbl1"></label>
               </div>
+              <div class="form-group">
+                <label for="login_password1">Password<span class="required">*</span></label>
+                <input class="form-control" type="password" name="login_password1" id="login_password1">
+                <label for="login_password1" class="errorText hidden" name="password_errorlbl1" id="password_errorlbl1"></label>
+              </div>
+              <div class="form-group">
+                  <label><input type="checkbox" id="remember" name="remember">Remember me </label> </div>
+                  <div class="form-group">
+                       <input type="hidden" name="_wp_http_referer" value="/login-register/"> 
+					   <input type="button" class="button button-login" onclick="return customValidation();" name="login1" value="Login">
+                <p class="lost_password"> <a href="http://www.ecommerce.lotto-social.com/my-account/lost-password/">Lost password? </a> </p>
+       
+              </div>
+              <div class="form-group"> </div>
+              </form>
+	  </div>
               <div class="col-sm-6">
                 <h4> First time here? Create your account </h4>
-                <form method="post" class="register" id="payment_form" name="payment_form">
-                  <input type="hidden" name="gender" id="gender" value="">
-                  <input type="hidden" name="Other" id="Other" value="">
-                  <input type="hidden" name="TP1" id="TP1" value="">
-                  <input type="hidden" name="TP2" id="TP2" value="">
-                  <div class="form-group">
-                    <select id="title" name="title" class="form-control">
-                      <option value="">Title</option>
-                      <option value="Mr">Mr</option>
-                      <option value="Mrs">Mrs</option>
-                      <option value="Ms">Ms</option>
-                      <option value="Miss">Miss</option>
-                    </select>
-                  </div>
-                  <div class="form-group">
-                    <label for="reg_name" style="display:block;"> Name <span class="required">*</span></label>
-                    <input type="text" name="firstname" value="" class="form-control" id="inputFName" placeholder="First Name">
-                    <label for="firstname" class="errorText hidden" name="inputFName_em" id="inputFName_em"></label>
-                  </div>
-                  <div class="form-group">
-                    <input type="text" value="" name="lastname" class="form-control" id="inputLName" placeholder="Last Name">
-                    <label for="lastname" class="errorText hidden" name="inputLName_em" id="inputLName_em"></label>
-                  </div>
-                  <div class="form-group" id="enter_email_pop">
-                    <label for="reg_email"> Email address <span class="required">*</span></label>
-                    <input type="email" placeholder="Enter Email address" class="form-control" name="pay_from_email" id="inputEmail1" value="">
-                    <label for="email" class="errorText hidden" name="inputEmail1_em" id="inputEmail1_em"></label>
-                  </div>
-                  <div class="form-group" id="reenter_email_pop" style="display:none;">
-                    <label for="reg_email"> Re-enter Email address <span class="required">*</span></label>
-                    <input type="email" placeholder="Re-enter Email address" class="form-control" name="pay_from_email_reenter" id="inputEmail2" value="">
-                    <label for="email" class="errorText hidden" name="inputEmail2" id="inputEmail2"></label>
-                  </div>
-                  <div class="form-group">
-                    <p class="form-row form-row-wide">
-                      <label for="reg_password"> Mobile <span class="required">*</span></label>
-                      <input type="tel" name="phone_number" class="form-control" id="inputMobile" placeholder="Enter Mobile Number" onblur="validateTelephone()" onkeypress="checkNumber(event);" maxlength="12">
-                      <label for="phone_number" class="errorText hidden" name="phone_number_em" id="phone_number_em"></label>
-                    </p>
-                  </div>
-                  <!-- Spam Trap -->
-                  <div style="left:-999em; position:absolute;">
-                    <label for="trap"> Anti-spam </label>
-                    <input type="text" name="email_2" id="trap" tabindex="-1">
-                  </div>
-                  <div id="aggreeCheckBox" class="form-group">
-                    <div class="checkbox smallText" style="left: auto;margin: 0;padding: 0; position: relative;">
-                      <label>
-                        <input type="checkbox" name="terms_and_condition">
-                        I confirm that I am at least 16 years old and that I have read, understood and accepted the <a style="text-decoration:underline;line-height: 12px;padding: 0;" target="_blank" href="http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/">Terms</a> and <a style="text-decoration:underline;line-height: 12px;padding: 0;" target="_blank" href="http://www.ecommerce.lotto-social.com/privacy-policy-for-lottery-syndicate-members/">Privacy Policy</a>. </label>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <input type="hidden" name="_wp_http_referer" value="/">
-                    <input type="button" onclick="return ValidatePaymentForm()" class="button button-register" name="validatePaymentForm" value="Register ￫">
-                  </div>
+
+            <form method="post" class="register" id="payment_form1" name="payment_form1">
+                            <input type="hidden" name="gender1" id="gender1" value="">
+              <input type="hidden" name="Other1" id="Other1" value="">
+              <input type="hidden" name="TP11" id="TP11" value="">
+              <input type="hidden" name="TP21" id="TP21" value="">
+              <div class="form-group">
+                <select id="title1" name="title1" class="form-control">
+                  <option value="">Title</option>
+                  <option value="Mr">Mr</option>
+                  <option value="Mrs">Mrs</option>
+                  <option value="Ms">Ms</option>
+                  <option value="Miss">Miss</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="reg_name" style="display:block;"> Name <span class="required">*</span></label>
+                <input type="text" name="firstname1" value="" class="form-control" id="inputFName1" placeholder="First Name">
+                <label for="firstname1" class="errorText hidden" name="inputFName_em1" id="inputFName_em1"></label>
+              </div>
+              <div class="form-group">
+                <input type="text" value="" name="lastname1" class="form-control" id="inputLName1" placeholder="Last Name">
+                <label for="lastname1" class="errorText hidden" name="inputLName_em1" id="inputLName_em1"></label>
+              </div>
+              <div class="form-group" id="enter_email_pop">
+                <label for="reg_email"> Email address  <span class="required">*</span></label>
+                <input type="email" placeholder="Enter Email address" class="form-control" name="pay_from_email1" id="inputEmail11" value="">
+                <label for="email" class="errorText hidden" name="inputEmail1_em1" id="inputEmail1_em1"></label>
+              </div>
+              <div class="form-group" id="reenter_email_pop1" style="display:none;">
+                <label for="reg_email"> Re-enter Email address  <span class="required">*</span></label>
+                <input type="email" placeholder="Re-enter Email address" class="form-control" name="pay_from_email_reenter1" id="inputEmail21" value="">
+                <label for="email" class="errorText hidden" name="inputEmail21" id="inputEmail21"></label>
+              </div>
+              <div class="form-group">
+                <p class="form-row form-row-wide">
+                  <label for="reg_password">Mobile<span class="required">*</span></label>
+                  <input type="tel" name="phone_number1" class="form-control" id="inputMobile1" placeholder="Enter Mobile Number" onblur="validateTelephone()" onkeypress="checkNumber(event);" maxlength="12">
+				  
+                  <label for="phone_number1" class="errorText hidden" name="phone_number_em1" id="phone_number_em1"></label>
+                </p>
+              </div>
+              <!-- Spam Trap -->
+              <div style="left:-999em; position:absolute;">
+                <label for="trap">Anti-spam  </label>
+                <input type="text" name="email_21" id="trap" tabindex="-1">
+              </div>
+              <div id="aggreeCheckBox1" class="form-group">
+                <div class="checkbox smallText" style="left: auto;margin: 0;padding: 0; position: relative;">
+                  <label>
+                    <input type="checkbox" name="terms_and_condition1">
+                    I confirm that I am at least 16 years old and that I have read, understood and accepted the <a style="text-decoration:underline;line-height: 12px;padding: 0;" target="_blank" href="http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/">Terms</a> and <a style="text-decoration:underline;line-height: 12px;padding: 0;" target="_blank" href="http://www.ecommerce.lotto-social.com/privacy-policy-for-lottery-syndicate-members/">Privacy Policy</a>. </label>
+                </div>
+              </div>
+              <div class="form-group">
+                    <input type="hidden" name="_wp_http_referer" value="/login-register/">   
+		    <input type="button" onclick="return ValidatePaymentForm()" class="button button-register" name="validatePaymentForm1" value="Register ￫">
+              </div>
                 </form>
               </div>
             </div>
