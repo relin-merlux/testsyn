@@ -120,15 +120,15 @@ prize draw</p>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874853681{padding-bottom: 15px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
+[/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874944429{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5147" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/points-img4.png" alt="points-img4" width="58" height="56" /><strong>REWARD POINTS</strong>
-You automatically enter our loyalty scheme and gain reward points to buy exclusive items in the store[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5143" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-img2.png" alt="reward-img2" width="58" height="56" /><strong>PRIZE DRAWS</strong>
+You automatically enter our loyalty scheme and gain reward points to buy exclusive items in the store[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874958400{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5143" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-img2.png" alt="reward-img2" width="58" height="56" /><strong>PRIZE DRAWS</strong>
 We have a wide range of prize draws available for our members from sps days to trips around the world
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5148" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/games-img5.png" alt="games-img5" width="58" height="56" /><strong>GAMES</strong>
-Join now and play our games in your members area. Decide it playing for fee or receiving rewards for it[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]<img class="alignleft size-full wp-image-5144" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/credit-img3.png" alt="credit-img3" width="58" height="56" /><strong>BONUS CREDIT</strong>
+Join now and play our games in your members area. Decide it playing for fee or receiving rewards for it[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874972638{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5144" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/credit-img3.png" alt="credit-img3" width="58" height="56" /><strong>BONUS CREDIT</strong>
 Convert your small winnings in bonus credit and receive 4 times the amount to buy more lottery lines
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][vc_column_text]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
