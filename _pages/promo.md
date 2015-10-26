@@ -57,12 +57,12 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row full_width="stretch_row_content" el_class="row memberNew pagePromo"][vc_column width="1/1"][vc_row_inner el_class="col-lg-12"][vc_column_inner width="1/2" el_class="col-md-6"][vc_column_text css=".vc_custom_1423738654623{background: #dd3333 url(http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/02/modal-lottosocial-icon.png?id=3280) !important;}"]
+[vc_row full_width="stretch_row_content_no_spaces" el_class="row memberNew pagePromo"][vc_column][vc_row_inner el_class="col-lg-12"][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text css=".vc_custom_1423738654623{background: #dd3333 url(http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/02/modal-lottosocial-icon.png?id=3280) !important;}"]
 <h2 class="promo-banner-hd">YOU MAY LIKE THIS</h2>
 [/vc_column_text][vc_column_text][promo_page_upsell][/vc_column_text][vc_column_text]
 <div class="col-lg-12 whiteBg">
 <div class="row tc">{%upsellfiveBannerDetails%}</div>
 </div>
-[/vc_column_text][vc_column_text]{%upsellsixBannerDetails%}[/vc_column_text][vc_column_text][upsellseven][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-md-6"][vc_column_text]
+[/vc_column_text][vc_column_text]{%upsellsixBannerDetails%}[/vc_column_text][vc_column_text][upsellseven][/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text]
 <h2 class="promo-banner-hd">OR TRY OUR INSTANT GAMES!</h2>
 [/vc_column_text][vc_column_text][instant_win_games][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
