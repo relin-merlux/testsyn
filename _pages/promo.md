@@ -57,7 +57,7 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row full_width="stretch_row_content_no_spaces" el_class="row memberNew pagePromo"][vc_column][vc_row_inner el_class="col-lg-12"][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text css=".vc_custom_1423738654623{background: #dd3333 url(http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/02/modal-lottosocial-icon.png?id=3280) !important;}"]
+[vc_row el_class="row memberNew pagePromo"][vc_column][vc_row_inner el_class="col-lg-12"][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text css=".vc_custom_1423738654623{background: #dd3333 url(http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/02/modal-lottosocial-icon.png?id=3280) !important;}"]
 <h2 class="promo-banner-hd">YOU MAY LIKE THIS</h2>
 [/vc_column_text][vc_column_text][promo_page_upsell][/vc_column_text][vc_column_text]
 <div class="col-lg-12 whiteBg">
