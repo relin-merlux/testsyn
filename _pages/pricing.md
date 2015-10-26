@@ -119,7 +119,7 @@ prize draw</p>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css_animation="left-to-right" css=".vc_custom_1445882755646{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
+[/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445882828021{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445874958400{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5143" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-img2.png" alt="reward-img2" width="58" height="56" /><strong>PRIZE DRAWS</strong>
@@ -135,7 +135,7 @@ Join now and play our games in your members area. Decide it playing for fee or r
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445876490491{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click!
 <div style="padding-top: 15px;"></div>
-[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]
+[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png" animate="bounceIn"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
