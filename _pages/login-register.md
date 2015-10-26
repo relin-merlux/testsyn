@@ -64,9 +64,11 @@ lotto_reg_form:
         <h3 class="modal-title tc bold" id="myModalLabel">JOIN OUR FABOLOUS COMMUNITY TODAY!</h3>
       </div>
       <div class="modal-body">
-        <div class="row">
+        <div class="row">          
+            <div class="col-sm-10 col-sm-offset-1" id="welcome-menu-login">
                [login_register_form]
         </div>
+       </div>
       </div>
     </div>
   </div>
