@@ -67,14 +67,14 @@ to buy late</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445877691197{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445877822488{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">STARTER</strong></p>
 <p style="text-align: center; padding: 0 100px;"><span style="font-size: 38px; float: left; color: #2b77d3; font-weight: bold; margin-top: 10px;">£</span></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">5</p>
 
 <h6 style="color: #2b77d3; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
-<p style="font-size: 18px; color: #2b77d3; text-align: center; padding: 15px; margin-bottom: 15px;">20 LINES</p>
+<p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">20 LINES</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
 Tuesday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">10 EuroMillions lines every
@@ -94,6 +94,7 @@ prize draw</p>
 <p style="font-size: 60px; color: #00a850; font-weight: bold;">7</p>
 
 <h6 style="color: #00a850; left: 116px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
+<p style="font-size: 18px; font-weight: 600; color: #00a850; text-align: center; padding: 15px;">40 LINES</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
 Tuesday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
@@ -110,6 +111,7 @@ prize draw</p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold;">15</p>
 
 <h6 style="color: #2b77d3; left: 122px; position: absolute; top: 132px; font-weight: bold;">PER WEEK</h6>
+<p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">100 LINES</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">30 EuroMillions lines every
 Tuesday &amp; Friday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 Lotto lines every
