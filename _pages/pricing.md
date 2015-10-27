@@ -85,8 +85,11 @@ prize draw</p>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <div style="background: url('http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img2.png') no-repeat top center; width: 258px; height: 59px;">
-<p style="text-align: center;"><span style="color: #ffffff;"><strong style="color: #ffffff; display: block; font-size: 20px; padding: 15px 0px;">PRO</strong></span></p>
-
+<ul class="pricing-table blue">
+	<li class="ribbon-wrapper" style="width: 85px; height: 88px; overflow: hidden; position: absolute; top: -4px; right: -3px;">
+<div class="ribbon-green" style="font: bold 12px Sans-Serif; color: #527759; text-align: center; text-shadow: rgba(255,255,255,0.5) 0px 1px 0px; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); position: relative; padding: 9px 0; left: -5px; top: 15px; width: 120px; background-color: #a4cc5d; background-image: -o-linear-gradient(top, #BFDC7A, #8EBF45); -webkit-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);">Popular</div></li>
+	<li>PRO</li>
+</ul>
 </div>
 <p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>7</p>
 
