@@ -56,30 +56,24 @@ lotto_reg_form:
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" css=".vc_custom_1444400021711{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#eaeaea"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
-
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
-
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>NEXT LOTTO JACKPOT</strong></p>
-
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/lotto-Icon.png"]
 <p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
-
 [/box_section][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text el_class="jackpot-title"]
 <p style="text-align: center;"><strong>VISIT OUR STORE
-</strong>
-
+</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]
 
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit!
 
 [/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
-<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span>
-
+<span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
 
