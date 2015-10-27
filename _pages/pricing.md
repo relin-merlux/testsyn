@@ -57,19 +57,19 @@ lotto_reg_form:
 ---
 [vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445881353935{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1445344513094{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"][vc_column_text css=".vc_custom_1445940586372{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">FREE</strong></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>0</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;">£0</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Register for FREEE. Decide what
 to buy late</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445880795015{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css=".vc_custom_1445940619943{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">STARTER</strong></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>5</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;">£5</p>
 
 <h6 style="color: #2b77d3; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">20 LINES</p>
@@ -84,14 +84,14 @@ prize draw</p>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
-<div>
+<div style="background: url('http://www.ecommerce.lotto-social.com/wp-content/uploads/pro-img2.png') no-repeat top center; width: 258px; height: 59px;">
 <ul class="pricing-table blue">
 	<li class="ribbon-wrapper" style="width: 85px; height: 88px; overflow: hidden; position: absolute; top: -3px; right: 13px;">
-<div class="ribbon-green" style="font: bold 12px Sans-Serif; color: #fff; text-align: center; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); position: relative; padding: 9px 0; left: -5px; top: 15px; width: 120px; background-color: #ca2531; background-image: -o-linear-gradient(top, #cb2531, #cb2531); -webkit-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);">Popular</div></li>
+<div class="ribbon-green" style="font: bold 12px Sans-Serif; color: #527759; text-align: center; text-shadow: rgba(255,255,255,0.5) 0px 1px 0px; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); position: relative; padding: 9px 0; left: -5px; top: 15px; width: 120px; background-color: #a4cc5d; background-image: -o-linear-gradient(top, #BFDC7A, #8EBF45); -webkit-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);">Popular</div></li>
+	<li>PRO</li>
 </ul>
-<div style="text-align: center; margin-top: -10px; margin-bottom: 10px;"><strong style="color: #fff; background: #03a851; display: block; font-size: 20px; padding: 15px 0px;">PRO</strong></div>
 </div>
-<p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>7</p>
+<p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;">£7</p>
 
 <h6 style="color: #00a651; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #00a651; text-align: center; padding: 15px;">30 LINES</p>
@@ -107,7 +107,7 @@ prize draw</p>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">VIP</strong></p>
-<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>15</p>
+<p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;">£15</p>
 
 <h6 style="color: #2b77d3; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">80 LINES</p>
