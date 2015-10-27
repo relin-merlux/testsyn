@@ -152,7 +152,7 @@ You won't need to check your lines one by one. Save time and check all your line
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" css=".vc_custom_1445342787412{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #f2f2f2 !important;}" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
-<div style="float: right;">
+<div id="textalign" style="float: right;">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
 <p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
@@ -161,7 +161,5 @@ or <span style="color: #2f76d7;"><a href="#">click here to choose one of our pla
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]
-<div id="hideimage"><img class="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />  [button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]START YOUR 7 DAYS FREE TRIAL[/button]
-
-</div>
+<div id="hideimage"><img class="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />  [button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]START YOUR 7 DAYS FREE TRIAL[/button]</div>
 [call_two href="#" colortext="#ffffff" background_color="#2f76d2" font_size="18" label_button="" label_size="30" class="call-to-action-two" animation_delay="0" animate="" ]Start your 7 days free trial[/call_two][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
