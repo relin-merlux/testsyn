@@ -89,7 +89,7 @@ prize draw</p>
 	<li class="ribbon-wrapper" style="width: 85px; height: 88px; overflow: hidden; position: absolute; top: -3px; right: 13px;">
 <div class="ribbon-green" style="font: bold 12px Sans-Serif; color: #fff; text-align: center; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); position: relative; padding: 9px 0; left: -5px; top: 15px; width: 120px; background-color: #ca2531; background-image: -o-linear-gradient(top, #cb2531, #cb2531); -webkit-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2); box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);">Popular</div></li>
 </ul>
-<p style="text-align: center;"><strong style="color: #2f76d1; background: #03a851; display: block; font-size: 20px; padding: 15px 0px;">PRO</strong></p>
+<p style="text-align: center; margin-top: -10px;"><strong style="color: #fff; background: #03a851; display: block; font-size: 20px; padding: 15px 0px;">PRO</strong></p>
 
 </div>
 <p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;"><span style="font-size: 38px; vertical-align: top;">£</span>7</p>
