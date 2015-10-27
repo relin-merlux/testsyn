@@ -91,7 +91,7 @@ prize draw</p>
 	<li>PRO</li>
 </ul>
 </div>
-<p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center;">£7</p>
+<p style="font-size: 60px; color: #00a651; font-weight: bold; text-align: center; padding-top: 7px;">£7</p>
 
 <h6 style="color: #00a651; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #00a651; text-align: center; padding: 15px;">30 LINES</p>
