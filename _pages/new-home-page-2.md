@@ -54,7 +54,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png" animate="fadeInUp"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
@@ -73,7 +73,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 [/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <p style="text-align: center; font-size: 25px;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse" animation_delay="0.5"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
 
 [button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]Find out more about the service[/button]
