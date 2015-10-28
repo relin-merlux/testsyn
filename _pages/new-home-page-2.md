@@ -73,16 +73,12 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 [/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text css_animation="appear"]
 <p style="text-align: center; font-size: 25px; font-weight: 900;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse" animation_delay="0.5"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
 
 [button href="#" icon_size="12" class="blue-btn" target="" color="flat" dimension="normal" icon="angle-double-right" animation="" class="find-more"]Find out more about the service[/button]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1403946168199{margin-bottom: 25px !important;}"][vc_column][box_title subtitle_font_size="6" font_size="30" border_color="#f4d122" animate="fadeIn"]
-
-Don't take our words for granted . This is what our customers say
-
-[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1403946168199{margin-bottom: 25px !important;}"][vc_column][box_title subtitle_font_size="6" font_size="30" border_color="#b7b7b7" animate="fadeIn"]Don't take our words for granted . This is what our customers say[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="flipInX"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="2/3"][vc_column_text]<strong><span style="font-size: 18px;"><span style="font-family: lato;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</span></span></strong>
 
 <span style="font-size: 16px;"><span style="font-family: lato;">No contracts, no surprises. Try our service for FREE for 7 days</span></span>
 
