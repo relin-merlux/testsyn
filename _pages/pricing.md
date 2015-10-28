@@ -159,4 +159,13 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime.</p>
 
 </div>
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]<img id="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[/vc_column_text][vc_column_text]<span style="background: #1e7ad2; display: block; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); position: absolute; width: 320px; height: 40px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]<img id="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[/vc_column_text][vc_column_text]<span style="background: #1e7ad2; display: block; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); position: absolute; width: 320px; height: 40px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+<div id="textalign">
+
+<strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
+<p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
+We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime.</p>
+
+</div>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img id="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[/vc_column_text][vc_column_text]<span style="background: #1e7ad2; display: block; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); position: absolute; width: 320px; height: 40px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</span>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
