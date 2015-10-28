@@ -112,16 +112,16 @@ prize draw</p>
 <h6 style="color: #2b77d3; font-weight: bold; text-align: center; margin-top: -20px;">PER WEEK</h6>
 <p style="font-size: 18px; font-weight: 600; color: #2b77d3; text-align: center; padding: 15px;">80 LINES</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">20 EuroMillions lines every
-Tuesday &amp; Friday</p>
+Tuesday AND Friday</p>
 <p style="color: #636362; text-align: center; padding: 15px; margin-bottom: 15px;">20 Lotto lines every
-Wednesday &amp; Saturday</p>
+Wednesday AND Saturday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
+<h2 style="text-align: center; color: #2f76d2;">That's not all! All members get:</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445882828021{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area
 <div style="padding-top: 15px;"></div>
