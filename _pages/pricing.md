@@ -141,11 +141,11 @@ You won't need to check your lines one by one. Save time and check all your line
 [/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
-<p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
+<p style="margin: 0px; font-size: 50px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextEuroDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/lottoball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT LOTTO JACKPOT</p>
-<p style="margin: 0px; font-size: 45px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
+<p style="margin: 0px; font-size: 50px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/home.png"]
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
