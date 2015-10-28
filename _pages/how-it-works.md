@@ -59,7 +59,7 @@ lotto_reg_form:
 ---
 [vc_row][vc_column][vc_column_text css=".vc_custom_1446042258920{margin-top: 38px !important;margin-bottom: 38px !important;}"]
 <h1 style="color: #2f76d2; font-size: 25px; text-align: center;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422340388{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1445422340388{margin-top: -35px !important;margin-right: 70px !important;margin-left: 70px !important;}"][vc_column css=".vc_custom_1446053817671{margin-right: 30px !important;margin-left: 30px !important;}"][vc_column_text]
 <div style="display: table; max-width: 980px; width: 100%; margin: auto;">
 <div style="display: table-cell; vertical-align: middle; padding: 10px;"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/join1.jpg" alt="join" width="297" height="118" /></div>
 <div style="display: table-cell; vertical-align: middle; padding: 10px; margin: 0;">Simply join LottoSocial by choosing one of our plans</div>
