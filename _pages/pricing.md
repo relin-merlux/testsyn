@@ -160,5 +160,6 @@ We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anyt
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]
-<div id="hideimage"><img class="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" /><span style="background: #1e7ad2; width: 100%; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); margin-top: 20px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt; </span></div>
+<div id="hideimage"><img class="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
+<span style="background: #1e7ad2; width: 100%; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); margin-top: 20px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt; </span></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
