@@ -151,7 +151,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_color_value="#f2f2f2"][vc_column width="1/2"][vc_column_text]
 <div id="textalign">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
@@ -160,4 +160,4 @@ We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anyt
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img id="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[/vc_column_text][vc_column_text]<span style="background: #1e7ad2; display: block; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); position: absolute; width: 320px; height: 40px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</span>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_message]I am message box. Click edit button to change this text.[/vc_message][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
