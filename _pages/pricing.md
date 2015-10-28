@@ -165,5 +165,5 @@ We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anyt
 <img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />
 
 </div>
-<div style="background: #1e7ad2; min-width: 50%; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); margin-top: 20px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</div>
+<div style="background: #1e7ad2; height: 20px; -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); margin-top: 20px; padding: 10px 20px 10px 20px; color: #fff; -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);">START YOUR 7 DAYS FREE TRIAL &gt;&gt;</div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][space height="20"][logos_slider title="OUR PARTNERS" items="10" active_bw="0"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
