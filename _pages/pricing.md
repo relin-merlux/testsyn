@@ -151,7 +151,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row full_height="yes" bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1446053521425{padding-top: 25px !important;padding-bottom: 25px !important;}"][vc_column width="1/2"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1446053661353{padding-top: 35px !important;padding-bottom: 35px !important;}"][vc_column width="1/2"][vc_column_text]
 <div id="textalign">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
