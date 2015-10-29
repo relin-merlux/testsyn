@@ -56,6 +56,8 @@ ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - logged
 ---
 [vc_row el_class="row memberNew pagesynd"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
 <div id="ticketWrapper">[my_syndicates]</div>
