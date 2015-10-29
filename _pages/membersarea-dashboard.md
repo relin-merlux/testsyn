@@ -58,6 +58,8 @@ lotto_reg_form:
   - 'no'
 lotto_free_registration_step:
   - free-reg-step_memberarea
+lotto_visible_to_user:
+  - logged
 ---
 [vc_row el_class="row memberNew"][vc_column][vc_row_inner][vc_column_inner el_class="col-lg-12"][vc_column_text][limb_msg][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner el_class="col-sm-6 tc" width="1/2"][vc_column_text][dashboard_slider][/vc_column_text][vc_column_text el_class="visible-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="hidden-xs"][dashboard_playing_in][/vc_column_text][vc_column_text]
 <div id="blogcontent" class="col-lg-12 whiteBg padding-xs">
