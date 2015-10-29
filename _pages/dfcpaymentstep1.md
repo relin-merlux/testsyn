@@ -147,4 +147,4 @@ I confirm that my details are correct, I have read the <a href="#" data-toggle="
 </div>
 </form></div>
 <!-- END -->
-
+<script src="http://www.ecommerce.lotto-social.com/wp-content/themes/bishop-child/js/dfc-payment-validation.js"></script>
