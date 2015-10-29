@@ -56,6 +56,8 @@ ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - logged
 ---
 <h3 class="blue"><strong>My Winnings</strong></h3>
 <div class="tabbable">
@@ -65,31 +67,19 @@ lotto_reg_form:
 	<li><a class="tab3" href="#tab3" data-toggle="tab">Paid Claims</a></li>
 </ul>
 <div class="tab-content banner_container">
-<div class="tab-pane active" id="tab1">
-<div class="col-lg-12 table-responsive">
-<table class="table table-hover">
-        {%accountBalance%}
-</table>
-{%Claimbtn%}
+<div id="tab1" class="tab-pane active">
+<div class="col-lg-12 table-responsive">{%accountBalance%}{%Claimbtn%}
+
 </div>
 </div>
-<div class="tab-pane" id="tab2">
-<div class="col-lg-12 table-responsive">
-<table class="table table-hover">
-      {%pendingClaims%}
- </table>
+<div id="tab2" class="tab-pane">
+<div class="col-lg-12 table-responsive">{%pendingClaims%}</div>
 </div>
-</div>
-<div class="tab-pane" id="tab3">
-<div class="col-lg-12 table-responsive">
-<table class="table table-hover">
-      {%paidClaims%}
-</table>
-</div>
+<div id="tab3" class="tab-pane">
+<div class="col-lg-12 table-responsive">{%paidClaims%}</div>
 </div>
 </div>
 </div>
 <div class="row ">
-<div class="col-lg-12">
-<a href="membersarea"><button type="button" class="btn btn-default login" id="jq_cancel_btn">Done</button></a></div>
-</div> 
+<div class="col-lg-12"><a href="membersarea"><button id="jq_cancel_btn" class="btn btn-default login" type="button">Done</button></a></div>
+</div>
