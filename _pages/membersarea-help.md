@@ -56,11 +56,12 @@ ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - logged
 ---
 <div class="col-sm-6 topSpace">[help_panels]</div>
 <div class="col-sm-6 topSpace calaffix">[memberarea_contact_form]</div>
-
-<script>
+<script>// <![CDATA[
 jQuery(document).ready(function () {
 jQuery(window).resize(function () {
         jQuery('.affix').width(jQuery('.calaffix').width());
@@ -71,4 +72,4 @@ jQuery(window).load(function () {
         jQuery('.affix').width(jQuery('.calaffix').width());
     });
 });
-</script>
+// ]]></script>
