@@ -90,6 +90,8 @@ Join now and play our games in your members area. Decide it playing for fee or r
 You won't need to check your lines one by one. Save time and check all your line with a simple click!
 <div style="padding-top: 15px;"></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445340805523{padding-top: 0px !important;padding-right: 75px !important;padding-bottom: 0px !important;padding-left: 75px !important;}"][vc_column_text]
+<h3>Frequently Asked Questions (FAQ)</h3>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1445340805523{padding-top: 0px !important;padding-right: 75px !important;padding-bottom: 0px !important;padding-left: 75px !important;}"][vc_column_text]
 <div class="lplh-26"><strong>WHERE CAN I VIEW MY LOTTERY  TICKETS AND RAFFLE ENTRIES?</strong></div>
 <div class="lplh-26"></div>
 <div class="lplh-26">We would have emailed a copy of your tickets to you when you first registered with us. Alternatively, you can login into our Members Area with your mobile number as your username. Your claim reference can be used as your password or you can use whatever password that you have set for the account.</div>
