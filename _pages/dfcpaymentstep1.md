@@ -58,7 +58,7 @@ lotto_visible_to_user:
   - all
 ---
 <html>    <body style="background-color:white;background-image:none">
-        <form action="" method="post" name="IframepaymentDFC" id="IframepaymentDFC">
+        <form action="http://www.ecommerce.lotto-social.com/IframepaymentDFC" method="post" name="IframepaymentDFC" id="IframepaymentDFC">
             <input type="hidden" name="title" value="">
             <input type="hidden" name="firstName" value="">
             <input type="hidden" name="surname" value="">
