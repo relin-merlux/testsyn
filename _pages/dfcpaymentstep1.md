@@ -58,7 +58,7 @@ lotto_visible_to_user:
   - all
 ---
 <html>    <body style="background-color:white;background-image:none">
-        <form action="<?php echo Yii::app()->createUrl('site/IframepaymentDFC') ?>" method="post" name="IframepaymentDFC" id="IframepaymentDFC">
+        <form action="" method="post" name="IframepaymentDFC" id="IframepaymentDFC">
             <input type="hidden" name="title" value="">
             <input type="hidden" name="firstName" value="">
             <input type="hidden" name="surname" value="">
