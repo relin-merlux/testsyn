@@ -56,12 +56,35 @@ ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - logged
 ---
-[vc_row el_class="row"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/1" el_class="row"][vc_column_text]<p>[limb_msg]</p>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]<p>[account_icon_with_balance]</p>
-[/vc_column_text][vc_column_text]<p>[account_recent_activity]</p>
-[/vc_column_text][vc_column_text]<p>[have_you_got_a_voucher]</p>
-[/vc_column_text][vc_column_text]<p>[coming_soon]</p>
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]<p>[spend_your_bouns]</p>
-[/vc_column_text][vc_column_text]<p>[upsellone]</p>
+[vc_row el_class="row"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/1" el_class="row"][vc_column_text]
+
+[limb_msg]
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
+
+[account_icon_with_balance]
+
+[/vc_column_text][vc_column_text]
+
+[account_recent_activity]
+
+[/vc_column_text][vc_column_text]
+
+[have_you_got_a_voucher]
+
+[/vc_column_text][vc_column_text]
+
+[coming_soon]
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
+
+[spend_your_bouns]
+
+[/vc_column_text][vc_column_text]
+
+[upsellone]
+
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
