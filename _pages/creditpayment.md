@@ -6,7 +6,7 @@ post_date: 2015-10-30 12:08:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/creditpayment1/
+  http://www.ecommerce.lotto-social.com/creditpayment/
 published: true
 ulp_version:
   - "4.9"
@@ -51,7 +51,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - ""
+  - default
 lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
