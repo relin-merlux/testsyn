@@ -57,3 +57,8 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
+<style>body { background-color: #fff; }</style>
+<br>
+<p style="text-align:center;">Confirm your selection by clicking on the button below</p>
+<br>
+<div style="text-align:center;"><a href="#" onclick="savecreditofferdetails()" class="btn btn-success" id="redeem-btn">Redeem <img id="loading" style="display:none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif"></a></div>
