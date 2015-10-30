@@ -57,4 +57,3 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[woocommerce_my_acount]
