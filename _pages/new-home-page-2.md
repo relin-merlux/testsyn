@@ -66,15 +66,15 @@ lotto_reg_form:
 </div>
 <div class="col-sm-9 test1">
 <div class="row">
-<div class="col-sm-6 form-group specialFpd"><label>Mobile number</label>
+<div class="col-sm-6 form-group specialFpd"><label>Mobile number*</label>
 <input id="free_reg_msn" class="form-control invalidBorder" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
-<div class="col-sm-6 form-group specialFpd"><label>Choose a password</label>
+<div class="col-sm-6 form-group specialFpd"><label>Enter password*</label>
 <input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
 </div>
 </div>
 <div class="col-sm-3">
 <div class="row mrg0">
-<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">TRY IT FOR FREE</a></div>
+<div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">JOIN NOW</a></div>
 </div>
 </div>
 <div class="col-lg-12 tl">By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.</div>
