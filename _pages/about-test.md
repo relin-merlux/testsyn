@@ -57,7 +57,7 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]
+[vc_row][vc_column css=".vc_custom_1446229053350{margin-top: 20px !important;}"][vc_column_text]
 <p style="text-align: center; font-size: 24px; color: #2f76d2;">Welcome to Lotto-Social, the social hub for all you lottery syndicate lovers out there!</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<strong>WHERE IT ALL BEGAN…</strong>
 Lotto social was born in 2007, after a group of university friends grouped together to play in a lottery syndicate. However, collecting the money in time often proved a problem &amp; everyone in the syndicate wasn’t always around to play each week either! The guys knew that clubbing together would mean more chances to win BIG, but they just needed someone to manage the syndicate for them…
