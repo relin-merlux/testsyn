@@ -6,7 +6,7 @@ post_date: 2014-06-03 14:54:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/blog-big/
+  http://www.ecommerce.lotto-social.com/blog/
 published: true
 blog-type:
   - big
