@@ -6,7 +6,7 @@ post_date: 2015-10-30 12:08:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/creditpayment/
+  http://www.ecommerce.lotto-social.com/creditpayment1/
 published: true
 ulp_version:
   - "4.9"
@@ -51,14 +51,13 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - all
 ---
-<style>body { background-color: #fff; }</style>
-<br>
-<p style="text-align:center;">Confirm your selection by clicking on the button below</p>
-<br>
-<div style="text-align:center;"><a href="#" onclick="savecreditofferdetails()" class="btn btn-success" id="redeem-btn">Redeem <img id="loading" style="display:none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif"></a></div>
+&nbsp;
+<p style="text-align: center;">Confirm your selection by clicking on the button below</p>
+&nbsp;
+<div style="text-align: center;"><a id="redeem-btn" class="btn btn-success" href="#">Redeem <img id="loading" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif" alt="" /></a></div>
