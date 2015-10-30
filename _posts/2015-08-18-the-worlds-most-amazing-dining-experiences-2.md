@@ -4,11 +4,11 @@ post_title: >
   The world’s most amazing dining
   experiences
 author: Nicolo
-post_date: 2015-10-30 12:22:44
+post_date: 2015-08-18 12:22:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/5853-2/
+  http://www.ecommerce.lotto-social.com/the-worlds-most-amazing-dining-experiences-2/
 published: true
 ulp_version:
   - "4.9"
