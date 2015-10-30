@@ -59,7 +59,7 @@ lotto_reg_form:
 <div class="promotionForm">
 <div class="main_content">
 <div class="col-sm-12 height20">
-<div id="free_reg_error" class="row mrg0 hide" style="display: block;">
+<div id="free_reg_error" class="row mrg0 hide">
 <p class="invalidError">Please enter your Mobile Number</p>
 
 </div>
@@ -67,7 +67,7 @@ lotto_reg_form:
 <div class="col-sm-9 test1">
 <div class="row">
 <div class="col-sm-6 form-group specialFpd"><label>Mobile number*</label>
-<input id="free_reg_msn" class="form-control invalidBorder" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
+<input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
 <div class="col-sm-6 form-group specialFpd"><label>Enter password*</label>
 <input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
 </div>
