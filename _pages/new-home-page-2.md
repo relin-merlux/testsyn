@@ -54,7 +54,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="330" image="http://live.yithemes.com/bishop-portfolio/wp-content/uploads/sites/8/2014/06/paralal.jpg" font_p="24"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="330" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
 <div class="promotionForm">
 <div class="main_content">
 <div class="col-sm-12 height20">
@@ -90,7 +90,7 @@ By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate
 &nbsp;
 
 </div>
-[/parallax][vc_column_text][rev_slider revhome][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
+[/parallax][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
