@@ -59,4 +59,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row el_class="row memberNew pageSuccess"][vc_column width="1/1"][vc_row_inner el_class="col-lg-12"][vc_column_inner width="1/2" el_class="col-md-6"][vc_column_text][success_cong][/vc_column_text][vc_column_text][login_easier][/vc_column_text][vc_column_text][success_you_have_bought][/vc_column_text][vc_column_text][you_have_bought_2][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-md-6"][vc_column_text][success_like_and_keyfact][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
+[vc_row el_class="row memberNew pageSuccess"][vc_column][vc_row_inner][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text][success_cong][/vc_column_text][vc_column_text][login_easier][/vc_column_text][vc_column_text][success_you_have_bought][/vc_column_text][vc_column_text][you_have_bought_2][/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-md-6" width="1/2"][vc_column_text][success_like_and_keyfact][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
