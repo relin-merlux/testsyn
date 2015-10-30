@@ -55,6 +55,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="400" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
+<h2>We boost your changes of winning EuroMillions</h2>
 <div class="col-md-10 col-md-offset-1 specificBannertl">
 <div class="promotionForm">
 <div class="main_content">
