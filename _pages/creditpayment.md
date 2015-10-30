@@ -60,4 +60,4 @@ lotto_visible_to_user:
 &nbsp;
 <p style="text-align: center;">Confirm your selection by clicking on the button below</p>
 &nbsp;
-<div style="text-align: center;"><a id="redeem-btn" class="btn btn-success" href="#">Redeem <img id="loading" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif" alt="" /></a></div>
+<div style="text-align: center;"><a id="redeem-btn" class="btn btn-success" nclick="savecreditofferdetails()" href="#">Redeem <img id="loading" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif" alt="" /></a></div>
