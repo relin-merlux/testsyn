@@ -55,7 +55,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="330" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
-<div class="col-md-8 col-md-offset-2">
+<div class="col-md-10 col-md-offset-1">
 <div class="promotionForm">
 <div class="main_content">
 <div class="col-sm-12 height20">
@@ -77,8 +77,7 @@ lotto_reg_form:
 <div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">TRY IT FOR FREE</a></div>
 </div>
 </div>
-By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.
-
+<div style="text-align: left;">By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.</div>
 </div>
 &nbsp;
 <div id="captchaFreeReg" class="captchaFreeReg hidden">
