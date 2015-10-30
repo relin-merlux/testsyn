@@ -85,4 +85,4 @@ There’s no need to check your numbers after each draw; we do it all for you wi
 
 Remember, more lines = More chances! And don’t just take our word for it, according to The National Lottery, 1 in 5 jackpots are won by syndicates – so it’s a tried and tested way to play.
 
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][button href="/pricing/" dimension="large" icon="angle-double-right" animation="CtR" animate="pulse"]CHOOSE YOU PLAN NOW[/button][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][button href="/pricing/" dimension="large" icon="angle-double-right" animation="CtR" animate="pulse"]CHOOSE YOU PLAN NOW[/button][/vc_column][/vc_row][vc_row][vc_column][ult_buttons btn_title="CHOOSE YOUR PLAN NOW" btn_link="url:%2Fpricing%2F||" btn_align="ubtn-center" btn_size="ubtn-large" btn_title_color="#ffffff" btn_bg_color="#00a651" icon="Defaults-angle-double-right" icon_size="32" btn_icon_pos="ubtn-sep-icon-at-right" btn_shadow="shd-bottom" btn_shadow_color="#333333" btn_shadow_color_hover="#333333" btn_shadow_size="5" btn_font_size="18"][/vc_column][/vc_row]
