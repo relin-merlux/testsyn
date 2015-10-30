@@ -52,30 +52,34 @@ ulp_onidle_popup_mobile:
   - default
 slide_template:
   - default
+lotto_reg_form:
+  - 'no'
+lotto_visible_to_user:
+  - logged
 ---
 <div class="woocommerce">
 <table class="shop_table cart" cellspacing="0">
-  <thead>
-    <tr>
-      <th class="product-remove"></th>
-      <th class="product-name">Product Name</th>
-      <th class="product-price">Price</th>
-      <th class="product-quantity">Quantity</th>
-      <th class="product-currency">Currency</th>
-      <th class="product-transaction">Transaction</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="cart_item">
-      <td class="product-remove"><a href="" title="Remove this item"><span class="remove fa fa-times"></span></a></td>
-      <td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img width="90" height="90" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="reward-offer-1"></a>  This is a product name</td>
-      <td class="product-price">£16</td>
-      <td class="product-quantity">1</td>
-      <td class="product-currency">CREDIT/DEBIT CARD</td>
-      <td class="product-transaction">1 Item declined</td>
-      <td><a href="#">WHat this means</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th class="product-remove"></th>
+<th class="product-name">Product Name</th>
+<th class="product-price">Price</th>
+<th class="product-quantity">Quantity</th>
+<th class="product-currency">Currency</th>
+<th class="product-transaction">Transaction</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="cart_item">
+<td class="product-remove"></td>
+<td class="product-name"><a href="http://www.ecommerce.lotto-social.com/product/burger/"><img class="attachment-shop_thumbnail wp-post-image" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/reward-offer-11-90x90.jpg" alt="reward-offer-1" width="90" height="90" /></a> This is a product name</td>
+<td class="product-price">£16</td>
+<td class="product-quantity">1</td>
+<td class="product-currency">CREDIT/DEBIT CARD</td>
+<td class="product-transaction">1 Item declined</td>
+<td><a href="#">WHat this means</a></td>
+</tr>
+</tbody>
 </table>
 </div>
