@@ -54,7 +54,7 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="330" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="400" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
 <div class="col-md-10 col-md-offset-1 specificBannertl">
 <div class="promotionForm">
 <div class="main_content">
@@ -66,10 +66,8 @@ lotto_reg_form:
 </div>
 <div class="col-sm-9 test1">
 <div class="row">
-<div class="col-sm-6 form-group specialFpd"><label>Mobile number*</label>
-<input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
-<div class="col-sm-6 form-group specialFpd"><label>Enter password*</label>
-<input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
+<div class="col-sm-6 form-group specialFpd"><input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" /></div>
+<div class="col-sm-6 form-group specialFpd"><input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
 </div>
 </div>
 <div class="col-sm-3">
