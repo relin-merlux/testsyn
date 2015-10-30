@@ -54,17 +54,14 @@ slide_template:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - logged
 ---
-<div class="spinner"><div></div></div>
+<div class="spinner"></div>
 <div class="loadShow">[ordered_items]</div>
-
-
-<style>
-.loadShow {display: none;}
-</style>
-<script>
+<script>// <![CDATA[
 $(window).load(function() {
   $(".spinner").hide();
 $(".loadShow").fadeIn();
 });
-</script>
+// ]]></script>
