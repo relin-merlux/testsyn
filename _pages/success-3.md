@@ -58,10 +58,7 @@ lotto_visible_to_user:
   - logged
 ---
 <div class="spinner"></div>
-<div class="loadShow">[ordered_items]</div>
+<div class="loadShow">[ordered_items_success]</div>
 <script>// <![CDATA[
-$(window).load(function() {
-  $(".spinner").hide();
-$(".loadShow").fadeIn();
-});
+$(window).load(function() { $(".spinner").hide(); $(".loadShow").fadeIn(); });
 // ]]></script>
