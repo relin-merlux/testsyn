@@ -60,4 +60,4 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-<h2>We boost your chances of winning <span id="text-rotating1" style="display: inline; opacity: 0.156025;"><span style="color: #6699cc;">Rewards</span></span></h2>
+<h2>We boost your chances of winning <span id="text-rotating" style="display: inline; opacity: 0.156025;"><span style="color: #6699cc;">Rewards</span></span></h2>
