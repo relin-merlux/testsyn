@@ -99,7 +99,7 @@ lotto_reg_form:
 <p class="jackpot-title" style="font-weight: 600;">NEXT LOTTO JACKPOT</p>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
-[/box_section][/vc_column_inner][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/cart_icon.png"]
+[/box_section][/vc_column_inner][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/cart_icon.png" link="/shop/"]
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text css_animation="appear"]
 <p style="text-align: center; font-size: 25px; font-weight: 900;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
