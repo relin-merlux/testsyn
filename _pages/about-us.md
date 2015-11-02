@@ -6,7 +6,7 @@ post_date: 2013-11-05 09:15:03
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/about/
+  http://www.ecommerce.lotto-social.com/about-us/
 published: true
 slide_template:
   - default
