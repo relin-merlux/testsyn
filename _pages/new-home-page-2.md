@@ -55,7 +55,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="400" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/c16b30a6-lp-bg.jpg" font_p="24"]
-<h2>We boost your chances of winning <span id="js-rotating"><span style="color: #6699cc;">Rewards</span>, <span style="color: #ff0000;">Lotto</span>, <span style="color: #6699cc;">EuroMillions</span>, <span style="color: #f58220;">Games</span></span></h2>
+<h2>We boost your chances of winning <span id="text-rotating"><span style="color: #6699cc;">Rewards</span></span></h2>
 <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1 specificBannertl">
 <div class="promotionForm">
 <div class="main_content">
@@ -90,9 +90,33 @@ lotto_reg_form:
 
 </div>
 </div>
-<script src="http://www.ecommerce.lotto-social.com/wp-content/themes/bishop-child/js/morphext.min.js"></script><script>// <![CDATA[
-            jQuery("#js-rotating").Morphext({ animation: "fadeIn", separator: ",",  speed: 3500, complete: function () {}});
-        
+<script>// <![CDATA[
+$(document).ready(function() {
+
+    var items = ["<span style="color: #ff0000;">Lotto</span>","<span style="color: #6699cc;">EuroMillions</span>","<span style="color: #f58220;">Games</span>,"<span style="color: #6699cc;">Rewards</span>""],
+        $text = $( '#text-rotating' ),
+        delay = 1; //seconds
+    
+    function loop ( delay ) {
+        $.each( items, function ( i, elm ){
+            $text.delay( delay*1E3).fadeOut();
+            $text.queue(function(){
+                $text.html( items[i] );
+                $text.dequeue();
+            });
+            $text.fadeIn();
+            $text.queue(function(){
+                if ( i == items.length -1 ) {
+                    loop(delay);   
+                }
+                $text.dequeue();
+            });
+        });
+    }
+
+    loop( delay );
+    
+});
 // ]]></script>
 [/parallax][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
