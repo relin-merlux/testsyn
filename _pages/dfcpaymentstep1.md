@@ -56,6 +56,8 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - all
+lotto_free_registration_step:
+  - dfcpaymentstep1
 ---
 <html>    <body style="background-color:white;background-image:none">
         <form action="http://www.ecommerce.lotto-social.com/IframepaymentDFC" method="post" name="IframepaymentDFC" id="IframepaymentDFC">
