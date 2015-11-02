@@ -219,5 +219,3 @@ lotto_free_registration_step:
     </body>
 </html>
 
-
-<script src="http://www.ecommerce.lotto-social.com/wp-content/themes/bishop-child/js/dfc-payment-validation.js"></script>
