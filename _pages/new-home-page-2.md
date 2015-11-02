@@ -91,7 +91,7 @@ lotto_reg_form:
 </div>
 </div>
 <script>// <![CDATA[
-$(document).ready(function() {
+jQuery(document).ready(function($) {
 
     var items = ["<span style="color: #ff0000;">Lotto</span>","<span style="color: #6699cc;">EuroMillions</span>","<span style="color: #f58220;">Games</span>,"<span style="color: #6699cc;">Rewards</span>""],
         $text = $( '#text-rotating' ),
