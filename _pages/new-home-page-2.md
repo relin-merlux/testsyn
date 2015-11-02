@@ -90,34 +90,6 @@ lotto_reg_form:
 
 </div>
 </div>
-<script>// <![CDATA[
-jQuery(document).ready(function($) {
-
-    var items = ["<span style='color: #ff0000;'>Lotto</span>","<span style='color: #6699cc;'>EuroMillions</span>","<span style='color: #f58220;'>Games</span>","<span style='color: #6699cc;'>Rewards</span>"],
-        $text = $( '#text-rotating' ),
-        delay = 1; //seconds
-    
-    function loop ( delay ) {
-        $.each( items, function ( i, elm ){
-            $text.delay( delay*1E3).fadeOut();
-            $text.queue(function(){
-                $text.html( items[i] );
-                $text.dequeue();
-            });
-            $text.fadeIn();
-            $text.queue(function(){
-                if ( i == items.length -1 ) {
-                    loop(delay);   
-                }
-                $text.dequeue();
-            });
-        });
-    }
-
-    loop( delay );
-    
-});
-// ]]></script>
 [/parallax][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
