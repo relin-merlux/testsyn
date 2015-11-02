@@ -59,11 +59,11 @@ lotto_reg_form:
 lotto_visible_to_user:
   - logged
 ---
-[vc_row el_class="row"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/1" el_class="row"][vc_column_text]
+[vc_row el_class="row memberNew"][vc_column][vc_row_inner][vc_column_inner el_class="row"][vc_column_text]
 
 [limb_msg]
 
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner el_class="col-sm-6" width="1/2"][vc_column_text]
 
 [account_icon_with_balance]
 
@@ -79,7 +79,7 @@ lotto_visible_to_user:
 
 [coming_soon]
 
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
+[/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-sm-6" width="1/2"][vc_column_text]
 
 [spend_your_bouns]
 
