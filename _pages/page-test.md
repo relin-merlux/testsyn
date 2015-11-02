@@ -57,4 +57,4 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[rev_slider shop-slider]
+[vc_row full_width="stretch_row_content_no_spaces"][vc_column][vc_column_text][rev_slider shop-slider][/vc_column_text][/vc_column][/vc_row]
