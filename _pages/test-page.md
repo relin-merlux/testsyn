@@ -57,4 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[rev_slider revhome]
+[vc_row full_width="stretch_row_content_no_spaces"][vc_column][vc_column_text][rev_slider revhome].[/vc_column_text][/vc_column][/vc_row]
