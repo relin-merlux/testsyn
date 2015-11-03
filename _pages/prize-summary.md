@@ -65,10 +65,8 @@ lotto_visible_to_user:
       <div id="overlay" class="overlay" style="background-color: #ffffff; height: 100%; opacity: 0.8; position: absolute; z-index: 100000; width: 100%; display: none;"></div>
       <div id="tploader" class="tploader" style="display: none;"></div>
       <div class="col-lg-12">
-        <center>
-          We converted your small wins to Bonus Credit.<br>
-          You can keep it to buy <span class="font14 keepText"> 10</span> more lottery lines<br>
-          or you can swap it to cash.<br><a class="readmore"><i class="fa fa-plus-circle readmore1"></i> <span class="">Read more about Bonus Credit </span></a>
+        <center><br>
+          We converted your small wins to Bonus Credit. You can keep it to buy <span class="font14 keepText"> 10</span> more lottery lines or you can swap it to cash.<br><a class="readmore"><i class="fa fa-plus-circle readmore1"></i> <span class="">Read more about Bonus Credit </span></a>
         </center>
         <ul class=" moreinfobnscdr font12 hidden" style="background: #F0F0F0;">
           <li>Bonus Credit is awarded for small winnings on your lottery tickets.</li>
@@ -85,14 +83,14 @@ lotto_visible_to_user:
             <div>
               <label class="summaryradioBtn activeRadio" title="Keep as credit.">
                 <input class="radiocredit" checked="checked" name="prizeBreakdown" type="radio" value="credit" />
-                <span id="creditvalue" class="radioCustomText">&pound;{%bonuscreditbalance%}</span>BONUS CREDIT</label>
+                <span id="creditvalue" class="radioCustomText">£{%bonuscreditbalance%}</span>BONUS CREDIT</label>
             </div>
           </div>
           <div class="col-xs-6 tc">
             <div>
               <label class="summaryradioBtn summarycashBtn" title="Convert to Cash.">
                 <input class="radiocash" name="prizeBreakdown" type="radio" value="cash" />
-                <span id="cashvalue" class="radioCustomText">&pound;0.00</span>CASH</label>
+                <span id="cashvalue" class="radioCustomText">£0.00</span>CASH</label>
             </div>
           </div>
         </div>
