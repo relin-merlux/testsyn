@@ -100,7 +100,7 @@ lotto_visible_to_user:
       <div class="modal-footer">
         <div class="row">
           <div class="col-md-8 col-sm-6 tr "></div>
-          <div class="tr col-md-4 col-sm-6"><a id="cashtocreditbtn" class="btn btn-success confirm_credit "></a>I choose credit <a class="btn btn-default loadingBtn hidden"><img class="glyphicon" src="https://www.dev.lotto-social.com/cms2/wp-content/themes/textlotto/images/ajaxloader.gif" alt="" />Loading</a></div>
+          <div class="tr col-md-4 col-sm-6"><a id="cashtocreditbtn" class="btn btn-success confirm_credit ">I choose credit</a><a class="btn btn-default loadingBtn hidden"><img class="glyphicon" src="https://www.dev.lotto-social.com/cms2/wp-content/themes/textlotto/images/ajaxloader.gif" alt="" />Loading</a></div>
         </div>
       </div>
     </div>
