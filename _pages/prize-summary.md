@@ -64,13 +64,11 @@ lotto_visible_to_user:
 <div class="modal-content borderNone">
 <div id="overlay" class="overlay" style="background-color: #ffffff; height: 100%; opacity: 0.8; position: absolute; z-index: 100000; width: 100%; display: none;"></div>
 <div id="tploader" class="tploader" style="display: none;"></div>
-<div class="col-lg-12">
-<center>
+<div class="col-lg-12"><center>
 We converted your small wins to Bonus Credit.
 You can keep it to buy <span class="font14 keepText"> 10</span> more lottery lines
 or you can swap it to cash
-<a class="readmore"><i class="fa fa-plus-circle readmore1"></i> <span class="">Read more about Bonus Credit </span></a>
-</center>
+<a class="readmore"><i class="fa fa-plus-circle readmore1"></i> <span class="">Read more about Bonus Credit </span></a></center>
 <ul class=" moreinfobnscdr font12 hidden" style="background: #F0F0F0;">
 	<li>Bonus Credit is awarded for small winnings on your lottery tickets.</li>
 	<li>A small win is 60p or less.</li>
@@ -111,7 +109,7 @@ or you can swap it to cash
 <div id="prizeCongratulations" class="row memberNew prizeBreakdownContent">
 <div class="col-lg-10 col-lg-offset-1 whiteBg">
 <h1 class="tc">{%winningsTitle%}</h1>
-<div class="row padding-xs">{%prizeSummeryDetails%}</div>
+<div class="row padding-xs"><div class="col-md-8 col-md-offset-2">{%prizeSummeryDetails%}</div></div>
 </div>
 </div>
 <div id="over30days" class="row memberNew prizeBreakdownContent">
@@ -121,27 +119,5 @@ or you can swap it to cash
 $( document ).ready(function() { var hash = window.location.hash; var location = window.location; if (hash=="#nowinnings") { $('.prizeBreakdownContent').hide(); $('#nowinning').show(); } else if (hash=="#nothingtocheck") { $('.prizeBreakdownContent').hide(); $('#nothingtocheck').show(); } else if (hash=="#youarenotplaying") { $('.prizeBreakdownContent').hide(); $('#youarenotplaying').show(); } else if (hash=="#over30days") { $('.prizeBreakdownContent').hide(); $('#over30days').show(); } else { $('.prizeBreakdownContent').hide(); $('#prizeCongratulations').show(); } $('.summaryradioBtn').click(function(){ $('.summaryradioBtn').removeClass('activeRadio'); $(this).addClass('activeRadio'); }); });
 // ]]></script>
 <script>// <![CDATA[
-function checkvalue(){
-if($(".radiocash")[0].checked==true){
-$(".confirm_credit")[0].innerHTML="I choose cash";
-}
-else if($(".radiocredit")[0].checked==true){
-$(".confirm_credit")[0].innerHTML="I choose credit";
-}
-}
-function displaymoreinfo(){
-if($(".moreinfobnscdr").hasClass('hidden')==true){
-	$(".moreinfobnscdr").removeClass('hidden');
-        $(".readmore1").removeClass('fa-plus-circle');
-        $(".readmore1").addClass('fa-minus-circle'); 
-       	$(".readtext")[0].innerHTML="Read less about Bonus Credit";	
-        
-}
-else{
-	$(".moreinfobnscdr").addClass('hidden');
-        $(".readmore1").removeClass('fa-minus-circle');
-        $(".readmore1").addClass('fa-plus-circle');         
-	$(".readtext")[0].innerHTML="Read more about Bonus Credit";
-}
-}
+function checkvalue(){ if($(".radiocash")[0].checked==true){ $(".confirm_credit")[0].innerHTML="I choose cash"; } else if($(".radiocredit")[0].checked==true){ $(".confirm_credit")[0].innerHTML="I choose credit"; } } function displaymoreinfo(){ if($(".moreinfobnscdr").hasClass('hidden')==true){ $(".moreinfobnscdr").removeClass('hidden'); $(".readmore1").removeClass('fa-plus-circle'); $(".readmore1").addClass('fa-minus-circle'); $(".readtext")[0].innerHTML="Read less about Bonus Credit"; } else{ $(".moreinfobnscdr").addClass('hidden'); $(".readmore1").removeClass('fa-minus-circle'); $(".readmore1").addClass('fa-plus-circle'); $(".readtext")[0].innerHTML="Read more about Bonus Credit"; } }
 // ]]></script>
