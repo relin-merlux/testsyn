@@ -75,7 +75,7 @@ lotto_visible_to_user:
           <li>Once Bonus Credit is issued it cannot be converted back to cash.</li>
           <li>Bonus Credit can only be spent on Lotto Social products.</li>
         </ul>
-        </div>
+        </div><br>
       <p class="col-lg-12 tc">What would you like to do?</p>
       <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
@@ -83,14 +83,14 @@ lotto_visible_to_user:
             <div>
               <label class="summaryradioBtn activeRadio" title="Keep as credit.">
                 <input class="radiocredit" checked="checked" name="prizeBreakdown" type="radio" value="credit" />
-                <span id="creditvalue" class="radioCustomText">£{%bonuscreditbalance%}</span>BONUS CREDIT</label>
+                <span id="creditvalue" class="radioCustomText">&amp;pound;{%bonuscreditbalance%}</span>BONUS CREDIT</label>
             </div>
           </div>
           <div class="col-xs-6 tc">
             <div>
               <label class="summaryradioBtn summarycashBtn" title="Convert to Cash.">
                 <input class="radiocash" name="prizeBreakdown" type="radio" value="cash" />
-                <span id="cashvalue" class="radioCustomText">£0.00</span>CASH</label>
+                <span id="cashvalue" class="radioCustomText">&amp;pound;0.00</span>CASH</label>
             </div>
           </div>
         </div>
