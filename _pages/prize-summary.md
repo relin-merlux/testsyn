@@ -83,7 +83,7 @@ lotto_visible_to_user:
             <div>
               <label class="summaryradioBtn activeRadio" title="Keep as credit.">
                 <input class="radiocredit" checked="checked" name="prizeBreakdown" type="radio" value="credit" />
-                <span id="creditvalue" class="radioCustomText">{%bonuscreditbalance%}</span>BONUS CREDIT</label>
+                <span id="creditvalue" class="radioCustomText">{%bonuscreditbalance%}</span>CREDIT</label>
             </div>
           </div>
           <div class="col-xs-6 tc">
