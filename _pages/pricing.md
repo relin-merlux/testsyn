@@ -149,9 +149,7 @@ You won't need to check your lines one by one. Save time and check all your line
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
 [/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/cart_icon.png" link="/shop/"]
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
-Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#eaeaea" css=".vc_custom_1446554048593{padding-top: 55px !important;padding-bottom: 55px !important;}"][vc_column width="1/2"][vc_column_text]
+Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][box_title subtitle_font_size="6" font_size="30" border_color="#b7b7b7" animate="fadeIn"]Don't take our words for granted . This is what our customers say[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#eaeaea" css=".vc_custom_1446554048593{padding-top: 55px !important;padding-bottom: 55px !important;}"][vc_column width="1/2"][vc_column_text]
 <div id="textalign">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
