@@ -138,7 +138,7 @@ Join now and play our games in your members area. Decide it playing for fee or r
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1445876490491{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5149" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/click-img6.png" alt="click-img6" width="58" height="56" /><strong>ONE CLICK CHECKER</strong>
 You won't need to check your lines one by one. Save time and check all your line with a simple click!
 <div style="padding-top: 15px;"></div>
-[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1445351757139{padding-top: 25px !important;padding-bottom: 25px !important;background-color: #f2f2f2 !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
+[/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#eaeaea" css=".vc_custom_1446554033364{padding-top: 25px !important;padding-bottom: 25px !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 45px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
@@ -151,14 +151,12 @@ You won't need to check your lines one by one. Save time and check all your line
 <p class="jackpot-title" style="font-weight: 600;">VISIT OUR STORE</p>
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center;">Don't take our words for granted. This is what our customers say</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#f2f2f2" css=".vc_custom_1446053764275{padding-top: 55px !important;padding-bottom: 55px !important;}"][vc_column width="1/2"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="bounceIn"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#eaeaea" css=".vc_custom_1446554048593{padding-top: 55px !important;padding-bottom: 55px !important;}"][vc_column width="1/2"][vc_column_text]
 <div id="textalign">
 
 <strong style="color: #000000;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE </span>trial plan!</strong>
 <p style="color: #000000;">No contracts, no surprises. Try our service for FREE for 7 days
-We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime.
-
-</p>
+We‘re sure you‘ll love it, but if you‘re not satisfied you can cancel anytime.</p>
 
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<img id="hideimage" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/07691679-arw1.png" alt="07691679-arw" />[/vc_column_text][vc_column_text]
