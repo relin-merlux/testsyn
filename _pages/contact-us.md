@@ -59,6 +59,6 @@ lotto_reg_form:
 ---
 [vc_row][vc_column width="1/2" css=".vc_custom_1446650780869{margin-top: 20px !important;}"][vc_column_text css_animation="top-to-bottom" css=".vc_custom_1446650730204{margin-bottom: 10px !important;}"]
 <p style="text-align: center; font-size: 20px;"><strong>Frequently asked questions (FAQ)</strong></p>
-[/vc_column_text][faq][/vc_column][vc_column width="1/2" css=".vc_custom_1446650872823{margin-top: 20px !important;}"][vc_column_text css_animation="top-to-bottom" css=".vc_custom_1446650864311{margin-bottom: 10px !important;}"]
+[/vc_column_text][faq category="0, 102, "][/vc_column][vc_column width="1/2" css=".vc_custom_1446650872823{margin-top: 20px !important;}"][vc_column_text css_animation="top-to-bottom" css=".vc_custom_1446650864311{margin-bottom: 10px !important;}"]
 <p style="text-align: center; font-size: 20px;"><strong>Contact us</strong></p>
 [/vc_column_text][contact_form name="contact-form"][/vc_column][/vc_row]
