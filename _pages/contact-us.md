@@ -57,8 +57,8 @@ ulp_onidle_popup_mobile:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column width="1/2"][vc_column_text]
-<h2 style="text-align: center;"><strong>OUR FAQs</strong></h2>
-[/vc_column_text][faq filter="1"][/vc_column][vc_column width="1/2"][vc_column_text]
+[vc_row][vc_column width="1/2"][vc_column_text css_animation="top-to-bottom"]
+<h3 style="text-align: center;">Frequently asked questions</h3>
+[/vc_column_text][faq][/vc_column][vc_column width="1/2"][vc_column_text]
 <h2 style="text-align: center;"><strong>CONTACT US</strong></h2>
 [/vc_column_text][contact_form name="contact-form"][/vc_column][/vc_row]
