@@ -62,4 +62,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][faq category="89, 88, 87, 86, "][/vc_column][/vc_row]
+[vc_row][vc_column][faq text_filterable="Filter by" category="89, 88, 87, 86, "][/vc_column][/vc_row]
