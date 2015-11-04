@@ -57,5 +57,9 @@ ulp_onidle_popup:
   - default
 ulp_onidle_popup_mobile:
   - default
+lotto_reg_form:
+  - 'no'
+lotto_visible_to_user:
+  - all
 ---
-[vc_row][vc_column width="1/1"][faq filter="0" category="86"][/vc_column][/vc_row]
+[vc_row][vc_column][faq category="89, 88, 87, 86, "][/vc_column][/vc_row]
