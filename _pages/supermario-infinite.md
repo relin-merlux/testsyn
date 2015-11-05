@@ -57,4 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row bg_type="bg_color" bg_color_value="#eaeaea"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_raw_html]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cCUzQSUyRiUyRm9wZW5odG1sNWdhbWVzLmdpdGh1Yi5pbyUyRmdhbWVzLW1pcnJvciUyRmRpc3QlMkZtYXJpb2h0bWw1JTJGbWFpbi5odG1sJTIyJTIwd2lkdGglM0QlMjIxMDAlMjUlMjIlMjBoZWlnaHQlM0QlMjI0ODAlMjIlM0U=[/vc_raw_html][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row][vc_column][vc_btn title="END GAME" style="flat" color="success" css_animation="top-to-bottom" link="url:%2Fgame-center||"][/vc_column][/vc_row]
+[vc_row bg_type="bg_color" bg_color_value="#eaeaea"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_raw_html]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cCUzQSUyRiUyRm9wZW5odG1sNWdhbWVzLmdpdGh1Yi5pbyUyRmdhbWVzLW1pcnJvciUyRmRpc3QlMkZtYXJpb2h0bWw1JTJGbWFpbi5odG1sJTIyJTIwd2lkdGglM0QlMjIxMDAlMjUlMjIlMjBoZWlnaHQlM0QlMjI0ODAlMjIlM0U=[/vc_raw_html][/vc_column][vc_column width="1/6"][vc_btn title="END GAME" style="flat" color="success" css_animation="top-to-bottom" link="url:%2Fgame-center||"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
