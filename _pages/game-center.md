@@ -57,4 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][box_title subtitle="Win up to £35,000" font_size="15" border_color="#b7b7b7" animate="fadeInDown"]Sweet Luck[/box_title][/vc_column][/vc_row][vc_row][vc_column][products_slider title="Other games" category="euromillions" layout="slideup" animate="fadeInDown"][/vc_column][/vc_row]
+[vc_row][vc_column][box_title subtitle="Win up to £35,000" font_size="15" font_alignment="left" border_color="#b7b7b7" animate="fadeInDown"]<strong>Sweet Luck</strong>[/box_title][ult_buttons btn_title="PLAY NOW" btn_align="ubtn-center" btn_size="ubtn-large" btn_title_color="#ffffff" icon_size="32" btn_icon_pos="ubtn-sep-icon-at-left"][/vc_column][/vc_row][vc_row][vc_column][products_slider title="Other games" category="euromillions" layout="slideup" animate="fadeInDown"][/vc_column][/vc_row]
