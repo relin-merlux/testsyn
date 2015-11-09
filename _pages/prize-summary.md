@@ -127,19 +127,6 @@ $(".confirm_credit")[0].innerHTML="I choose credit";
 }
 }
 function displaymoreinfo(){
-if($(".moreinfobnscdr").hasClass('hidden')==true){
-	$(".moreinfobnscdr").removeClass('hidden');
-        $(".readmore1").removeClass('fa-plus-circle');
-        $(".readmore1").addClass('fa-minus-circle'); 
-       	$(".readtext")[0].innerHTML="Read less about Bonus Credit";	
-        
 
-}
-else{
-	$(".moreinfobnscdr").addClass('hidden');
-        $(".readmore1").removeClass('fa-minus-circle');
-        $(".readmore1").addClass('fa-plus-circle');         
-	$(".readtext")[0].innerHTML="Read more about Bonus Credit";
-}
 }
 </script>
