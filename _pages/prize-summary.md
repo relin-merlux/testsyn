@@ -66,7 +66,7 @@ lotto_visible_to_user:
       <div id="tploader" class="tploader" style="display: none;"></div>
       <div class="col-lg-12">
         <center><br>
-          We converted your small wins to Bonus Credit.<br>You can keep it to buy <span class="font14 keepText">{%bonuscreditlines%}</span> more lottery lines<br>or you can swap it to cash.<br><a class="readmore" href="javascript:void(0)" onclick="displaymoreinfo()"><i class="fa fa-plus-circle readmore1"></i> <span class="">Read more about Bonus Credit </span></a>
+          We converted your small wins to Bonus Credit.<br>You can keep it to buy <span class="font14 keepText">{%bonuscreditlines%}</span> more lottery lines<br>or you can swap it to cash.<br><a class="readmore" href="javascript:void(0)" onclick="displaymoreinfo()"><i class="fa fa-plus-circle readmore1"></i> <span class="readtext">Read more about Bonus Credit </span></a>
         </center>
         <ul class=" moreinfobnscdr font12 hidden" style="background: #F0F0F0;">
           <li>Bonus Credit is awarded for small winnings on your lottery tickets.</li>
@@ -127,6 +127,19 @@ $(".confirm_credit")[0].innerHTML="I choose credit";
 }
 }
 function displaymoreinfo(){
+if($(".moreinfobnscdr").hasClass('hidden')==true){
+	$(".moreinfobnscdr").removeClass('hidden');
+        $(".readmore1").removeClass('fa-plus-circle');
+        $(".readmore1").addClass('fa-minus-circle'); 
+       	$(".readtext")[0].innerHTML="Read less about Bonus Credit";	
+        
 
+}
+else{
+	$(".moreinfobnscdr").addClass('hidden');
+        $(".readmore1").removeClass('fa-minus-circle');
+        $(".readmore1").addClass('fa-plus-circle');         
+	$(".readtext")[0].innerHTML="Read more about Bonus Credit";
+}
 }
 </script>
