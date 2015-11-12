@@ -6,7 +6,7 @@ post_date: 2013-11-05 09:23:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/
+  http://www.ecommerce.lotto-social.com/terms-and-conditions-2/
 published: true
 bwps_enable_ssl:
   - ""
