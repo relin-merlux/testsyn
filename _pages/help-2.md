@@ -1,12 +1,12 @@
 ---
 ID: 505
-post_title: Contact Us
+post_title: Help
 author: olu
 post_date: 2014-06-04 14:01:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/contact-us/
+  http://www.ecommerce.lotto-social.com/help-2/
 published: true
 slide_template:
   - default
