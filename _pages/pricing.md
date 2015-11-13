@@ -121,7 +121,7 @@ prize draw</p>
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<h2 style="text-align: center; color: #2f76d2;">[code ][ulp id='amkgLvmxNZ4ZD2Rb'][/code]That's not all! For all the members we also offers:</h2>
+<h2 style="text-align: center; color: #2f76d2;">That's not all! For all the members we also offers:</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][vc_column_text css=".vc_custom_1445882828021{margin-bottom: 20px !important;}"]<img class="alignleft size-full wp-image-5142" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/offer-img1.png" alt="offer-img1" width="58" height="56" /><strong>EXCLUSIVE OFFERS</strong>
 All the members have access to exclusive offers in their members area
 <div style="padding-top: 15px;"></div>
