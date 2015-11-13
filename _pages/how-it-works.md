@@ -31,7 +31,7 @@ ulp_onexit_popup:
 ulp_onexit_popup_mobile:
   - default
 ulp_onscroll_popup:
-  - default
+  - amkgLvmxNZ4ZD2Rb
 ulp_onscroll_popup_mobile:
   - default
 ulp_onscroll_mode:
