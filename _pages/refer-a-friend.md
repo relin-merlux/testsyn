@@ -8,6 +8,10 @@ layout: page
 permalink: >
   http://www.ecommerce.lotto-social.com/refer-a-friend/
 published: true
+bwps_enable_ssl:
+  - ""
+slide_template:
+  - ""
 ---
 <span style="color: red; font-size: 18px;">Coming Soon!</span>
 <div style="display:none1">
