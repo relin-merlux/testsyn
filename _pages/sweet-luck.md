@@ -80,4 +80,4 @@ lotto_visible_to_user:
 	<li>Vis ei audire iisque, mei ex harum postulant, nonumy repudiandae voluptatibus vix an.</li>
 	<li>Et mei prima iisque expetendis. Mutat idque dicit ad eam. Usu ei feugait invenire adversarium.</li>
 </ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][swiper_products_slider title="Other games" per_page="4" category="lotto" columns="2" height="300" autoplay="1"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][swiper_products_slider title="Other games" per_page="4" category="lotto" columns="4" height="320" autoplay="1"][/vc_column][/vc_row]
