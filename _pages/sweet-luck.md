@@ -62,20 +62,21 @@ lotto_visible_to_user:
 <h4 class="game_desc">Are you feeling sweet lucky? Play our lucky sweetie card game to be in the chance of finding <strong>£7000</strong></h4>
 [/vc_column_text][ult_buttons btn_title="PLAY NOW" btn_size="ubtn-custom" btn_width="170" btn_height="44" btn_padding_left="30" btn_padding_top="10" btn_title_color="#ffffff" btn_bg_color="#00a651" btn_anim_effect="ulta-pulse-shrink" btn_bg_color_hover="#00a651" icon="Defaults-angle-double-right" icon_size="24" btn_icon_pos="ubtn-sep-icon-right-rev" btn_shadow="shd-bottom" btn_shadow_color="#b7b7b7" btn_shadow_color_hover="#b7b7b7" btn_shadow_size="2" el_class="aligncenter" btn_font_size="18"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]Are you feeling <strong>sweet lucky</strong>? Play our lucky sweetie card game to be in the chance of finding <strong>£7000</strong>. If you match 3 sweets you can win a cash prize. Plus, you could unlock reward points[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_tta_tabs][vc_tta_section i_position="right" i_icon_fontawesome="fa fa-question-circle" title="How to play" tab_id="1447688942228-26a63947-1124" add_icon="true"][vc_column_text]
 <ul>
-	<li>Lorem ipsum dolor sit amet, mundi impedit vituperata an pro, usu et torquatos persecuti.</li>
-	<li>Omnis recusabo platonem sed ut. Persecuti repudiandae liberavisse at mei, an purto copiosae qui.</li>
-	<li>Nam ne liber debet labitur, ridens audiam graecis ad qui. Purto mazim nullam te ius, omnes integre accommodare est at, ad munere putant pro.</li>
+	<li>Each Play has it’s own Play Number - this can be found on the end game page when the game has finished. You can also see a record of your games played in your account section</li>
+	<li>At the start of a play, you’re presented with a game window which is shown when your game play is set up to play. There may be game rules shown here as well.</li>
+	<li>To start a play, you must click the Play button. The play has officially started now and the award cannot be re-issued.</li>
+	<li>To play the game, you must select 1 card at a time from a possible 9. Each selection will reveal a prize. If after 3 selections are made, the 3 symbols match a winning combination you have found a cash prize. There are also other winning combinations that award you with reward points. To complete the game you must make 3 selections.</li>
+	<li>There is a fixed period of time for each game play. After time has run out the game will randomly select the remaining cards and complete the game for you.</li>
+	<li>If you complete the game and find a prize you will be taken to a game to unlock your cash prize.</li>
+	<li>If you complete the game and don’t have a winning combination you will be taken to the end game page.</li>
 </ul>
-[/vc_column_text][/vc_tta_section][vc_tta_section title="Terms &amp; Conditions" tab_id="1447688942652-8e5c5ecb-6464"][vc_column_text]
-<ul>
-	<li>Ridens deterruisset at per, admodum detraxit aliquando mei no, at partem animal instructior vix.</li>
-	<li>Vis ei audire iisque, mei ex harum postulant, nonumy repudiandae voluptatibus vix an.</li>
-	<li>Et mei prima iisque expetendis. Mutat idque dicit ad eam. Usu ei feugait invenire adversarium.</li>
-</ul>
-<h3>Ea affert forensibus est</h3>
-<ul>
-	<li>Ridens deterruisset at per, admodum detraxit aliquando mei no, at partem animal instructior vix.</li>
-	<li>Vis ei audire iisque, mei ex harum postulant, nonumy repudiandae voluptatibus vix an.</li>
-	<li>Et mei prima iisque expetendis. Mutat idque dicit ad eam. Usu ei feugait invenire adversarium.</li>
-</ul>
-[/vc_column_text][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row][vc_row][vc_column][swiper_products_slider title="Other games" per_page="4" category="lotto" columns="4" height="320" autoplay="1"][/vc_column][/vc_row]
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Terms &amp; Conditions" tab_id="1447688942652-8e5c5ecb-6464"][vc_column_text]<strong>Introduction</strong>
+These are the Game Procedures (the “Procedures”) for Sweet Luck (the “Game”). When You play the Game, these Procedures, the Rules for Instant Win Games ("the Rules") and the Account Terms apply. All of these documents can be found on the Lotto Social website
+
+Any word or term in these Procedures that has specific meaning will have the meaning given to it in these Procedures or the Rules (unless the context clearly indicates otherwise).
+
+<strong>Game Details</strong>
+<strong>Game price</strong>: 20 Reward Points or gifted to customer
+There is a 1 in x overall chance of winning a Prize on each Play of the Game. The expected prize payout percentage for this game is %%%
+
+This game is a game of chance. The outcome of a Play in the Game is determined by Lotto Social and game partners either at the point of redemption or during the game based on user actions[/vc_column_text][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row][vc_row][vc_column][swiper_products_slider title="Other games" per_page="4" category="lotto" columns="4" height="320" autoplay="1"][/vc_column][/vc_row]
