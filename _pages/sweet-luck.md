@@ -80,4 +80,4 @@ lotto_visible_to_user:
 	<li>Vis ei audire iisque, mei ex harum postulant, nonumy repudiandae voluptatibus vix an.</li>
 	<li>Et mei prima iisque expetendis. Mutat idque dicit ad eam. Usu ei feugait invenire adversarium.</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/4"][swiper_products_slider title="Other games" category="reward-points" columns="2" autoplay="1"][/vc_column][/vc_row][vc_row][vc_column][products_slider title="Other games" category="euromillions" layout="slideup" animate="fadeInDown"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][vc_column width="1/4"][show_products per_page="1" category="reward-points"][/vc_column][/vc_row][vc_row][vc_column][swiper_products_slider title="Other games" category="reward-points" columns="4" autoplay="1"][/vc_column][/vc_row]
