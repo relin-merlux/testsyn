@@ -1,12 +1,12 @@
 ---
 ID: 6191
-post_title: Sweet Luck
+post_title: Game center
 author: Nicolo
 post_date: 2015-11-05 17:13:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/sweet-luck/
+  http://www.ecommerce.lotto-social.com/game-center/
 published: true
 ulp_version:
   - "4.9"
