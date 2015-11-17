@@ -69,6 +69,7 @@ lotto_free_registration_step:
 
 </div>
 <a id="submit_btn_voucher_code" class="btn btn-success btn-lg ladda-button" data-style="expand-right"></a>{%button1%}<a class="btn btn-link btn-lg small-skip-link free_reg_step4d_btn1">Skip and enter later in your members area</a>
+
 </div>
 <div class="target_url hide">{%target_url%}</div>
 </div>
