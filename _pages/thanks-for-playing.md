@@ -57,9 +57,9 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][vc_column_text]
-<h1 class="game_title"><strong>THANKS FOR PLAYING SWEET LUCK!</strong></h1>
-<h4 class="game_desc">Play number: 123456789abcdefg</h4>
+[vc_row bg_type="grad" bg_grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FF9A34), color-stop(100%, #00000F));background: -moz-linear-gradient(top,#FF9A34 0%,#00000F 100%);background: -webkit-linear-gradient(top,#FF9A34 0%,#00000F 100%);background: -o-linear-gradient(top,#FF9A34 0%,#00000F 100%);background: -ms-linear-gradient(top,#FF9A34 0%,#00000F 100%);background: linear-gradient(top,#FF9A34 0%,#00000F 100%);"][vc_column][vc_column_text css_animation="top-to-bottom"]
+<h1 class="game_title" style="text-align: center;"><strong>THANKS FOR PLAYING %%game_title%%!</strong></h1>
+<h4 class="game_desc" style="text-align: center;">Play number: %%customer_award_log_id%%</h4>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h1>You have won £5</h1>
 [/vc_column_text][/vc_column][/vc_row]
