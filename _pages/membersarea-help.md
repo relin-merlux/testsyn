@@ -62,14 +62,5 @@ lotto_visible_to_user:
 <div class="col-sm-6 topSpace">[help_panels]</div>
 <div class="col-sm-6 topSpace calaffix">[memberarea_contact_form]</div>
 <script>// <![CDATA[
-jQuery(document).ready(function () {
-jQuery(window).resize(function () {
-        jQuery('.affix').width(jQuery('.calaffix').width());
-    });
-});
-jQuery(document).ready(function () {
-jQuery(window).load(function () {
-        jQuery('.affix').width(jQuery('.calaffix').width());
-    });
-});
+jQuery(document).ready(function () { jQuery(window).resize(function () { jQuery('.affix').width(jQuery('.calaffix').width()); }); }); jQuery(document).ready(function () { jQuery(window).load(function () { jQuery('.affix').width(jQuery('.calaffix').width()); }); });
 // ]]></script>
