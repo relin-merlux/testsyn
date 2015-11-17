@@ -57,4 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][icon_counter border_size="0" border_color="#a4a4a4" icon="Defaults-beer" icon_size="32" icon_color="#ffffff" icon_style="circle" block_title_front="CARD 1" block_desc_front="Is this your lucky card?" block_title_back="Try again" block_desc_back="No luck here try another card" ult_param_heading=""][/vc_column][/vc_row]
+[vc_row][vc_column][icon_counter border_size="0" border_color="#e91248" icon="Defaults-beer" icon_size="32" icon_color="#e91248" icon_style="circle" text_color="#ffffff" bg_color="#e91248" block_title_front="CARD 1" block_desc_front="Is this your lucky card?" block_title_back="Try again" block_desc_back="No luck here try another card" ult_param_heading=""][/vc_column][/vc_row]
