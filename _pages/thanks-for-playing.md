@@ -62,6 +62,6 @@ lotto_visible_to_user:
 <h4 class="game_desc" style="text-align: center;">Play number: %%customer_award_log_id%%</h4>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text css_animation="appear"]
 <h1 class="game_result">You have won <span class="win_cash">£5</span></h1>
-To cashout your winnings go to your <a href="/membersarea-account">account page</a>[/vc_column_text][vc_column_text css_animation="appear"]
+To cashout your winnings go to your <a href="/membersarea-account">account page</a>[/vc_column_text][space height="20"][vc_column_text css_animation="appear"]
 <h1 class="game_result">You have won <span class="win_rwp">500 reward points</span></h1>
-To cashout your winnings go to your <a href="/membersarea-account">account page</a>[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image source="external_link" external_img_size="300x300" external_style="vc_box_rounded" css_animation="top-to-bottom" custom_src="http://placehold.it/300x300" css=".vc_custom_1447753753045{margin-bottom: 10px !important;}"][/vc_column][/vc_row]
+Spend your reward points in your <a href="/shop">store page</a>[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image source="external_link" external_img_size="300x300" external_style="vc_box_rounded" css_animation="top-to-bottom" custom_src="http://placehold.it/300x300" css=".vc_custom_1447753753045{margin-bottom: 10px !important;}"][/vc_column][/vc_row]
