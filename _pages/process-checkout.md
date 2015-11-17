@@ -55,17 +55,15 @@ slide_template:
 lotto_reg_form:
   - 'no'
 ---
-<div class="spinner"><div></div></div>
+<div class="spinner"></div>
 <div class="loadShow">
 
-[lotto-social-payment-processor]</div>
+[lotto-social-payment-processor]
 
-<style>
-.loadShow {display: none;}
-</style>
-<script>
+</div>
+<script>// <![CDATA[
 $(window).load(function() {
   $(".spinner").hide();
 $(".loadShow").fadeIn();
 });
-</script>
+// ]]></script>
