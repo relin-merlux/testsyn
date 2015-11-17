@@ -8,7 +8,7 @@ post_date: 2015-10-30 15:15:38
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/find-out-more/
+  http://www.ecommerce.lotto-social.com/find-out-more-about-our-spa-competition/
 published: true
 ulp_version:
   - "4.9"
