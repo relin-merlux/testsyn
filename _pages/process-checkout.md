@@ -62,8 +62,5 @@ lotto_reg_form:
 
 </div>
 <script>// <![CDATA[
-$(window).load(function() {
-  $(".spinner").hide();
-$(".loadShow").fadeIn();
-});
+$(window).load(function() { $(".spinner").hide(); $(".loadShow").fadeIn(); });
 // ]]></script>
