@@ -76,7 +76,7 @@ lotto_reg_form:
 <div class="form-group"><a class="btn btn-success btn-block free_reg_submit ladda-button" data-style="expand-right">JOIN NOW</a></div>
 </div>
 </div>
-<div class="col-lg-12 tl home_terms">By signing up, you agree to <a href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.</div>
+<div class="col-lg-12 tl">By signing up, you agree to <a class="home_terms" href="/terms-and-conditions-for-lottery-syndicate-service" target="_blank">Terms</a> and <a class="home_terms" href="/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy</a> policy.</div>
 </div>
 &nbsp;
 <div id="captchaFreeReg" class="captchaFreeReg hidden">
