@@ -55,7 +55,7 @@ lotto_reg_form:
   - 'no'
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1446200405994{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1446200422348{margin-bottom: 0px !important;}"][parallax height="450" image="http://www.ecommerce.lotto-social.com/wp-content/uploads/hm_bg_01.jpg" font_p="24" effect="fadeInDown"]
-<h2 class="headingtl col-lg-10 col-lg-offset-1" style="text-shadow: 0px 2px 3px rgba(0, 0, 0, 1);">More chances of winning <span id="text-rotating">Rewards</span></h2>
+<h2 class="headingtl col-lg-10 col-lg-offset-1">More chances of winning <span id="text-rotating">Rewards</span></h2>
 <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1 specificBannertl">
 <div class="promotionForm">
 <div class="main_content">
