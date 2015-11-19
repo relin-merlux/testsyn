@@ -117,43 +117,43 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 	<li>Guaranteed entry with proof of purchase</li>
 </ul>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css_animation="appear"]
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="align_center"][vc_column_text css_animation="appear"]
 <div id="circ-icons_wrapper">
-<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
+<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/67706608-ico2_02d05k02d0240000002.png" alt="More lines, more chances" /></div>
 </div>
 [/vc_column_text][vc_column_text css_animation="bottom-to-top"]
-<h3 class="align_center">NEVER MISS A DRAW</h3>
+<h3 class="align_center">MORE LINES, MORE CHANCES</h3>
 <div class="box-content">
 <ul>
-	<li>Play in every EuroMillions and Lotto draw</li>
-	<li>No more journeys to the newsagent</li>
-	<li>Guaranteed entry with proof of purchase</li>
+	<li>Spread your chances of winning multi-million jackpots at a fraction of the cost</li>
+	<li>Play as many lines as your want. It’s up to you!</li>
+	<li>Guest Lotteries</li>
 </ul>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css_animation="appear"]
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="align_center"][vc_column_text css_animation="appear"]
 <div id="circ-icons_wrapper">
-<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
+<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/cdfd97ef-ico3_02d05k02d02a0000001.png" alt="Mobile ready" /></div>
 </div>
 [/vc_column_text][vc_column_text css_animation="bottom-to-top"]
-<h3 class="align_center">NEVER MISS A DRAW</h3>
+<h3 class="align_center">MOBILE READY</h3>
 <div class="box-content">
 <ul>
-	<li>Play in every EuroMillions and Lotto draw</li>
-	<li>No more journeys to the newsagent</li>
-	<li>Guaranteed entry with proof of purchase</li>
+	<li>Full members access from your smartphone</li>
+	<li>Jackpot text alerts</li>
+	<li>Post Office cashout via mobile</li>
 </ul>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text css_animation="appear"]
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="align_center"][vc_column_text css_animation="appear"]
 <div id="circ-icons_wrapper">
-<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
+<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/36ae33c7-ico4_02d05k01y01y0090062.png?bfcb1a" alt="Never miss a draw" /></div>
 </div>
 [/vc_column_text][vc_column_text css_animation="bottom-to-top"]
-<h3 class="align_center">NEVER MISS A DRAW</h3>
+<h3 class="align_center">MORE THAN JUST LOTTERY</h3>
 <div class="box-content">
 <ul>
-	<li>Play in every EuroMillions and Lotto draw</li>
-	<li>No more journeys to the newsagent</li>
-	<li>Guaranteed entry with proof of purchase</li>
+	<li>Multiple ways to win</li>
+	<li>Instant win games</li>
+	<li>Prize Draws &amp; Giveaways</li>
 </ul>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1446035696576{margin-bottom: 0px !important;}"][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
