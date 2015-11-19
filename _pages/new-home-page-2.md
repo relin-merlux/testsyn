@@ -109,7 +109,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 <div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
 </div>
 [/vc_column_text][vc_column_text]
-<h3 class="aligncenter">NEVER MISS A DRAW</h3>
+<h3 class="align_center">NEVER MISS A DRAW</h3>
 <div class="box-content">
 <ul>
 	<li>Play in every EuroMillions and Lotto draw</li>
