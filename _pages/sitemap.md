@@ -1,15 +1,15 @@
 ---
-ID: 740
+ID: 128
 post_title: Sitemap
-author: olu
-post_date: 2014-06-06 09:21:19
+author: Olu
+post_date: 2013-11-11 13:26:50
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.ecommerce.lotto-social.com/sitemap/
 published: true
 slide_template:
-  - default
+  - ""
 vc_teaser:
   - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
 ulp_version:
@@ -56,26 +56,7 @@ ulp_onidle_popup_mobile:
   - default
 lotto_reg_form:
   - 'no'
+lotto_visible_to_user:
+  - all
 ---
-[vc_row][vc_column width="1/3"][vc_column_text]
-<ul class="menu-bar ">
-	<li><a href="http://www.ecommerce.lotto-social.com/">Home</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/about/">About</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/how-it-works/">How it works</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/pricing/">Pricing</a></li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
-<ul class="menu-bar">
-	<li><a href="http://www.ecommerce.lotto-social.com/shop/">Shop</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/product/awards-point/">Award Points</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/wishlist/view/">Views</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/lottery-results-for-lotto-and-euromillions/">Lottery Results for Lotto and Euromillions</a></li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
-<ul class="menu-bar">
-	<li><a href="http://www.ecommerce.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/">Term and Conditions for Lottery Syndicate Membership</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership/"> Enter Detail for Lottery Syndicate Membership</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/login/">Login</a></li>
-	<li><a href="http://www.ecommerce.lotto-social.com/unsubscriber/"> Unsubcriber</a></li>
-</ul>
-[/vc_column_text][/vc_column][/vc_row]
+[vc_row][vc_column][sitemap title="Sitemap"][/vc_column][/vc_row]
