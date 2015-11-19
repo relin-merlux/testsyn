@@ -104,9 +104,9 @@ lotto_reg_form:
 Visit our store to find a wide range of lottery product,prizes draw or games. The sky is the limit![/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text css_animation="appear"]
 <p style="text-align: center; font-size: 25px; font-weight: 900;"><span style="color: #2f76d1;">Play in our syndicates and never forget to buy a lottery ticket again</span>
 <span style="color: #2f76d1;">Plus you keep 100% of your winnings!</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" el_class="aligncenter"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4" el_class="align_center"][vc_column_text]
 <div id="circ-icons_wrapper">
-<div class="circ-icons circ-icons-child"><img class="aligncenter" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
+<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/38b53857-ico1_02004q01x01s0030002.png" alt="Never miss a draw" /></div>
 </div>
 [/vc_column_text][vc_column_text]
 <h3 class="aligncenter">NEVER MISS A DRAW</h3>
