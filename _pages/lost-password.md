@@ -6,7 +6,7 @@ post_date: 2015-11-02 09:52:00
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/lost_password/
+  http://www.ecommerce.lotto-social.com/lost-password/
 published: true
 ulp_version:
   - "4.9"
