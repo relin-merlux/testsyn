@@ -110,11 +110,13 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 </div>
 [/vc_column_text][vc_column_text]
 <h3>NEVER MISS A DRAW</h3>
+<div class="box-content">
 <ul>
 	<li>Play in every EuroMillions and Lotto draw</li>
 	<li>No more journeys to the newsagent</li>
 	<li>Guaranteed entry with proof of purchase</li>
 </ul>
+</div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row css=".vc_custom_1446035696576{margin-bottom: 0px !important;}"][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css_animation="right-to-left"]
 <p style="text-align: right;"><a href="/how-it-works/">Learn More <img class="alignnone size-medium wp-image-5110" style="margin-left: 5px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="Learn More" width="10" height="10" /></a></p>
