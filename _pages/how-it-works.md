@@ -56,6 +56,8 @@ lotto_page_redirect:
   - 'no'
 lotto_reg_form:
   - 'no'
+lotto_free_registration_step:
+  - test
 ---
 [vc_row][vc_column][vc_column_text css=".vc_custom_1446042258920{margin-top: 38px !important;margin-bottom: 38px !important;}"]
 <h1 style="color: #2f76d2; font-size: 25px; text-align: center;"><strong>MORE CHANCES. <span style="color: #ca2835;">MORE PRIZES. </span>MORE REWARDS.</strong></h1>
