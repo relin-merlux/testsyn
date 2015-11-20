@@ -65,7 +65,7 @@ lotto_free_registration_step:
 <h3>Enter your email to receive our best offers directly in your email and be part of our prize competitions!</h3>
 <div class="text-left"><label>Enter email address</label>
 <input id="free_reg_email" name="free_reg_email" type="text" placeholder="Enter email address" />
-<input id="free_reg_email_reenter" name="free_reg_email_reenter" style="display:none; type="text" placeholder="Enter re-email address" />
+<input id="free_reg_email_reenter" name="free_reg_email_reenter" style="display:none; type="text" placeholder="Re-email address" />
 <p id="" class="invalidError"></p>
 </div>
 <a class="btn btn-success btn-lg free_reg_step3 ladda-button" data-style="expand-right">SUBMIT</a>
