@@ -66,7 +66,7 @@ lotto_free_registration_step:
 <div class="text-left"><label>Enter email address</label>
 <input id="free_reg_email" name="free_reg_email" type="text" placeholder="Enter email address" />
 <p id="" class="invalidError"></p>
-
+<input id="free_reg_email_reenter" name="free_reg_email_reenter" style="display:none; type="text" placeholder="Enter email address" />
 </div>
 <a class="btn btn-success btn-lg free_reg_step3 ladda-button" data-style="expand-right">SUBMIT</a>
 
