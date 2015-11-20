@@ -56,6 +56,8 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - logged
+lotto_tracking_page_id:
+  - "9"
 ---
 <div class="spinner"></div>
 <div class="loadShow">[ordered_items_success]</div>
