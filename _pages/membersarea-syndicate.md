@@ -58,6 +58,8 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - logged
+lotto_tracking_page_id:
+  - "2"
 ---
 [vc_row el_class="row memberNew pagesynd"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/2" el_class="col-sm-6"][vc_column_text]
 <div id="ticketWrapper">[my_syndicates]</div>
