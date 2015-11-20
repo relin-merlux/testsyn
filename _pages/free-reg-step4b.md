@@ -58,6 +58,10 @@ lotto_reg_form:
   - 'no'
 lotto_free_registration_step:
   - free-reg-step4b
+lotto_visible_to_user:
+  - logged
+lotto_tracking_page_id:
+  - "13"
 ---
 <div class="free-registration 4b">
 <div class="welcom-4b-page text-center">
