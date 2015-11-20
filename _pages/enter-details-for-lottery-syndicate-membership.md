@@ -58,6 +58,8 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - all
+lotto_tracking_page_id:
+  - "8"
 ---
 <div class="row">
 <div class="col-lg-9 col-md-9">
@@ -74,12 +76,7 @@ lotto_visible_to_user:
 </div>
 <!----------------------------------Added By Mukesh Patil -->
 <script>// <![CDATA[
-                function closeMe()
-                {
-                    $("#directdebit").css({ 'display' : 'none' });
-                    $("#directdebit").css({ 'opacity' : 1.0 });
-                }
-            
+function closeMe() { $("#directdebit").css({ 'display' : 'none' }); $("#directdebit").css({ 'opacity' : 1.0 }); }
 // ]]></script>
 <div id="directdebit" class="modal fade" style="display: none;" tabindex="-1">
 <div class="modal-dialog">
@@ -121,8 +118,12 @@ I‘m a new customer</label></div>
 <div id="Section_Payment"><input id="TP1" name="TP1" type="hidden" value="" />
 <input id="TP2" name="TP2" type="hidden" value="" />
 <h3 class="tc blue visible-xs"><strong>Spend less</strong> &amp; get <strong>MORE CHANCES</strong> to win the biggest Jackpots in our lottery syndicates!</h3>
-<div class="form-group row"><label class="col-lg-12 hidden-xs control-label label-left" for="inputFName">Name</label>
-<div class="col-sm-4 col-xs-4 spacetwofieldvertical"><select id="title" class="form-control" name="title">
+<div class="form-group row">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputFName">Name</label>
+<div class="col-sm-4 col-xs-4 spacetwofieldvertical">
+
+<select id="title" class="form-control" name="title">
 <option value="">Title</option>
 <option value="Mr">Mr</option>
 <option value="Mrs">Mrs</option>
@@ -132,30 +133,44 @@ I‘m a new customer</label></div>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
 </div>
 <!-- ############################# Author: Syed Shabeer Date/Time: Thursday, 21 Aug 2014 04:35 PM IST Description: Added space after dropdown for mobile device Podio/BH URL: https://podio.com/marketingcrazecom/bugs/apps/bh-lotto-social/items/661 ############################# -->
-<div class="col-sm-4 col-xs-7 spacetwofieldvertical col-sm-offset-0 col-xs-offset-1"><input id="inputFName" class="form-control" name="firstname" type="text" value="" placeholder="First Name" />
+<div class="col-sm-4 col-xs-7 spacetwofieldvertical col-sm-offset-0 col-xs-offset-1">
+
+<input id="inputFName" class="form-control" name="firstname" type="text" value="" placeholder="First Name" />
 <div id="inputFName_em" class="error" style="color: red; display: none;"></div>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
 </div>
-<div class="col-sm-4 col-xs-12 spacetwofieldvertical"><input id="inputLName" class="form-control" name="lastname" type="text" value="" placeholder="Last Name" />
+<div class="col-sm-4 col-xs-12 spacetwofieldvertical">
+
+<input id="inputLName" class="form-control" name="lastname" type="text" value="" placeholder="Last Name" />
 <div id="inputLName_em" class="error" style="color: red; display: none;"></div>
 <div class="tooltip static">This is the tooltip about this field</div>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
 </div>
 </div>
-<div id="enter_email_pop" class="form-group row" style="overflow: visible;"><label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Email</label>
-<div class="col-lg-12"><input id="inputEmail1" class="form-control" name="pay_from_email" type="email" value="" placeholder="Enter Email Address" />
+<div id="enter_email_pop" class="form-group row" style="overflow: visible;">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Email</label>
+<div class="col-lg-12">
+
+<input id="inputEmail1" class="form-control" name="pay_from_email" type="email" value="" placeholder="Enter Email Address" />
 <div id="inputEmail1_em" class="error" style="color: red; display: none;"></div>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
 </div>
 </div>
-<div id="reenter_email_pop" class="form-group row" style="display: none;"><label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Re-enter Email</label>
-<div class="col-lg-12"><input id="inputEmail2" class="form-control" name="pay_from_email_reenter" type="email" value="" placeholder="Re-enter Email Address" />
+<div id="reenter_email_pop" class="form-group row" style="display: none;">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Re-enter Email</label>
+<div class="col-lg-12">
+
+<input id="inputEmail2" class="form-control" name="pay_from_email_reenter" type="email" value="" placeholder="Re-enter Email Address" />
 <div id="inputEmail1_em" class="error" style="color: red; display: none;"></div>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
 </div>
 </div>
 <!--Added by Kamelesh Savaliya for Podio 756 on 10/06/2014 -->
-<div id="mobileDiv" class="form-group row" style="overflow: visible;"><label class="col-lg-12 hidden-xs control-label label-left" for="inputMobile">Mobile</label>
+<div id="mobileDiv" class="form-group row" style="overflow: visible;">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputMobile">Mobile</label>
 <div class="col-lg-12"><input id="inputMobile" class="form-control" maxlength="12" name="phone_number" type="tel" placeholder="Enter Mobile Number" />
 <label id="phone_number_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
@@ -194,7 +209,9 @@ I confirm that I am at least 16 years old and that I have read, understood and a
 </div>
 <!-----Start MSN_PIN_Div------>
 <div id="Section_Msn" style="display: none;">
-<div class="form-group row" style="overflow: visible;"><label class="col-lg-12 hidden-xs control-label label-left" for="inputPin">MSN PIN Number</label>
+<div class="form-group row" style="overflow: visible;">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputPin">MSN PIN Number</label>
 <div class="col-lg-12"><input id="MsnPin" class="form-control" name="MSN_PIN_form" type="pin" value="" placeholder="Enter MSN PIN number" />
 <label id="pin_number_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none;"></label>
 <div class="formtip alert-danger hidden">This is the tooltip about this field</div>
@@ -212,7 +229,9 @@ I confirm that I am at least 16 years old and that I have read, understood and a
 <div class="col-lg-12"><input id="return_customer_msn" class="form-control" maxlength="12" name="return_customer_msn" type="tel" placeholder="Enter Mobile Number" />
 <label id="return_customer_msn_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
-<div class="form-group row"><label class="col-lg-12 hidden-xs control-label label-left" for="password">Password</label>
+<div class="form-group row">
+
+<label class="col-lg-12 hidden-xs control-label label-left" for="password">Password</label>
 <div class="col-lg-12"><input id="return_customer_pwd" class="form-control" name="return_customer_pwd" type="password" placeholder="Enter Password" />
 <label id="return_customer_pwd_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
