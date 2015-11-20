@@ -58,6 +58,10 @@ lotto_reg_form:
   - 'yes'
 lotto_free_registration_step:
   - free-reg-social
+lotto_visible_to_user:
+  - logged
+lotto_tracking_page_id:
+  - "11"
 ---
 <div class="free-registration social-reg">
 <div class="welcom-social-reg-page text-center">
