@@ -75,7 +75,7 @@ lotto_reg_form:
                 <input type="hidden" id="_wpnonce" name="_wpnonce" value="00b49eda77">
                 <input type="hidden" name="_wp_http_referer" value="/">
                 <input type="button" class="button button-login" onclick="return customValidation();" name="login" value="Login">
-                <p class="lost_password"> <a href="http://www.ecommerce.lotto-social.com/my-account/lost-password/"> Lost password? </a> </p>
+                <p class="lost_password"> <a href="/forgotten-password/"> Lost password? </a> </p>
                 <!-- <label for="rememberme" class="inline">
                                                         <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> --> 
               </div>
