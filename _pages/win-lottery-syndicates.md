@@ -77,13 +77,9 @@ lotto_visible_to_user:
 	<li>%%description_3%%</li>
 </ul>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#00a651" css=".vc_custom_1448291927434{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;}"][vc_column width="1/2" offset="vc_col-md-6"][vc_column_text]
-<p style="font-size: 60px; color: #ffffff; font-weight: bold; text-align: center; padding-top: 7px;"><span style="font-size: 35px; vertical-align: top;">%%currency%%</span>%%price%%</p>
+<p style="font-size: 60px; color: #ffffff; font-weight: bold; text-align: center; padding-top: 7px;"><span style="font-size: 35px; vertical-align: top;">£</span>8</p>
 
-<h5 style="color: #ffffff; font-weight: bold; text-align: center; margin-top: -20px;">%%frequency%%</h5>
-[/vc_column_text][vc_column_text]
-<p style="font-size: 60px; color: #ffffff; font-weight: bold; text-align: center; padding-top: 7px;"><span style="font-size: 35px; vertical-align: top;">%%currency%%</span>%%price%%</p>
-
-<h5 style="color: #ffffff; font-weight: bold; text-align: center; margin-top: -20px;">%%frequency%%</h5>
+<h5 style="color: #ffffff; font-weight: bold; text-align: center; margin-top: -20px;">ONE-OFF</h5>
 [/vc_column_text][/vc_column][vc_column width="1/2" offset="vc_col-md-6"][vc_column_text el_class="borderLeftGreen" css=".vc_custom_1448291800351{padding-left: 10px !important;}"]Included in this offer:
 <ul>
 	<li>%%description_1%%</li>
