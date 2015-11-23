@@ -66,26 +66,7 @@ lotto_visible_to_user:
 <p class="jackpot-title" style="font-weight: 600;">NEXT LOTTO JACKPOT</p>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
-[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<div class="bgGreen padding-xs">
-<div class="row">
-<div class="col-xs-4 tc">
-<h2>£8.00</h2>
-one off
-
-</div>
-<div class="col-xs-8 borderLeftGreen"><!--
-<h4>80 EuroMillions entries</h4>
--->
-<ul>
-	<li>20 Sat Lotto + 20 Fri EuroMillions</li>
-	<li>Plus 20 Raffle Entries for each draw</li>
-	<li>Only £8 one-off</li>
-</ul>
-</div>
-</div>
-</div>
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1446035696576{margin-bottom: 0px !important;}"][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
+[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row css=".vc_custom_1446035696576{margin-bottom: 0px !important;}"][vc_column][services items="5327,5326,5324,5317" excerpt_length="100" show_services_button="0" animate="pulse"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text css_animation="right-to-left"]
 <p style="text-align: right;"><a href="/how-it-works/">Learn More <img class="alignnone size-medium wp-image-5110" style="margin-left: 5px;" src="http://www.ecommerce.lotto-social.com/wp-content/uploads/9af01c51-two3961.png" alt="Learn More" width="10" height="10" /></a></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1403946168199{margin-bottom: 25px !important;}"][vc_column][box_title subtitle_font_size="6" font_size="30" border_color="#b7b7b7" animate="fadeIn"]Don't take our words for granted . This is what our customers say[/box_title][/vc_column][/vc_row][vc_row][vc_column][testimonial items="3" cat="0" style="comic" animate="flipInX"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_color_value="#eaeaea" css=".vc_custom_1445595837760{margin-bottom: 0px !important;}"][vc_column][space height="30"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1446027448455{margin-left: 2em !important;}"]<strong style="font-size: 18px;">Do you want to try out the service? Join the <span style="color: #00a651;">7 days FREE</span> trial plan!</strong>
