@@ -71,7 +71,7 @@ lotto_tracking_page_id:
 </div>
 <div class="col-sm-9 test1">
 <div class="row">
-<div class="col-sm-6 form-group specialFpd"><input id="free_reg_msn" class="form-control" name="free_reg_msn" type="tel" placeholder="Enter mobile number" data-toggle="tooltip" data-html="true" data-original-title="• Your mobile will be your login&lt;br&gt;• Quick and easy for account security&lt;br&gt;• View tickets from mobile or desktop" /></div>
+<div class="col-sm-6 form-group specialFpd"><input id="free_reg_msn" class="form-control whiteTooltip" name="free_reg_msn" type="tel" placeholder="Enter mobile number" data-toggle="tooltip" data-html="true" data-original-title="• Your mobile will be your login&lt;br&gt;• Quick and easy for account security&lt;br&gt;• View tickets from mobile or desktop" /></div>
 <div class="col-sm-6 form-group specialFpd"><input id="free_reg_pwd" class="form-control whiteTooltip" title="" name="free_reg_pwd" type="password" placeholder="Choose a password" data-toggle="tooltip" data-html="true" data-original-title="• Enter at least 6 characters&lt;br&gt;• No special characters allowed&lt;br&gt;• You can change your password later" /></div>
 </div>
 </div>
