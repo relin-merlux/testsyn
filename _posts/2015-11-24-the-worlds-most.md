@@ -8,7 +8,7 @@ post_date: 2015-11-24 14:39:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/the-worlds-most-amazing-dining-experiences-2/
+  http://www.ecommerce.lotto-social.com/the-worlds-most/
 published: true
 ulp_version:
   - "4.9"
