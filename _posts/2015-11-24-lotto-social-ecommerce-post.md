@@ -6,7 +6,7 @@ post_date: 2015-11-24 14:28:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/lotto-social-ecommerce/
+  http://www.ecommerce.lotto-social.com/lotto-social-ecommerce-post/
 published: true
 ulp_version:
   - "4.9"
