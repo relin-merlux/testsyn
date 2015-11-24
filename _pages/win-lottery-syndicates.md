@@ -57,14 +57,16 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1448300591154{margin-top: 20px !important;margin-bottom: 10px !important;}"][vc_column][box_title font_size="30" border_color="#b7b7b7"]THIS INCLUDES[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/4"][list_bullet icon_color="#2f76d1"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text el_class="banner-container"][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1448300591154{margin-top: 20px !important;margin-bottom: 10px !important;}"][vc_column][box_title font_size="30" border_color="#b7b7b7"]THIS INCLUDES[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/3"][list_bullet icon_color="#2f76d1"]
 <ul>
 	<li>20 Sat Lotto + 20 Fri EuroMillions</li>
 	<li>Plus 20 Raffle Entries for each draw</li>
 	<li>Only £8 one-off</li>
 </ul>
-[/list_bullet][/vc_column][vc_column width="1/4"][vc_column_text]<span class="price"><span class="price_currency">£</span>8</span>
-<span class="price_frequency">ONE-OFF</span>[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
+[/list_bullet][/vc_column][vc_column width="1/6"][vc_column_text css=".vc_custom_1448365663502{margin-top: 15px !important;}"]
+<p class="price"><span class="price_currency">£</span>8</p>
+<p class="price_frequency">ONE-OFF</p>
+[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" css=".vc_custom_1445970564476{padding-top: 35px !important;padding-bottom: 35px !important;}" bg_color_value="#f2f2f2"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
