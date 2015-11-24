@@ -1,8 +1,6 @@
 ---
 ID: 5853
-post_title: >
-  The worlds most amazing dining
-  experiences
+post_title: 'The world&#8217;s most amazing dining experiences'
 author: Nicolo
 post_date: 2015-08-18 12:22:44
 post_excerpt: ""
