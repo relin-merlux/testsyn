@@ -1,7 +1,7 @@
 ---
 ID: 6623
 post_title: >
-  The world’s most amazing dining
+  The world most amazing dining
   experiences
 author: Olu
 post_date: 2015-11-24 14:39:48
