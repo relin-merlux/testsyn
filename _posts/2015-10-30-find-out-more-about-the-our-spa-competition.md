@@ -1,8 +1,6 @@
 ---
 ID: 5880
-post_title: >
-  Find out more about our spa
-  competition…
+post_title: 'Find out more about our spa competition&#8230;'
 author: Nicolo
 post_date: 2015-10-30 15:15:38
 post_excerpt: ""
