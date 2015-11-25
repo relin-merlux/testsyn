@@ -63,18 +63,18 @@ lotto_reg_form:
             <form method="post" class="login">
               <div class="form-group">
                 <label for="login_mobile"> Mobile Number <span class="required">*</span></label>
-                <input type="text" class="form-control" name="login_mobile" id="login_mobile" value="">
-                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl"></label>
+                <input type="text" class="form-control" name="login_mobile" id="login_mobile_login" value="">
+                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl_login" id="mobile_errorlbl"></label>
               </div>
               <div class="form-group">
                 <label for="login_password"> Password <span class="required">*</span></label>
-                <input class="form-control" type="password" name="login_password" id="login_password">
-                <label for="login_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl"></label>
+                <input class="form-control" type="password" name="login_password" id="login_password_login">
+                <label for="login_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl_login"></label>
               </div>
               <div class="form-group">
                 <input type="hidden" id="_wpnonce" name="_wpnonce" value="00b49eda77">
                 <input type="hidden" name="_wp_http_referer" value="/">
-                <input type="button" class="button button-login" onclick="return customValidation();" name="login" value="Login">
+                <input type="button" class="button button-login" onclick="return customValidation('login');" name="login" value="Login">
                 <p class="lost_password"> <a href="/forgotten-password/"> Lost password? </a> </p>
                 <!-- <label for="rememberme" class="inline">
                                                         <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> --> 
