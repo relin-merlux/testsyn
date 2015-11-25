@@ -57,7 +57,7 @@ How do you fancy a little R&amp;R on us? This month we’re running a fab member
 
 <strong>HOW TO ENTER…</strong>
 
-To enter this fab competition you just need to <a href="http://www.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">login</a> to the members area and check your winnings and <a href="https://www.facebook.com/LottoSocial" target="_blank">LIKE us on facebook</a> between now and the 15th September 2015.
+To enter this fab competition you just need to <a href="/login/" target="_blank">login</a> to the members area and check your winnings and <a href="https://www.facebook.com/LottoSocial" target="_blank">LIKE us on facebook</a> between now and the 15th September 2015.
 
 <strong>DOUBLE THE FUN, DOUBLE THE ENTRIES!</strong>
 
