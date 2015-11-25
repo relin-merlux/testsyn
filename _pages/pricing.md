@@ -66,7 +66,7 @@ to buy late</p>
 
 <div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/">JOIN NOW</a></div>
 </div>
-[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1448371800364{margin-bottom: 15px !important;}"][vc_column_text css=".vc_custom_1445947508317{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
+[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1448371800364{margin-bottom: 15px !important;}"][vc_column_text css=".vc_custom_1448473113371{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #d4d4d4 !important;border-right-color: #d4d4d4 !important;border-top-color: #d4d4d4 !important;border-bottom-color: #d4d4d4 !important;}"]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
 <p style="text-align: center;"><strong style="color: #2f76d1; background: #EBEBEB; display: block; font-size: 20px; padding: 15px 0px;">STARTER</strong></p>
 <p style="font-size: 60px; color: #2b77d3; font-weight: bold; text-align: center;"><span style="font-size: 35px; vertical-align: top;">£</span>5</p>
@@ -80,7 +80,7 @@ Friday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
 
-<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
+<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/win-lottery-syndicates?OL=8&amp;TP1=&amp;TP2=&amp;IP=&amp;Prosub_ID=2279">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1448371879610{margin-bottom: 15px !important;}"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
@@ -102,7 +102,7 @@ Friday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
 
-<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
+<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #00A651!important; border-radius: 5px;" href="/win-lottery-syndicates?OL=8&amp;TP1=&amp;TP2=&amp;IP=&amp;Prosub_ID=2280">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4"][vc_column_text]
 <div style="border: 2px solid #d4d4d4; border-radius: 3px;">
@@ -118,7 +118,7 @@ Wednesday &amp; Saturday</p>
 <p style="color: #636362; background: #EBEBEB; text-align: center; padding: 15px; margin-bottom: 15px;">Entry into the £300 monthly
 prize draw</p>
 
-<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/offer">JOIN NOW</a></div>
+<div class="button-container" style="padding: 0px 20px 20px;"><a class="btn btn-alternative" style="background: #2F76D2 !important; border-radius: 5px;" href="/win-lottery-syndicates?OL=8&amp;TP1=&amp;TP2=&amp;IP=&amp;Prosub_ID=2281">JOIN NOW</a></div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][box_title subtitle="All members also get:" subtitle_font_size="15" font_size="30" border_color="#b7b7b7"]THAT'S NOT ALL[/box_title][/vc_column][/vc_row][vc_row el_class="features 6 tab list" el_id="feat_tabs"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_01.png" title="EXCLUSIVE OFFERS" title_size="h4"]All members have access to exclusive offers and lotteries in the members area[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_02.png" title="PRIZE DRAWS" title_size="h4"]We have a wide range of prizes to be won by members from spa days and trips around the world[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_03.png" title="BONUS CREDIT" title_size="h4"]Convert your small wins to bonus credit and get 4x your cash win to buy more lottery lines[/box_section][/vc_column][/vc_row][vc_row el_class="features 6 tab list"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_04.png" title="REWARD POINTS" title_size="h4"]Collect reward points and spend on exclusive items in the store[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_05.png" title="GAMES" title_size="h4"]Get lucky with our instant win and skill games to win even more[/box_section][/vc_column][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/feat_06.png" title="ONE CLICK CHECKER" title_size="h4"]We can check all your tickets at once! Save time and effort with one simple click[/box_section][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="full" bg_color_value="#eaeaea" css=".vc_custom_1446554033364{padding-top: 25px !important;padding-bottom: 25px !important;}"][vc_column width="1/3"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
