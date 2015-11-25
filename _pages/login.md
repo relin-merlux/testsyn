@@ -64,7 +64,7 @@ lotto_reg_form:
               <div class="form-group">
                 <label for="login_mobile"> Mobile Number <span class="required">*</span></label>
                 <input type="text" class="form-control" name="login_mobile" id="login_mobile_login" value="">
-                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl_login" id="mobile_errorlbl"></label>
+                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl_login"></label>
               </div>
               <div class="form-group">
                 <label for="login_password"> Password <span class="required">*</span></label>
