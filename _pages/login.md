@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]Welcome back[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448561471214{background-color: #dcdcdc !important;}"][vc_column_text]
+[vc_row][vc_column][vc_column_text]Welcome back[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448561546766{padding: 20px !important;background-color: #dcdcdc !important;}"][vc_column_text]
 
 <form class="login-form"><input id="nome" class="form-control" type="mobile" autofocus="" placeholder="Enter mobile number" />
 <input id="senha" class="form-control" type="password" placeholder="Enter password" /></form>
