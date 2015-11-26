@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448561732553{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #eaeaea !important;}"][vc_column_text]
+[vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448561732553{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #eaeaea !important;}"][vc_column_text css=".vc_custom_1448561858912{margin-bottom: 15px !important;}"]
 <p style="text-align: center;">Welcome back</p>
 [/vc_column_text][vc_column_text]
 
@@ -68,4 +68,4 @@ lotto_reg_form:
 </label></div>
 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">LOGIN</button>
 
-Forgot your password? <a class="forgot-password" href="#">Click here</a>[/vc_column_text][box_title font_size="14" border_color="#cdcdcd" css=".vc_custom_1448561296145{margin-top: 20px !important;margin-bottom: 20px !important;}"]or login with[/box_title][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]<button class="btn btn-lg btn-facebook btn-block">Facebook</button>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]<button class="btn btn-lg btn-gmail btn-block">Gmail</button>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
+Tip: your password may include uppercase and lowercase characters (LOTTO is different from lotto)[/vc_column_text][box_title font_size="14" border_color="#cdcdcd" css=".vc_custom_1448561296145{margin-top: 20px !important;margin-bottom: 20px !important;}"]or login with[/box_title][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]<button class="btn btn-lg btn-facebook btn-block">Facebook</button>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]<button class="btn btn-lg btn-gmail btn-block">Gmail</button>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3"][vc_column_text]Forgot your password? <a class="forgot-password" href="#">Click here</a>[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
