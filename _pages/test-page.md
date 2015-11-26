@@ -57,3 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
+<a href="onLoad="return ulp_open('cQKgtD4VvoWAOwPv');""></a>
