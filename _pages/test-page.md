@@ -11,7 +11,7 @@ published: true
 ulp_version:
   - "4.9"
 ulp_onload_mode:
-  - every-time
+  - default
 ulp_onload_period:
   - "5"
 ulp_onload_delay:
@@ -19,9 +19,9 @@ ulp_onload_delay:
 ulp_onload_close_delay:
   - "0"
 ulp_onload_popup:
-  - BB1zlw4GdOagOmdB
+  - default
 ulp_onload_popup_mobile:
-  - BB1zlw4GdOagOmdB
+  - default
 ulp_onexit_mode:
   - default
 ulp_onexit_period:
