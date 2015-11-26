@@ -61,7 +61,7 @@ To enter this fab competition you just need to <a href="/login/" target="_blank"
 
 <strong>DOUBLE THE FUN, DOUBLE THE ENTRIES!</strong>
 
-But hey we’ve got even more great news for our <a href="http://www.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">members</a>, to receive double the chance of winning this exclusive spa break, you just need to give us a short testimonial and a snazzy snap of yourself!
+But hey we’ve got even more great news for our <a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">members</a>, to receive double the chance of winning this exclusive spa break, you just need to give us a short testimonial and a snazzy snap of yourself!
 
 &nbsp;
 
