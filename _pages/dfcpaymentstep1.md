@@ -90,7 +90,9 @@ lotto_free_registration_step:
 <div id="Step1" style="display: block;">
 <div class="row">
 <div class="col-lg-12 form-group">
-<div class="row"><label class="col-xs-12 control-label" for="lblBankSortCode"><strong>Bank sort code</strong></label>
+<div class="row">
+
+<label class="col-xs-12 control-label" for="lblBankSortCode"><strong>Bank sort code</strong></label>
 <div class="col-xs-3"><!--<input type="text" id="txtSortCode1" maxlength="2" placeholder="" value="" class="form-control selectFirstField" onKeyPress="return checkNumber(event)">-->
 <input id="txtSortCode1" class="form-control selectFirstField" maxlength="2" type="text" value="" placeholder="" /></div>
 <div class="col-xs-1 tc">-</div>
@@ -102,22 +104,28 @@ lotto_free_registration_step:
 </div>
 </div>
 <div class="col-lg-12 form-group">
-<div class="row"><label id="lblAccNumber" class="col-sm-12 control-label" for="inputBankAccNumber"><strong>Account Number</strong></label>
+<div class="row">
+
+<label id="lblAccNumber" class="col-sm-12 control-label" for="inputBankAccNumber"><strong>Account Number</strong></label>
 <div class="col-xs-11"><input id="txtAccountNumber" class="form-control" maxlength="20" type="text" value="" placeholder="Enter Account Number" /></div>
 </div>
 </div>
 <div class="col-lg-12 form-group">
-<div class="row"><label class="col-sm-12 control-label" for="inputBankHolderName"><strong>Bank Holder Name</strong></label>
+<div class="row">
+
+<label class="col-sm-12 control-label" for="inputBankHolderName"><strong>Bank Holder Name</strong></label>
 <div class="col-xs-11"><input id="txtBankHolderName" class="form-control" type="text" value="<?php echo $_REQUEST['Acc_name']; ?>" placeholder="Enter Bank Holder Name" /></div>
 </div>
 </div>
 <div class="form-group">
-<div id="dvProceed" class="col-lg-12 tc"><button id="btnProceed" class="col-lg-12 btn-next" type="button">Proceed</button></div>
+<div id="dvProceed" class="col-lg-12 tc"><button id="btnProceed" onClick="return OpenStep2()" class="col-lg-12 btn-next" type="button">Proceed</button></div>
 </div>
 </div>
 </div>
 <div id="Step2" style="display: none;">
-<div class="form-group row"><label class="col-xs-12 control-label" for="lblpostCode">Post code</label>
+<div class="form-group row">
+
+<label class="col-xs-12 control-label" for="lblpostCode">Post code</label>
 <div class="col-sm-10 col-xs-9 form-group"><input id="txtBankPostalCode" class="form-control" name="bankPostCode" type="text" value="" placeholder="Enter Postal Code" /></div>
 <div class="col-sm-1 col-xs-2 form-group tr"><img src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2014/06/search-icon.png" alt="lotto-icon" width="31px;" height="34px;" /></div>
 <span id="prepoaddress" style="font-style: italic; font-size: smaller; position: absolute; margin-left: 15px; margin-top: 35px;"></span>
@@ -127,8 +135,12 @@ lotto_free_registration_step:
 </select></div>
 </div>
 </div>
-<div id="Step3" style="display: none;"><label class="col-lg-12 control-label label-left" for="lblPostalAdd">Postal Address</label>
-<div class="row"><label class="col-lg-12 control-label label-left" for="lblPostCode">Address Line 1</label>
+<div id="Step3" style="display: none;">
+
+<label class="col-lg-12 control-label label-left" for="lblPostalAdd">Postal Address</label>
+<div class="row">
+
+<label class="col-lg-12 control-label label-left" for="lblPostCode">Address Line 1</label>
 <div class="col-xs-12 form-group "><input id="txtbankAddLine1" class="form-control" name="txtbankAddLine1" type="text" value="" placeholder="Enter Address Line 1" /></div>
 <label class="col-lg-12 control-label label-left" for="inputBankpostCode">Address Line 2</label>
 <div class="col-xs-12 form-group "><input id="txtbankAddLine2" class="form-control" name="txtbankAddLine2" type="text" value="" placeholder="Enter Address Line 2" /></div>
