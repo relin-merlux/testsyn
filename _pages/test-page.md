@@ -19,9 +19,9 @@ ulp_onload_delay:
 ulp_onload_close_delay:
   - "0"
 ulp_onload_popup:
-  - default
+  - BB1zlw4GdOagOmdB
 ulp_onload_popup_mobile:
-  - default
+  - BB1zlw4GdOagOmdB
 ulp_onexit_mode:
   - default
 ulp_onexit_period:
@@ -57,4 +57,3 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-<a href="onload="return ulp_open('cQKgtD4VvoWAOwPv');"></a>
