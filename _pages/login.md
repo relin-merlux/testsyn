@@ -57,24 +57,15 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-<div id="customer_login" class="row">
-<div class="col-sm-6">
-<h4>Login</h4>
-<form class="login" method="post">
-<div class="form-group"><label for="login_mobile"> Mobile Number <span class="required">*</span></label>
-<input id="login_mobile_login" class="form-control" name="login_mobile" type="text" value="" />
-<label id="mobile_errorlbl_login" class="errorText hidden" for="login_mobile"></label></div>
-<div class="form-group"><label for="login_password"> Password <span class="required">*</span></label>
-<input id="login_password_login" class="form-control" name="login_password" type="password" />
-<label id="password_errorlbl_login" class="errorText hidden" for="login_password"></label></div>
-<div class="form-group"><input id="_wpnonce" name="_wpnonce" type="hidden" value="00b49eda77" />
-<input name="_wp_http_referer" type="hidden" value="/" />
-<input class="button button-login" name="login" type="button" value="Login" />
-<p class="lost_password"><a href="/forgotten-password/"> Lost password? </a></p>
-<!-- <label for="rememberme" class="inline">
-<input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> -->
+[vc_row][vc_column][vc_column_text]
 
-</div>
-<div class="form-group"></div>
-</form></div>
-</div>
+<form class="login-form"><input id="nome" class="form-control" type="mobile" autofocus="" placeholder="Enter mobile number" />
+<input id="senha" class="form-control" type="password" placeholder="Enter password" /></form>
+<div id="remember" class="checkbox"><label>
+<input type="checkbox" value="remember-me" /> Remember me
+</label></div>
+<button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">LOGIN</button>
+
+Forgot your password? <a class="forgot-password" href="#">
+Click here
+</a>[/vc_column_text][/vc_column][/vc_row]
