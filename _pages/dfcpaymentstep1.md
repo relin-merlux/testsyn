@@ -127,7 +127,7 @@ lotto_free_registration_step:
 
 <label class="col-xs-12 control-label" for="lblpostCode">Post code</label>
 <div class="col-sm-10 col-xs-9 form-group"><input id="txtBankPostalCode" class="form-control" name="bankPostCode" type="text" value="" placeholder="Enter Postal Code" /></div>
-<div class="col-sm-1 col-xs-2 form-group tr"><img src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2014/06/search-icon.png" alt="lotto-icon" width="31px;" height="34px;" /></div>
+<div class="col-sm-1 col-xs-2 form-group tr"><img src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2014/06/search-icon.png" alt="lotto-icon" width="31px;" height="34px;" onClick="fetchAddress();" /></div>
 <span id="prepoaddress" style="font-style: italic; font-size: smaller; position: absolute; margin-left: 15px; margin-top: 35px;"></span>
 <label class="col-xs-12 control-label" for="lblAddress">Address</label>
 <div class="col-xs-11 spacetwofieldvertical"><select id="drpAddress" class="form-control" onchange="return OpenStep3()">
