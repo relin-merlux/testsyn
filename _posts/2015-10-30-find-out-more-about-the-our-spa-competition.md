@@ -53,7 +53,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-How do you fancy a little R&amp;R on us? This month we’re running a fab members exclusive <a href="http://www.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">competition</a> for two to win a Spa day with treatment included. This prize is available at <b>40 Locations</b> over the UK with the gorgeous Marriott and Q Hotels. The lucky winner will enjoy a <b>relaxing spa treatment </b>of their choice with a friendly spa professional, they can then enjoy the luxurious facilities at their chosen spa – steam or sauna which do you prefer?
+How do you fancy a little R&amp;R on us? This month we’re running a fab members exclusive <a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">competition</a> for two to win a Spa day with treatment included. This prize is available at <b>40 Locations</b> over the UK with the gorgeous Marriott and Q Hotels. The lucky winner will enjoy a <b>relaxing spa treatment </b>of their choice with a friendly spa professional, they can then enjoy the luxurious facilities at their chosen spa – steam or sauna which do you prefer?
 
 <strong>HOW TO ENTER…</strong>
 
