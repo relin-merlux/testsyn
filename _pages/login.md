@@ -58,28 +58,23 @@ lotto_reg_form:
   - 'no'
 ---
 <div id="customer_login" class="row">
-          <div class="col-sm-6">
-<h4> Login </h4>
-            <form method="post" class="login">
-              <div class="form-group">
-                <label for="login_mobile"> Mobile Number <span class="required">*</span></label>
-                <input type="text" class="form-control" name="login_mobile" id="login_mobile_login" value="">
-                <label for="login_mobile" class="errorText hidden" name="mobile_errorlbl" id="mobile_errorlbl_login"></label>
-              </div>
-              <div class="form-group">
-                <label for="login_password"> Password <span class="required">*</span></label>
-                <input class="form-control" type="password" name="login_password" id="login_password_login">
-                <label for="login_password" class="errorText hidden" name="password_errorlbl" id="password_errorlbl_login"></label>
-              </div>
-              <div class="form-group">
-                <input type="hidden" id="_wpnonce" name="_wpnonce" value="00b49eda77">
-                <input type="hidden" name="_wp_http_referer" value="/">
-                <input type="button" class="button button-login" onclick="return customValidation('login');" name="login" value="Login">
-                <p class="lost_password"> <a href="/forgotten-password/"> Lost password? </a> </p>
-                <!-- <label for="rememberme" class="inline">
-                                                        <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> --> 
-              </div>
-              <div class="form-group"> </div>
-            </form>
+<div class="col-sm-6">
+<h4>Login</h4>
+<form class="login" method="post">
+<div class="form-group"><label for="login_mobile"> Mobile Number <span class="required">*</span></label>
+<input id="login_mobile_login" class="form-control" name="login_mobile" type="text" value="" />
+<label id="mobile_errorlbl_login" class="errorText hidden" for="login_mobile"></label></div>
+<div class="form-group"><label for="login_password"> Password <span class="required">*</span></label>
+<input id="login_password_login" class="form-control" name="login_password" type="password" />
+<label id="password_errorlbl_login" class="errorText hidden" for="login_password"></label></div>
+<div class="form-group"><input id="_wpnonce" name="_wpnonce" type="hidden" value="00b49eda77" />
+<input name="_wp_http_referer" type="hidden" value="/" />
+<input class="button button-login" name="login" type="button" value="Login" />
+<p class="lost_password"><a href="/forgotten-password/"> Lost password? </a></p>
+<!-- <label for="rememberme" class="inline">
+<input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me                                                    </label> -->
+
 </div>
+<div class="form-group"></div>
+</form></div>
 </div>
