@@ -66,4 +66,4 @@ lotto_reg_form:
 </label></div>
 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">LOGIN</button>
 
-Forgot your password? <a class="forgot-password" href="#">Click here</a>[/vc_column_text][box_title font_size="14" border_color="#cdcdcd"]or login with[/box_title][vc_column_text]<button class="btn .btn-lg btn-facebook">Facebook</button>[/vc_column_text][vc_column_text]<button class="btn btn-lg btn-google-plus">Gmail</button>[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
+Forgot your password? <a class="forgot-password" href="#">Click here</a>[/vc_column_text][box_title font_size="14" border_color="#cdcdcd"]or login with[/box_title][vc_column_text]<button class="btn btn-lg btn-facebook">Facebook</button>[/vc_column_text][vc_column_text]<button class="btn btn-lg btn-google-plus">Gmail</button>[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
