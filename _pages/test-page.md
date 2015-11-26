@@ -57,4 +57,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row full_width="stretch_row_content_no_spaces"][vc_column][vc_column_text][ulp id='BB1zlw4GdOagOmdB'][/vc_column_text][/vc_column][/vc_row]
+[ulp id='BB1zlw4GdOagOmdB']
