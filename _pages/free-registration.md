@@ -58,5 +58,7 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - all
+lotto_free_registration_step:
+  - free-registration
 ---
 Free Registration contents comes here
