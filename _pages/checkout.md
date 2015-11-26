@@ -6,7 +6,7 @@ post_date: 2014-05-27 12:46:29
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/checkout-page/
+  http://www.ecommerce.lotto-social.com/checkout/
 published: true
 slide_template:
   - default
