@@ -11,17 +11,17 @@ published: true
 ulp_version:
   - "4.9"
 ulp_onload_mode:
-  - default
+  - every-time
 ulp_onload_period:
   - "5"
 ulp_onload_delay:
-  - "0"
+  - "1"
 ulp_onload_close_delay:
   - "0"
 ulp_onload_popup:
-  - default
+  - cQKgtD4VvoWAOwPv
 ulp_onload_popup_mobile:
-  - default
+  - cQKgtD4VvoWAOwPv
 ulp_onexit_mode:
   - default
 ulp_onexit_period:
@@ -57,4 +57,3 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[ulp id='BB1zlw4GdOagOmdB']
