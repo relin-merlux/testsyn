@@ -57,7 +57,7 @@ lotto_page_redirect:
 lotto_reg_form:
   - 'no'
 ---
-[vc_row][vc_column][vc_column_text]
+[vc_row][vc_column][vc_column_text]Welcome back[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3"][vc_column_text]
 
 <form class="login-form"><input id="nome" class="form-control" type="mobile" autofocus="" placeholder="Enter mobile number" />
 <input id="senha" class="form-control" type="password" placeholder="Enter password" /></form>
@@ -68,4 +68,4 @@ lotto_reg_form:
 
 Forgot your password? <a class="forgot-password" href="#">
 Click here
-</a>[/vc_column_text][/vc_column][/vc_row]
+</a>[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row]
