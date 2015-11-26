@@ -11,7 +11,7 @@ published: true
 ulp_version:
   - "4.9"
 ulp_onload_mode:
-  - default
+  - every-time
 ulp_onload_period:
   - "5"
 ulp_onload_delay:
