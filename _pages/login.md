@@ -59,8 +59,8 @@ lotto_reg_form:
 ---
 [vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448624407395{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #eaeaea !important;}"][vc_column_text]
 
-<form class="login-form"><input id="nome" class="form-control" type="mobile" autofocus="" placeholder="Enter mobile number" />
-<input id="senha" class="form-control" type="password" placeholder="Enter password" /></form>
+<form class="login-form"><input id="mobile" class="form-control" type="mobile" autofocus="" placeholder="Enter mobile number" />
+<input id="password" class="form-control" type="password" placeholder="Enter password" /></form>
 <div id="remember" class="checkbox"><label>
 <input type="checkbox" value="remember-me" /> Remember me
 </label></div>
