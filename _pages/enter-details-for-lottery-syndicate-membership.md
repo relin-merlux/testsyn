@@ -120,7 +120,7 @@ I‘m a new customer</label></div>
 <h3 class="tc blue visible-xs"><strong>Spend less</strong> &amp; get <strong>MORE CHANCES</strong> to win the biggest Jackpots in our lottery syndicates!</h3>
 <div class="form-group row">
 
-<label class="col-lg-12" for="inputFName">Name</label>
+<label class="col-lg-12 hidden-xs control-label label-left" for="inputFName">Name</label>
 <div class="col-sm-4 col-xs-4 spacetwofieldvertical">
 
 <select id="title" class="form-control" name="title">
