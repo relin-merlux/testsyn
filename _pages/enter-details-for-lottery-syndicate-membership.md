@@ -149,7 +149,7 @@ I‘m a new customer</label></div>
 </div>
 <div id="enter_email_pop" class="form-group row" style="overflow: visible;">
 
-<label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Email</label>
+<label class="col-lg-12" for="inputEmail1">Email</label>
 <div class="col-lg-12">
 
 <input id="inputEmail1" class="form-control" name="pay_from_email" type="email" value="" placeholder="Enter Email Address" />
