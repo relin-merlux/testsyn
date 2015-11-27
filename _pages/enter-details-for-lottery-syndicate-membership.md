@@ -149,7 +149,7 @@ I‘m a new customer</label></div>
 </div>
 <div id="enter_email_pop" class="form-group row" style="overflow: visible;">
 
-<label class="col-lg-12 hidden-xs control-label label-left" for="inputEmail1">Email</label>
+<label class="col-lg-12" for="inputEmail1">Email</label>
 <div class="col-lg-12">
 
 <input id="inputEmail1" class="form-control" name="pay_from_email" type="email" value="" placeholder="Enter Email Address" />
@@ -170,7 +170,7 @@ I‘m a new customer</label></div>
 <!--Added by Kamelesh Savaliya for Podio 756 on 10/06/2014 -->
 <div id="mobileDiv" class="form-group row" style="overflow: visible;">
 
-<label class="col-lg-12 hidden-xs control-label label-left" for="inputMobile">Mobile</label>
+<label class="col-lg-12" for="inputMobile">Mobile</label>
 <div class="col-lg-12"><input id="inputMobile" class="form-control" maxlength="12" name="phone_number" type="tel" placeholder="Enter Mobile Number" />
 <label id="phone_number_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
