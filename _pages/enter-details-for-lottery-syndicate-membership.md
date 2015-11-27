@@ -225,15 +225,15 @@ I confirm that I am at least 16 years old and that I have read, understood and a
 <!-- Returning Customer Start -->
 <div id="Section_returningcustomer">
 <div class="form-group row"><!-- id="mobileDiv" use of IP -->
-<label class="col-lg-12 hidden-xs control-label label-left">Mobile</label>
+<label class="col-lg-12">Mobile</label>
 <div class="col-lg-12"><input id="return_customer_msn" class="form-control" maxlength="12" name="return_customer_msn" type="tel" placeholder="Enter Mobile Number" />
-<label id="return_customer_msn_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
+<label id="return_customer_msn_em" class="col-lg-12" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
 <div class="form-group row">
 
-<label class="col-lg-12 hidden-xs control-label label-left" for="password">Password</label>
+<label class="col-lg-12" for="password">Password</label>
 <div class="col-lg-12"><input id="return_customer_pwd" class="form-control" name="return_customer_pwd" type="password" placeholder="Enter Password" />
-<label id="return_customer_pwd_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
+<label id="return_customer_pwd_em" class="col-lg-12" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
 </div>
 <div class="form-group row forgotPassword">
 <div class="col-lg-12 forgotBgColor">
