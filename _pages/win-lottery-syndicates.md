@@ -59,7 +59,7 @@ lotto_visible_to_user:
 lotto_free_registration_step:
   - win-lottery-syndicates
 ---
-[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" bg_color_value="#f2f2f2" el_id="jackpot_tabs"][vc_column][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" bg_color_value="#f2f2f2" el_id="jackpot_tabs"][vc_column width="1/2"][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
@@ -68,7 +68,7 @@ lotto_free_registration_step:
 <p class="jackpot-title" style="font-weight: 600;">NEXT LOTTO JACKPOT</p>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #ff0000; margin: 0px;"><strong><span class="product_price"><span class="amount">£<?php echo round($NextJackpotValues['homelottoJackpot'])?></span></span>M</strong></span></p>
 <p style="margin: 0px;">Draw Date: <?php echo date("d-m-Y", strtotime($NextJackpotValues['NextLottoDrawDate']))?></p>
-[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1448369435424{margin-bottom: 10px !important;}"][vc_column][box_title font_size="20" border_color="#c5c5c5"]Package includes[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/3" offset="vc_col-xs-7"][list_bullet icon_color="#2f76d1"]
+[/box_section][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row css=".vc_custom_1448369435424{margin-bottom: 10px !important;}"][vc_column][box_title font_size="20" border_color="#c5c5c5"]Package includes[/box_title][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/3" offset="vc_col-xs-7"][list_bullet icon_color="#2f76d1"]
 <ul>
 	<li>20 Sat Lotto + 20 Fri EuroMillions</li>
 	<li>Plus 20 Raffle Entries for each draw</li>
