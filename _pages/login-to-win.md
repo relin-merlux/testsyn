@@ -57,7 +57,7 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="ex-full" el_id="jackpot_tabs" bg_color_value="#f2f2f2"][vc_column width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
+[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1448891394996{margin-bottom: 0px !important;}"][vc_column el_class="home-banner-row" css=".vc_custom_1448891330224{margin-bottom: 0px !important;}"][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="ex-full" el_id="jackpot_tabs" bg_color_value="#f2f2f2"][vc_column width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
 <?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
 <p style="margin: 0px; font-size: 50px;"><span style="color: #6699cc;"><strong><span class="product_price"><span class="amount">£</span></span><?php echo round($NextJackpotValues['homeEuroJackpot'])?>M</strong></span></p>
