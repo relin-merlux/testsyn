@@ -26,13 +26,13 @@ ulp_onexit_mode:
 ulp_onexit_period:
   - "5"
 ulp_onexit_popup:
-  - default
+  - ""
 ulp_onexit_popup_mobile:
-  - default
+  - ""
 ulp_onscroll_popup:
-  - default
+  - ""
 ulp_onscroll_popup_mobile:
-  - default
+  - ""
 ulp_onscroll_mode:
   - none
 ulp_onscroll_period:
@@ -46,9 +46,9 @@ ulp_onidle_delay:
 ulp_onidle_period:
   - "5"
 ulp_onidle_popup:
-  - default
+  - ""
 ulp_onidle_popup_mobile:
-  - default
+  - ""
 slide_template:
   - default
 lotto_reg_form:
