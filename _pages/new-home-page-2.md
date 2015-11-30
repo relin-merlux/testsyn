@@ -10,7 +10,7 @@ published: true
 ulp_version:
   - "4.9"
 ulp_onload_mode:
-  - default
+  - none
 ulp_onload_period:
   - "5"
 ulp_onload_delay:
@@ -18,11 +18,11 @@ ulp_onload_delay:
 ulp_onload_close_delay:
   - "0"
 ulp_onload_popup:
-  - default
+  - ""
 ulp_onload_popup_mobile:
-  - default
+  - ""
 ulp_onexit_mode:
-  - default
+  - none
 ulp_onexit_period:
   - "5"
 ulp_onexit_popup:
@@ -34,13 +34,13 @@ ulp_onscroll_popup:
 ulp_onscroll_popup_mobile:
   - default
 ulp_onscroll_mode:
-  - default
+  - none
 ulp_onscroll_period:
   - "5"
 ulp_onscroll_offset:
   - "600"
 ulp_onidle_mode:
-  - default
+  - none
 ulp_onidle_delay:
   - "30"
 ulp_onidle_period:
