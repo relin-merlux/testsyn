@@ -6,7 +6,7 @@ post_date: 2014-06-04 14:01:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ecommerce.lotto-social.com/help/
+  http://www.ecommerce.lotto-social.com/lottery-information-help/
 published: true
 slide_template:
   - default
