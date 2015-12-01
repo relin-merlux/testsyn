@@ -64,7 +64,7 @@ lotto_reg_form:
 <input id="SeparateLoginForm_password" class="form-control" type="password" placeholder="Enter password" />
 <label id="SeparateLoginForm_password_errorlbl" class="errorText hidden" for="login_password"></label>
 <div id="Separateremember" class="checkbox"><label><input type="checkbox" value="remember-me" /> Remember me</label></div>
-<button id="btn-login" class="btn btn-lg btn-ls btn-block ladda-button" type="" data-style="expand-right">LOGIN</button>
+<button id="btn-seperate-login" class="btn btn-lg btn-ls btn-block ladda-button" type="" data-style="expand-right">LOGIN</button>
 
 Tip: your password may include uppercase and lowercase characters (LOTTO is different from lotto)
 <script>// <![CDATA[
