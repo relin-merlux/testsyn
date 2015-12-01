@@ -58,6 +58,6 @@ lotto_visible_to_user:
   - all
 ---
 &nbsp;
-<p style="text-align: center;">Confirm your selection by clicking on the button below</p>
+<p style="text-align: center; background-color: #ffffff;">Confirm your selection by clicking on the button below</p>
 &nbsp;
-<div style="text-align: center;"><button id="redeem-btn" class="btn btn-success ladda-button" href="#"  data-style="expand-right">Redeem <!--<img id="loading" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif" alt="" />--></button></div>
+<div style="text-align: center; background-color: #ffffff;"><button id="redeem-btn" class="btn btn-success ladda-button" href="#"  data-style="expand-right">Redeem <!--<img id="loading" style="display: none;" src="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/04/ajax-loader.gif" alt="" />--></button></div>
