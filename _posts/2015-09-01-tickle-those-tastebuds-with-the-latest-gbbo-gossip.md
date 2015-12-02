@@ -4,7 +4,7 @@ post_title: >
   Tickle those tastebuds with the latest
   GBBO gossip…
 author: Nicolo
-post_date: 2015-12-02 15:44:52
+post_date: 2015-09-01 15:44:52
 post_excerpt: ""
 layout: post
 permalink: >
@@ -53,7 +53,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 ---
 [vc_row][vc_column][vc_column_text]<span style="font-weight: 400;">What’s extremely British and certain to widen our waistlines? It’s no less than Series 6 of The Great British Bake Off! GBBO landed back on our tv screens on the 5th August and we’re so excited to see Paul Hollywood and Mary Berry back and challenging the bakers more than ever. If you won <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">the lottery</a> how would you fancy Paul Hollywood as your personal chef? God we can’t even imagine the indulgence (and the weight gain LOL).</span>
 
