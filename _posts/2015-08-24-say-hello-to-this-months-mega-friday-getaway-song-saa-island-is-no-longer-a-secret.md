@@ -5,7 +5,7 @@ post_title: >
   getaway… Song Saa Island is no longer
   a secret!
 author: Nicolo
-post_date: 2015-12-02 14:17:26
+post_date: 2015-08-24 14:17:26
 post_excerpt: ""
 layout: post
 permalink: >
@@ -54,7 +54,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 ---
 [vc_row][vc_column][vc_column_text]<span style="font-weight: 400;">It’s that time of the month again Ladies &amp; Gents…<a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">Mega FRIDAY</a> is back! This month’s prize is certain to blow your socks off, in addition to landing £1m each, the TEN winners will each receive an exotic break on a private island just off the coast of Cambodia with up to three guests… that’s one way to live like royalty (even if it’s just for a short while). The trip includes travel for the lucky winners from their home to the capital city of Phnom Penh, and private transport to the Sihanoukville port. The secluded six-star Song Saa island resort will be home to our <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">lucky winners </a>for seven nights, imagine dipping your toes into the crystal clear waters of this majestic haven. And did we mention you have your own private two bedroom villa on a full board basis with drinks included… Wow someone’s going to be a little tipsy LOL!</span>
 
