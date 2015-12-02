@@ -9,7 +9,7 @@ post_date: 2015-08-24 14:17:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/say-hello-to-this-months-mega-friday-getaway-song-saa-island-is-no-longer-a-secret/
+  http://www.ecommerce.lotto-social.com/say-hello-to-this-months/
 published: true
 ulp_version:
   - "4.9"
