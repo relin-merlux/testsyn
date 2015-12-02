@@ -53,7 +53,7 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-The rise of the michelin starred restaurants has certainly come on leaps and bounds in the past few years, us Brits all want to boast about the restaurants we’ve dined in, whether it be 1 or 3 michelin stars it’s still something to rave about to your friends. But i guess we all know unless you have top dollar you have no chance of footing the bill in these exquisite eateries. However, if you was to win the Lottery you’d certainly be able to wine and dine in these establishments. This got us thinking here at <a href="/">Lotto-Social HQ</a>, if money was no object where would you desire to dine; we’ve decided to give you a taster of the most extravagant restaurants around the world if you had a millionaire’s budget.
+[vc_row][vc_column][vc_column_text]The rise of the michelin starred restaurants has certainly come on leaps and bounds in the past few years, us Brits all want to boast about the restaurants we’ve dined in, whether it be 1 or 3 michelin stars it’s still something to rave about to your friends. But i guess we all know unless you have top dollar you have no chance of footing the bill in these exquisite eateries. However, if you was to win the Lottery you’d certainly be able to wine and dine in these establishments. This got us thinking here at <a href="/">Lotto-Social HQ</a>, if money was no object where would you desire to dine; we’ve decided to give you a taster of the most extravagant restaurants around the world if you had a millionaire’s budget.
 
 <!--more-->
 
@@ -73,4 +73,4 @@ When you think you’ve heard it all it just gets weirder and weirder, imagine y
 
 <strong>INTERESTING FACT:</strong>
 
-After being heated up in El Diablo you’ll certainly need something to cool you down, look no further we have the Ice Lounge in Dubai – I know a whole restaurant made of ice, I mean how doesn’t it melt?! If you wish to be able to dine in one of these 3 amazing restaurants then you’re going to need to get pretty rich quick – why not join Lotto-Social today, we’ll give you 30 EuroMillions lines for just £1. Don’t miss out we know you’re hungry for it!
+After being heated up in El Diablo you’ll certainly need something to cool you down, look no further we have the Ice Lounge in Dubai – I know a whole restaurant made of ice, I mean how doesn’t it melt?! If you wish to be able to dine in one of these 3 amazing restaurants then you’re going to need to get pretty rich quick – why not join Lotto-Social today, we’ll give you 30 EuroMillions lines for just £1. Don’t miss out we know you’re hungry for it![/vc_column_text][/vc_column][/vc_row]
