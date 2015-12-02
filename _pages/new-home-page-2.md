@@ -115,7 +115,7 @@ Visit our store to find a wide range of lottery product,prizes draw or games. Th
 </div>
 [/vc_column_text][/vc_column][vc_column width="1/4" el_class="serv_tabs"][vc_column_text css_animation="appear"]
 <div id="circ-icons_wrapper">
-<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/36ae33c7-ico4_02d05k01y01y0090062.png?bfcb1a" alt="Never miss a draw" /></div>
+<div class="circ-icons circ-icons-child"><img src="http://www.ecommerce.lotto-social.com/wp-content/uploads/ico4.png?bfcb1a" alt="Never miss a draw" /></div>
 </div>
 [/vc_column_text][vc_column_text css_animation="bottom-to-top"]
 <h3 class="align_center">MORE THAN JUST LOTTERY</h3>
