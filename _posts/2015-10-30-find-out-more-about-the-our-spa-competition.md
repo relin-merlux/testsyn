@@ -53,30 +53,32 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-How do you fancy a little R&amp;R on us? This month we’re running a fab members exclusive <a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">competition</a> for two to win a Spa day with treatment included. This prize is available at <b>40 Locations</b> over the UK with the gorgeous Marriott and Q Hotels. The lucky winner will enjoy a <b>relaxing spa treatment </b>of their choice with a friendly spa professional, they can then enjoy the luxurious facilities at their chosen spa – steam or sauna which do you prefer?
+[vc_row][vc_column][vc_column_text]<span style="font-weight: 400;">How do you fancy a little R&amp;R on us? This month we’re running a fab members exclusive <a href="/win-lottery-syndicates/?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">competition</a> for two to win a Spa day with treatment included. This prize is available at </span><b>40 Locations</b><span style="font-weight: 400;"> over the UK with the gorgeous Marriott and Q Hotels. The lucky winner will enjoy a </span><b>relaxing spa treatment </b><span style="font-weight: 400;">of their choice with a friendly spa professional, they can then enjoy the luxurious facilities at their chosen spa - steam or sauna which do you prefer? </span>
 
-<strong>HOW TO ENTER…</strong>
+<!--more-->
 
-To enter this fab competition you just need to <a href="/login/" target="_blank">login</a> to the members area and check your winnings and <a href="https://www.facebook.com/LottoSocial" target="_blank">LIKE us on facebook</a> between now and the 15th September 2015.
+<strong>HOW TO ENTER...</strong>
+
+<span style="font-weight: 400;">To enter this fab competition you just need to <a href="/win-lottery-syndicates/?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">login</a> to the members area and check your winnings and </span><a href="https://www.facebook.com/LottoSocial" target="_blank"><span style="font-weight: 400;">LIKE us on facebook</span></a><span style="font-weight: 400;"> between now and the 15th September 2015. </span>
 
 <strong>DOUBLE THE FUN, DOUBLE THE ENTRIES!</strong>
 
-But hey we’ve got even more great news for our <a href="http://www.ecommerce.lotto-social.com/enter-details-for-lottery-syndicate-membership?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8" target="_blank">members</a>, to receive double the chance of winning this exclusive spa break, you just need to give us a short testimonial and a snazzy snap of yourself!
+<span style="font-weight: 400;">But hey we’ve got even more great news for our <a href="/win-lottery-syndicates/?OL=8&amp;TP1=HT&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">members</a>, to receive double the chance of winning this exclusive spa break, you just need to give us a short testimonial and a snazzy snap of yourself!</span>
 
-&nbsp;
+<strong><img class="wp-image-372 size-medium" src="http://d9hhrg4mnvzow.cloudfront.net/promo.lotto-social.com/spa-break/15625569-spa-pics.png" alt="" width="353px" /></strong>
 
 <strong>MORE INFO</strong>
 <ul>
-	<li>This voucher is valid for 10 months from the received date.</li>
-	<li>Only available at participating locations including:
+	<li><span style="font-weight: 400;">This voucher is valid for 10 months from the received date.</span></li>
+	<li><span style="font-weight: 400;">Only available at participating locations including:</span>
 <ul>
-	<li>Reading – The Escape Spa</li>
-	<li>Cambridge – Q Hotels</li>
-	<li>Waltham Abbey – Waltham Abbey Marriott Hotel</li>
+	<li><span style="font-weight: 400;">Reading - The Escape Spa</span></li>
+	<li><span style="font-weight: 400;">Cambridge - Q Hotels</span></li>
+	<li><span style="font-weight: 400;">Waltham Abbey - Waltham Abbey Marriott Hotel </span></li>
 </ul>
 </li>
-	<li>Minimum age for participants is 18.</li>
+	<li><span style="font-weight: 400;">Minimum age for participants is 18. </span></li>
 </ul>
 <strong>Login NOW guys, don’t miss out!</strong>
 
-Competition will end on 30th September 2015.  A winner will be selected from those members who log into the members area and check for winnings and members who like our facebook page between now and the 30th September 2015. Please also like and share us if you would like to see more fun and competitions on our social media <a href="https://twitter.com/Lotto_Social?lang=en-gb">Twitter (@Lotto_Social)</a> or <a href="https://www.facebook.com/LottoSocial?fref=ts">Facebook (Lotto Social)</a>
+<span style="font-weight: 400;">Competition will end on 30th September 2015.  A winner will be selected from those members who log into the members area and check for winnings and members who like our facebook page between now and the 30th September 2015. Please also like and share us if you would like to see more fun and competitions on our social media </span><a href="https://twitter.com/Lotto_Social" target="_blank"><span style="font-weight: 400;">Twitter (@Lotto_Social)</span></a><span style="font-weight: 400;"> or </span><a href="https://www.facebook.com/LottoSocial" target="_blank"><span style="font-weight: 400;">Facebook (Lotto Social)</span></a><span style="font-weight: 400;">. </span>[/vc_column_text][/vc_column][/vc_row]
