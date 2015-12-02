@@ -57,9 +57,3 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-<div id="prizeCongratulations" class="row memberNew prizeBreakdownContent">
-<div class="col-lg-10 col-lg-offset-1 whiteBg">
-<h1 class="tc">{%winningsTitle%}</h1>
-<div class="row padding-xs">{%prizeSummeryDetails%}</div>
-</div>
-</div>
