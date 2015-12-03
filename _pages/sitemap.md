@@ -59,4 +59,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[html_sitemap]
+[html_sitemap exclude="4499,4497,4495,4493"]
