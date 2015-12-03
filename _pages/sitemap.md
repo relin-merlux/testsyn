@@ -59,4 +59,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][sitemap][/vc_column][/vc_row]
+[vc_row][vc_column][/vc_column][/vc_row]
