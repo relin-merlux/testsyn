@@ -53,7 +53,9 @@ ulp_onidle_popup_mobile:
 slide_template:
   - default
 ---
-[vc_row][vc_column][vc_column_text]Hitting our screens on the 4th of September was How the rich get hitched - this eccentric documentary boasts some of most lavish wedding dresses on the market all made by the bespoke wedding designer Caroline Castigliano in her boutique in Knightsbridge. Carolines most <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">expensive</a> gowns come in at an eye-watering £40,000! The channel 4 documentary really highlights how much wedding’s have evolved over the years, most women would rather spend more money on making themselves look perfect on the day than any other element of the wedding! Imagine the money you could splash on your wedding if you won the <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">Lottery...</a> Ladies would you splurge on the perfect dress? Gents will you give into those fluttering eyelashes?  <!--more-->
+[vc_row][vc_column][vc_column_text]Hitting our screens on the 4th of September was How the rich get hitched - this eccentric documentary boasts some of most lavish wedding dresses on the market all made by the bespoke wedding designer Caroline Castigliano in her boutique in Knightsbridge. Carolines most <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">expensive</a> gowns come in at an eye-watering £40,000! The channel 4 documentary really highlights how much wedding’s have evolved over the years, most women would rather spend more money on making themselves look perfect on the day than any other element of the wedding! Imagine the money you could splash on your wedding if you won the <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">Lottery...</a> Ladies would you splurge on the perfect dress? Gents will you give into those fluttering eyelashes?
+
+<!--more-->
 
 [caption id="" align="aligncenter" width="320"]<img src="http://news-lotto-social.s3.amazonaws.com/news/wp-content/uploads/2015/09/2B9F94CA00000578-3208761-image-a-51_1440420171967-219x300.jpg" alt="" width="320" height="438" /> Image Source: www.dailymail.co.uk[/caption]
 
@@ -67,6 +69,4 @@ Another one of Caroline’s clients really lapped up her wedding and took two ye
 
 ----------------------------------------------------------------------
 
-<strong>INTERESTING FACT</strong>
-
-One of Caroline’s clients spent £6,000 on her dress including the use of five seamstresses, 200 hours of sewing and £250,000 beads to complete the magnificent garment. I’m sure all you lovely ladies are dreaming of a dress like this - well Lotto-Social can help you out with the finances, <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">get 30 EuroMillions lines for £1 today</a> &amp; who know’s you may win![/vc_column_text][/vc_column][/vc_row]
+<strong>INTERESTING FACT</strong> One of Caroline’s clients spent £6,000 on her dress including the use of five seamstresses, 200 hours of sewing and £250,000 beads to complete the magnificent garment. I’m sure all you lovely ladies are dreaming of a dress like this - well Lotto-Social can help you out with the finances, <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">get 30 EuroMillions lines for £1 today</a> &amp; who know’s you may win![/vc_column_text][/vc_column][/vc_row]
