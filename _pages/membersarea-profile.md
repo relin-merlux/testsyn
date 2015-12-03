@@ -61,4 +61,4 @@ lotto_visible_to_user:
 lotto_tracking_page_id:
   - "3"
 ---
-[vc_row el_class="row memberNew pageProfile"][vc_column width="1/1"][vc_row_inner][vc_column_inner width="1/2" el_class="col-md-3 col-sm-4 tc"][vc_column_text][profile_left_side][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" el_class="col-md-9 col-sm-8"][vc_column_text][profile_right_side][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
+[vc_row el_class="row memberNew pageProfile"][vc_column][vc_row_inner][vc_column_inner el_class="col-md-3 col-sm-4 tc" width="1/4"][vc_column_text][profile_left_side][/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-md-9 col-sm-8" width="3/4"][vc_column_text][profile_right_side][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
