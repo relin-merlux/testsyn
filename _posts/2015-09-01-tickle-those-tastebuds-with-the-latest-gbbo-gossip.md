@@ -1,8 +1,6 @@
 ---
 ID: 6850
-post_title: >
-  Tickle those tastebuds with the latest
-  GBBO gossip…
+post_title: 'Tickle those tastebuds with the latest GBBO gossip&#8230;'
 author: Nicolo
 post_date: 2015-09-01 15:44:52
 post_excerpt: ""
