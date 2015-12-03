@@ -1,7 +1,7 @@
 ---
 ID: 6855
 post_title: >
-  Shaking it up BIG TIME — The X-Factor
+  Shaking it up BIG TIME. The X-Factor
   2015
 author: Nicolo
 post_date: 2015-09-08 16:03:38
@@ -53,7 +53,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 ---
 [vc_row][vc_column][vc_column_text]<span style="font-weight: 400;">Well it’s official we know christmas isn’t that far away anymore if the <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">X-Factor</a> has begun...Saturday the 29th August marked the first day of Auditions for the X-Factor 2015. This time round there’s certainly some changes to be talked about, for starters the beloved Dermot O'Leary has left the show after a grand 8 years of hosting and has been replaced by Caroline Flack and Olly Murs, this is certainly a controversial change to say the least.</span>
 
