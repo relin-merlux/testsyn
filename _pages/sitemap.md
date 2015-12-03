@@ -9,7 +9,7 @@ permalink: >
   http://www.ecommerce.lotto-social.com/sitemap/
 published: true
 slide_template:
-  - ""
+  - default
 vc_teaser:
   - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
 ulp_version:
@@ -59,4 +59,4 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-[vc_row][vc_column][sitemap title="Sitemap"][/vc_column][/vc_row]
+[vc_row][vc_column][/vc_column][/vc_row]
