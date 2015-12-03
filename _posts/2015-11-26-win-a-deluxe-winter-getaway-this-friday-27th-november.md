@@ -57,6 +57,8 @@ slide_template:
 ---
 [vc_row][vc_column][vc_column_text]Oh what a perfect time for you to stop by my lovely lottery lovers... it's Mega Friday 27th November! There will be not just 1 but <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2277">5 UK millionaires</a>, all winning an unforgettable Christmas. And not to mention the £17M jackpot up for grabs.
 
+<!--more-->
+
 The 5 lucky winners will land £1M as well as a range of fantastic bonuses to complete the ultimate Christmas day including a HUGE xmas hamper containing all the goods needed for the most deluxe Christmas dinner and £10,000 cash to splash on prezzies for the family! But they will also be jetting off for a perfect <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2277">Winter getaway to either Lapland or New York</a>, that white Christmas you've always dreamt of may be closer than you think! Both destinations allow the winner to bring 3 guests along on their magical trip and will consist of a luxury 3 night stay!
 
 <strong>Why Lapland?</strong>
