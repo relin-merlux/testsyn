@@ -4,7 +4,7 @@ post_title: >
   How the super rich are taking over the
   online property industry
 author: Nicolo
-post_date: 2015-12-03 15:39:38
+post_date: 2015-09-22 15:39:38
 post_excerpt: ""
 layout: post
 permalink: >
@@ -53,7 +53,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 ---
 [vc_row][vc_column][vc_column_text]There has been a sudden influx amongst the wealthy to invest in a second and even third property, whether it’s rented or bought, they’re still buying, buying, buying!. If you won the lottery would you spend your winnings on a luxurious pad abroad?! The biggest in the industry are Airbnb with a huge property database booming with the most luxurious real estate in the world
 
