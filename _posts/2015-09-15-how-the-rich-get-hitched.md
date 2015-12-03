@@ -1,6 +1,6 @@
 ---
 ID: 6862
-post_title: How the rich get hitched…
+post_title: How the rich get hitched
 author: Nicolo
 post_date: 2015-09-15 16:50:31
 post_excerpt: ""
@@ -51,7 +51,7 @@ ulp_onidle_popup:
 ulp_onidle_popup_mobile:
   - default
 slide_template:
-  - default
+  - ""
 ---
 [vc_row][vc_column][vc_column_text]Hitting our screens on the 4th of September was How the rich get hitched - this eccentric documentary boasts some of most lavish wedding dresses on the market all made by the bespoke wedding designer Caroline Castigliano in her boutique in Knightsbridge. Carolines most <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">expensive</a> gowns come in at an eye-watering £40,000! The channel 4 documentary really highlights how much wedding’s have evolved over the years, most women would rather spend more money on making themselves look perfect on the day than any other element of the wedding! Imagine the money you could splash on your wedding if you won the <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2090&amp;a_bid=9f7cc6b8">Lottery...</a> Ladies would you splurge on the perfect dress? Gents will you give into those fluttering eyelashes?
 
