@@ -6,7 +6,7 @@ post_date: 2015-09-21 17:48:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ecommerce.lotto-social.com/olu-test/
+  http://www.ecommerce.lotto-social.com/choices-choices-choices-where-will-you-be-jetting-off-to-this-mega-friday/
 published: true
 ulp_version:
   - "4.9"
