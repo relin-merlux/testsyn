@@ -1,7 +1,7 @@
 ---
 ID: 6942
 post_title: >
-  What will you buy with the £101M
+  What will you buy with the 101M
   EuroMillions Jackpot?!
 author: Nicolo
 post_date: 2015-11-16 13:18:15
