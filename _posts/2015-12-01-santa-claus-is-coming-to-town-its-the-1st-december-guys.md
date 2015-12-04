@@ -55,6 +55,8 @@ slide_template:
 ---
 [vc_row][vc_column][vc_column_text]Christmas is just round the corner my <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2257&amp;a_bid=dc7c5227">lovely lottery lovers</a> and we thought it'd be fun to show you some of the most extravagant luxuries around at this time of the year. I guess if you do win the lottery this week it would only be right to have a right royal affair for the family this crimbo.
 
+<!--more-->
+
 So lets kick things off with a classic...The almighty advent calendar! It is the <a href="/win-lottery-syndicates/?OL=8&amp;TP1=blog&amp;TP2=&amp;IP=&amp;Prosub_ID=2257&amp;a_bid=dc7c5227">festive season</a> and we all know the first thing we do when it hits December 1st, open up the first door of course to see what's in store - I guess we're all still big kids at heart. How about this year you try an advent calendar a little out of the ordinary of your usual choccy filled one! Harrod's are stocking a £9,000 advent calendar, but sorry to tell you guys they'll be no chocolate behind the doors this year (probably good for the waistline anyways LOL). However, this calendar has 24 delightful ornaments behind each door and you certainly won't want to get rid after december 25th, this baby will be worth a fortune in years to come!
 
 <img class="aligncenter" src="http://2.bp.blogspot.com/-_dUw02JUeng/VlxjYknhiZI/AAAAAAAAAHI/8kwZcKBzK9A/s1600/Screen%2BShot%2B2015-11-30%2Bat%2B14.36.17.png" alt="" border="0" />
