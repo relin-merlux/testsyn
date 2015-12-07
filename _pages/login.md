@@ -59,7 +59,7 @@ lotto_reg_form:
 ---
 [vc_row][vc_column width="1/3"][/vc_column][vc_column width="1/3" el_class="login_panel" css=".vc_custom_1448624407395{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #eaeaea !important;}"][vc_column_text]
 
-<form class="login-form"><label for="mobilelabel">Enter mobile number*</label>
+<form class="login-form"><label style="font-size: 15px;" for="mobilelabel">Enter mobile number*</label>
 <input id="SeparateLoginForm_mobile" class="form-control" type="mobile" placeholder="Enter mobile number" /> <label id="SeparateLoginForm_mobile_errorlbl" class="errorText hidden" for="login_mobile"></label></form><label for="passwordlable">Enter password*</label>
 <input id="SeparateLoginForm_password" class="form-control" type="password" placeholder="Enter password" />
 <label id="SeparateLoginForm_password_errorlbl" class="errorText hidden" for="login_password"></label>
