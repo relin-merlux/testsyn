@@ -63,7 +63,7 @@ lotto_visible_to_user:
 lotto_tracking_page_id:
   - "16"
 ---
-[vc_row el_class="row memberNew"][vc_column][vc_row_inner][vc_column_inner el_class="col-lg-12"][vc_column_text][limb_msg][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner el_class="col-sm-6 tc" width="1/2"][vc_column_text][dashboard_slider][/vc_column_text][vc_column_text el_class="visible-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="hidden-xs"][dashboard_playing_in][/vc_column_text][vc_column_text]
+[vc_row el_class="row memberNew"][vc_column][vc_row_inner][vc_column_inner el_class="col-lg-12"][vc_column_text][limb_msg][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="row"][vc_column_inner el_class="col-sm-6 tc" width="1/2"][vc_column_text][dashboard_slider][/vc_column_text][vc_column_text el_class="visible-xs"][have_you_got_a_voucher_mobile][/vc_column_text][vc_column_text el_class="visible-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="hidden-xs"][dashboard_playing_in][/vc_column_text][vc_column_text]
 <div id="blogcontent" class="col-lg-12 whiteBg padding-xs">
 <div class="blogimage" style="position: relative;">
 
@@ -72,4 +72,4 @@ lotto_tracking_page_id:
 </a></div>
 </div>
 </div>
-[/vc_column_text][vc_column_text el_class="hidden-xs"][have_you_got_a_voucher_desktop][/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-sm-6 tc" width="1/2"][vc_column_text][spend_your_bouns][/vc_column_text][vc_column_text][next_events][/vc_column_text][vc_column_text el_class="hidden-xs"][result_euro_lotto][/vc_column_text][vc_column_text el_class="visible-xs"][have_you_got_a_voucher_mobile][/vc_column_text][vc_column_text][dashboard_your_offers][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
+[/vc_column_text][vc_column_text el_class="hidden-xs"][have_you_got_a_voucher_desktop][/vc_column_text][/vc_column_inner][vc_column_inner el_class="col-sm-6 tc" width="1/2"][vc_column_text][spend_your_bouns][/vc_column_text][vc_column_text][next_events][/vc_column_text][vc_column_text el_class="hidden-xs"][result_euro_lotto][/vc_column_text][vc_column_text][dashboard_your_offers][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
