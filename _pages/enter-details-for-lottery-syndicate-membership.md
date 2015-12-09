@@ -164,7 +164,7 @@ lotto_tracking_page_id:
 
                             <label class="col-lg-12" for="inputMobile">Mobile</label>
                             <div class="col-lg-12"><input id="inputMobile" class="form-control" maxlength="12" name="phone_number" type="tel" placeholder="Enter Mobile Number" />
-                                <label id="phone_number_em" class="col-lg-12 hidden-xs control-label label-left" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
+                                <label id="phone_number_em" class="col-lg-12" style="color: red; display: none; font-weight: normal; padding: 0;"></label></div>
                         </div>
                         <div id="spoof-msn-error" class="form-group row hide"><label class="col-lg-12" style="color: red; text-align: center;"> </label></div>
                         <div id="divExistEmailNewEmail" class="form-group row" style="display: none;">
