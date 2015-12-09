@@ -194,7 +194,7 @@ lotto_tracking_page_id:
                                         I confirm that I am at least 16 years old and that I have read, understood and accepted the <a style="text-decoration: underline;" href="http://www.lotto-social.com/terms-and-conditions-for-lottery-syndicate-service/" target="_blank">Terms</a> and <a style="text-decoration: underline;" href="http://www.lotto-social.com/privacy-policy-for-lottery-syndicate-members/" target="_blank">Privacy Policy</a>. </label></div>
                             </div>
                         </div>
-                        <button id="gotofinalbtn" class="btn btn-block btn-success btn-next" type="button">Go to final step</button>
+                        <button id="gotofinalbtn" onclick="return ValidatePaymentForm()" class="btn btn-block btn-success btn-next" type="button">Go to final step</button>
                         <input id="Other" name="Other" type="hidden" value="" />
 
                     </div>
