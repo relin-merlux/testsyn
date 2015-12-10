@@ -96,13 +96,7 @@ lotto_reg_form:
 [/vc_column_text][vc_column_text]
 <div id="getting-started"></div>
 <script src="//cdn.rawgit.com/hilios/jQuery.countdown/2.1.0/dist/jquery.countdown.min.js"></script><script type="text/javascript">// <![CDATA[
-   $("#getting-started")
-   .countdown("2016/01/01", function(event) {
-     $(this).text(
-       event.strftime('%D days %H:%M:%S')
-     );
-   });
- 
+$("#getting-started") .countdown("2016/01/01", function(event) { $(this).text( event.strftime('%D days %H:%M:%S') ); });
 // ]]></script>[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]
 <p style="text-align: center; color: #333333;"><strong>NEXT EUROMILLION JACKPOT</strong></p>
 [/vc_column_text][box_section icon_type="custom" icon_url="http://lottosocial.s3.amazonaws.com/cms2/wp-content/uploads/2015/03/euro-Millions.png"]<?php global $NextJackpotValues; $a = do_shortcode('[next_jackpot]'); ?>
