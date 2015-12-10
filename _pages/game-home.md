@@ -56,4 +56,8 @@ lotto_reg_form:
   - 'no'
 lotto_visible_to_user:
   - all
+lotto_disable_menus:
+  - 'no'
+lotto_disable_footer:
+  - 'no'
 ---
