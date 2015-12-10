@@ -59,7 +59,7 @@ lotto_visible_to_user:
 lotto_free_registration_step:
   - win-lottery-syndicates
 lotto_disable_menus:
-  - 'no'
+  - 'yes'
 lotto_disable_footer:
   - 'yes'
 ---
