@@ -59,9 +59,9 @@ lotto_visible_to_user:
 lotto_free_registration_step:
   - win-lottery-syndicates
 lotto_disable_menus:
-  - 'yes'
+  - 'no'
 lotto_disable_footer:
-  - 'yes'
+  - 'no'
 ---
 [vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1445866513929{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1445590407500{margin-bottom: 0px !important;}" el_class="home-banner-row"][vc_column_text][home_banner_ls][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_type="bg_color" bg_override="ex-full" bg_color_value="#f2f2f2" el_id="jackpot_tabs"][vc_column width="1/2"][vc_row_inner css=".vc_custom_1445970309544{background-color: #f2f2f2 !important;}"][vc_column_inner width="1/2"][box_section icon_type="custom" icon_url="http://www.ecommerce.lotto-social.com/wp-content/uploads/euroball.png"]
 <p class="jackpot-title" style="font-weight: 600;">NEXT EUROMILLION JACKPOT</p>
