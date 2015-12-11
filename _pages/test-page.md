@@ -57,11 +57,6 @@ lotto_reg_form:
 lotto_visible_to_user:
   - all
 ---
-<style>
-#logo img,
-.menu {
-    display:none;
-}
-</style>
+
 [ulp id='BB1zlw4GdOagOmdB']
 [forgot_password_shortcode]
