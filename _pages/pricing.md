@@ -55,7 +55,9 @@ slide_template:
 lotto_reg_form:
   - 'no'
 lotto_disable_footer:
-  - 'yes'
+  - 'no'
+lotto_disable_menus:
+  - 'no'
 ---
 [vc_row][vc_column][vc_column_text]
 <h2 style="text-align: center; color: #2f76d2;">Plans built for everyone!</h2>
